@@ -4,30 +4,38 @@ Sprint Challenge: Transport Canada
 Drones Team
 """
 
+import os
 from flask import Flask, render_template
 from flask_googlemaps import GoogleMaps
 from flask_googlemaps import Map
-import geocoder
 import numpy as np
 import pandas as pd
-import config
+is_prod = os.environ.get('IS_HEROKU', None)
 
 # Create a new instance of the Flask class.
 app = Flask(__name__, template_folder=".")
-# you can set key as config
-app.config['GOOGLEMAPS_KEY'] = config.api_key
 
-# Initialize the extension
+# Set API key based on environment.
+if not is_prod:
+  import config
+  app.config['GOOGLEMAPS_KEY'] = config.api_key
+else:
+  app.config['GOOGLEMAPS_KEY'] = os.environ['config.api_key']
+
+
+# Initialize the extension.
 GoogleMaps(app)
 
 # map the URL / to the function mapview()
 @app.route("/")
 def mapview():
+
     # creating a map in the view
     theMap = Map(
         identifier="theMap",
-        lat=43.6532,
-        lng=-79.3832,
+        lat=56.1304,
+        lng=-106.3468,
+        zoom=4,
     )
     # Uses a Flask function to render the home.html template
     return render_template('templates/home.html', theMap=theMap)
@@ -57,6 +65,8 @@ def get_data():
     merged_full.to_csv('data/sprint-data.csv', encoding='utf-8', index=False)
 
 if __name__ == "__main__":
+    # Initialize the geocoder.
+
     get_data()
     # We use run() to run our app on a local server.
     app.run(debug=True)
