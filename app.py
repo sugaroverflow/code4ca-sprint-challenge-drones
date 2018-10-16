@@ -8,7 +8,6 @@ import os
 from flask import Flask, render_template
 from flask_googlemaps import GoogleMaps
 from flask_googlemaps import Map
-import numpy as np
 import pandas as pd
 is_prod = os.environ.get('IS_HEROKU', None)
 
@@ -22,23 +21,23 @@ if not is_prod:
 else:
   app.config['GOOGLEMAPS_KEY'] = os.environ['config.api_key']
 
-
 # Initialize the extension.
 GoogleMaps(app)
 
 # map the URL / to the function mapview()
 @app.route("/")
 def mapview():
-
     # creating a map in the view
-    theMap = Map(
+    gmap = Map(
         identifier="theMap",
         lat=56.1304,
         lng=-106.3468,
-        zoom=4,
     )
+    # Read the data from the csv.
+    data = pd.read_csv('data/merged-data.csv')
+
     # Uses a Flask function to render the home.html template
-    return render_template('templates/home.html', theMap=theMap)
+    return render_template('templates/home.html', theMap=gmap)
 
 def get_data():
     '''
