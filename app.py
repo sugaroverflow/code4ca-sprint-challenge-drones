@@ -7,10 +7,12 @@ Drones Team
 from flask import Flask, render_template
 from flask_googlemaps import GoogleMaps
 from flask_googlemaps import Map
+import geocoder
 import numpy as np
 import pandas as pd
 import config
 
+# Create a new instance of the Flask class.
 app = Flask(__name__, template_folder=".")
 # you can set key as config
 app.config['GOOGLEMAPS_KEY'] = config.api_key
@@ -18,29 +20,17 @@ app.config['GOOGLEMAPS_KEY'] = config.api_key
 # Initialize the extension
 GoogleMaps(app)
 
+# map the URL / to the function mapview()
 @app.route("/")
 def mapview():
     # creating a map in the view
-    myfirstmap = Map(
-        identifier="myfirstmap",
-        lat=37.4419,
-        lng=-122.1419,
-        markers=[
-          {
-             'icon': 'http://maps.google.com/mapfiles/ms/icons/green-dot.png',
-             'lat': 37.4419,
-             'lng': -122.1419,
-             'infobox': "<b>Hello World</b>"
-          },
-          {
-             'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
-             'lat': 37.4300,
-             'lng': -122.1400,
-             'infobox': "<b>Hello World from other place</b>"
-          }
-        ]
+    theMap = Map(
+        identifier="theMap",
+        lat=43.6532,
+        lng=-79.3832,
     )
-    return render_template('templates/index.html', myfirstmap=myfirstmap)
+    # Uses a Flask function to render the home.html template
+    return render_template('templates/home.html', theMap=theMap)
 
 def get_data():
     '''
@@ -68,4 +58,5 @@ def get_data():
 
 if __name__ == "__main__":
     get_data()
+    # We use run() to run our app on a local server.
     app.run(debug=True)

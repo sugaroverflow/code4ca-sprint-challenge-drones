@@ -1,6 +1,12 @@
+certifi==2018.10.15
+chardet==3.0.4
 Click==7.0
+decorator==4.3.0
 Flask==1.0.2
 Flask-GoogleMaps==0.2.6
+future==0.16.0
+geocoder==1.38.1
+idna==2.7
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
@@ -8,5 +14,8 @@ numpy==1.15.2
 pandas==0.23.4
 python-dateutil==2.7.3
 pytz==2018.5
+ratelim==0.1.6
+requests==2.19.1
 six==1.11.0
+urllib3==1.23
 Werkzeug==0.14.1
