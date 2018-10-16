@@ -15,11 +15,11 @@ is_prod = os.environ.get('IS_HEROKU', None)
 app = Flask(__name__, template_folder=".")
 
 # Set API key based on environment.
-if not is_prod:
+if is_prod:
+  app.config['GOOGLEMAPS_KEY'] = os.environ['api_key']
+else:
   import config
   app.config['GOOGLEMAPS_KEY'] = config.api_key
-else:
-  app.config['GOOGLEMAPS_KEY'] = os.environ['config.api_key']
 
 # Initialize the extension.
 GoogleMaps(app)
