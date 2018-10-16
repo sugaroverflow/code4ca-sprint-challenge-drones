@@ -1,0 +1,17 @@
+Click==7.0
+cycler==0.10.0
+Flask==1.0.2
+-e git+https://github.com/rochacbruno/Flask-GoogleMaps@8b1c7c50c04219aac3d58ab5af569933e55ad464#egg=Flask_GoogleMaps
+gunicorn==19.9.0
+itsdangerous==0.24
+Jinja2==2.10
+kiwisolver==1.0.1
+matplotlib==2.2.2
+numpy==1.14.5
+pandas==0.23.1
+pyparsing==2.2.0
+python-dateutil==2.7.3
+pytz==2018.5
+six==1.11.0
+virtualenv==16.0.0
+Werkzeug==0.14.1
