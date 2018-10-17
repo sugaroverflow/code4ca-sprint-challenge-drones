@@ -4,6 +4,7 @@ __pycache__/
 
 # API keys
 config.py
+config.json
 
 
 # Distribution / packaging

@@ -8,6 +8,8 @@ Flask==1.0.2
 Flask-GoogleMaps==0.2.6
 future==0.16.0
 geocoder==1.38.1
+geojson==2.4.0
+gmplot==1.2.0
 google-api-python-client==1.7.4
 google-auth==1.5.1
 google-auth-httplib2==0.0.3
