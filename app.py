@@ -28,9 +28,6 @@ def mapview():
     # Uses a Flask function to render the home.html template
     return render_template('templates/map.html')
 
-
-
-
 def get_data():
     '''
     Read the airports, runway, and frequency CSV files
@@ -120,4 +117,4 @@ if __name__ == "__main__":
 
     # get_data()
     # We use run() to run our app on a local server.
-    # app.run(debug=True)
+    app.run()
