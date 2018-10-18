@@ -138,4 +138,19 @@ header {
   background: solid url('../static/assets/Icons/link%20launch%20icon%402x.png') no-repeat;
 }
 
+.iconadd{
+  display:inline-block ;
+}
+.iconremove{
+  display:none !important;
+}
+
+li.active .collapsible-header .material-icons.iconadd{
+  display: none;
+}
+
+li.active .collapsible-header .material-icons.iconremove{
+  display: inline-block !important;
+}
+
 

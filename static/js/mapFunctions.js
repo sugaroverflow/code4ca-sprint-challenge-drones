@@ -21,7 +21,6 @@ function initMap() {
     }
   });
 
-
   infoWindow = new google.maps.InfoWindow;
     google.maps.event.addListener(map,'click',function() {
         infoWindow.close();
@@ -146,7 +145,6 @@ function renameAirportTypes(airport_type) {
   }
   return airport_type_string;
 }
-
 
 function GeolocationControl(controlDiv, map) {
     var controlUI = document.createElement('div');
