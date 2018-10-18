@@ -19,7 +19,7 @@ app = Flask(__name__, template_folder=".")
 @app.route('/')
 def homeview():
   # initialize
-  get_data()
+  # get_data()
   return render_template('templates/home.html')
 
 # map the URL / to the function mapview()
@@ -53,7 +53,6 @@ def get_data():
     # merge with frequencies
     merged_full = pd.merge(left=merged_inner, right=frq_sub, left_on='id_x', right_on='airport_ref')
     # subset of columns
-    print(merged_full);
     cols = ['id_x', 'type_x', 'name', 'latitude_deg', 'longitude_deg', 'length_ft', 'width_ft', 'surface', 'frequency_mhz']
     merged_sub = merged_full[cols]
     # rename some columns
@@ -121,4 +120,4 @@ if __name__ == "__main__":
 
     # get_data()
     # We use run() to run our app on a local server.
-    app.run(debug=True)
+    # app.run(debug=True)
