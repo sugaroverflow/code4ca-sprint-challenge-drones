@@ -12,31 +12,17 @@ from flask_googlemaps import GoogleMaps
 from flask_googlemaps import Map
 import pandas as pd
 import numpy as np
-is_prod = os.environ.get('IS_HEROKU', None)
 
 # Create a new instance of the Flask class.
 app = Flask(__name__, template_folder=".")
 
-# Set API key based on environment.
-import config
-app.config['GOOGLEMAPS_KEY'] = config.api_key
-
-# Initialize the extension.
-GoogleMaps(app)
-
 # map the URL / to the function mapview()
-@app.route("/map")
+@app.route("/")
 def mapview():
     # initialize
     get_data()
-    # creating a map in the view
-    gmap = Map(
-        identifier="myMap",
-        lat=56.1304,
-        lng=-106.3468,
-    )
     # Uses a Flask function to render the home.html template
-    return render_template('templates/home.html', myMap=gmap)
+    return render_template('templates/home.html')
 
 def get_data():
     '''
@@ -60,11 +46,13 @@ def get_data():
     # merge with frequencies
     merged_full = pd.merge(left=merged_inner, right=frq_sub, left_on='id_x', right_on='airport_ref')
     # subset of columns
-    cols = ['id_x', 'type_x', 'latitude_deg', 'longitude_deg', 'length_ft', 'width_ft', 'surface', 'frequency_mhz']
+    print(merged_full);
+    cols = ['id_x', 'type_x', 'name', 'latitude_deg', 'longitude_deg', 'length_ft', 'width_ft', 'surface', 'frequency_mhz']
     merged_sub = merged_full[cols]
     # rename some columns
     merged_sub = merged_sub.rename(
       columns={
+        'name': 'airport_name',
         'id_x':'airport_id',
         'type_x':'airport_type',
         'latitude_deg':'airport_long',
@@ -107,6 +95,7 @@ def constructGeoJson(json_result_string):
                 'coordinates': [record['airport_lat'], record['airport_long']]
             },
             'properties': {
+              'airport_name': record['airport_name'],
               'airport_id': record['airport_id'],
               'airport_type': record['airport_type'],
               'airport_lat': record['airport_lat'],

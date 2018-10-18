@@ -19,9 +19,8 @@
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">;
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}">
-
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/materialize.css') }}">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <!-- <link rel="icon" type="image/png" href="images/favicon.png"> -->
@@ -29,9 +28,17 @@
     <!-- Scripts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="{{url_for('static', filename='js/materialize.js')}}"></script>
     <script src="{{url_for('static', filename='js/mapFunctions.js')}}"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDh0eB6mkhUYRgfAwwkKuvSbHwpl9HvlIs&callback=initMap&libraries=geometry,places">
+    </script>
     <script type="text/javascript">
-      google.maps.event.addDomListener(window, "load", initMap);
+      $(document).ready(function(){
+        $('select').formSelect();
+        $('.modal').modal();
+        $('.collapsible').collapsible();
+      });
     </script>
   </head>
   <body>

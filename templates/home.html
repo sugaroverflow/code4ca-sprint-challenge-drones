@@ -1,9 +1,47 @@
 {% extends "templates/layout.html" %}
 {% block content %}
-  <div class="row">
-    <div class="twelve columns">
-      <input id="pac-input" class="controls search-bar" type="text" placeholder="Search Box">
-      <div id="myMap"></div>
+  <!-- Icon for Back Button -->
+  <a class="waves-effect waves-light btn-small" id="back-button"><i class="material-icons">arrow_back</i></a>
+  <!-- Icon for the Geo Location -->
+  <a class="btn-floating btn-small waves-effect waves-light" id="geolocate-button"><i class="material-icons">location_searching</i></a>
+  <!-- Search Bar Structure -->
+  <input id="search-input" class="controls" type="text" placeholder="Search By Location or Coordinates">
+  <!-- Help Modal Icon -->
+  <a class="waves-effect waves-light btn-floating modal-trigger" id="help-button" href="#help-modal"><i class="material-icons">help</i></a>
+  <!-- Help Modal Structure -->
+  <div id="help-modal" class="modal">
+    <div class="modal-header">
+      <!-- Icon for Back Button -->
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat" id="close-button"><i class="material-icons">close</i></a>
     </div>
+    <div class="modal-content">
+      <h4>Help using this map</h4>
+      <ul class="collapsible">
+         <li>
+           <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>What do the circles mean?</div>
+           <div class="collapsible-body">
+            <p>"No Fly Zones"</p><span class="no-fly-icon"></span>
+            <span>You need to get permission to fly in a NO FLY ZONE.</span>
+          </div>
+         </li>
+         <li>
+           <div class="collapsible-header">How do I use the map?</div>
+           <div class="collapsible-body">
+            Lorem ipsum dolor sit amet.
+           </div>
+         </li>
+         <li>
+           <div class="collapsible-header">What are the regulations for flying drones?</div>
+           <div class="collapsible-body">
+            Lorem ipsum dolor sit amet.
+           </div>
+         </li>
+       </ul>
+       <div class="modal-footer">
+          <p><a class="help-center-link"> Visit our Help centre</a></p>
+        </div>
+     </div>
   </div>
+  <!-- Map Canvas -->
+  <div id="myMap"></div>
 {% endblock %}

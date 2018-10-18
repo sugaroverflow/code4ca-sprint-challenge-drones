@@ -3,8 +3,7 @@ __pycache__/
 *.py[cod]
 
 # API keys
-config.py
-config.js
+config.env
 
 
 # Distribution / packaging
