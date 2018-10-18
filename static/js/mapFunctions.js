@@ -71,7 +71,7 @@ function initMap() {
     initAutocomplete(input, searchBox, map);
   }
 
-  map.data.loadGeoJson('static/data/data-smaller.json');
+  map.data.loadGeoJson('static/data/dataset.json');
 }
 
 function drawCircleOverlays(map, feature) {
