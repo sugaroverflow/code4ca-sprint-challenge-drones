@@ -1,50 +1,7 @@
 {% extends "templates/layout.html" %}
 {% block content %}
-  <!-- Icon for Back Button -->
-  <a class="waves-effect waves-light btn-small" id="back-button" href="/"><i class="material-icons">arrow_back</i></a>
-  <!-- Icon for the Geo Location -->
-  <div class="fixed-action-btn" id ="geolocate-button">
-    <a class="btn-floating btn-small waves-effect waves-light"><i class="material-icons">location_searching</i></a>
-  </div>
-  <!-- Search Bar Structure -->
-  <div id="search-bar"><input id="search-input" class="controls" type="text" placeholder="Search By Location or Coordinates"></div>
-  <!-- Help Modal Icon -->
+  <h1> Welcome to this awesome map!</h1>
 
-  <a class="waves-effect waves-light btn-floating btn-small modal-trigger" id="help-button" href="#help-modal"><i class="material-icons">help_outline</i></a>
-  <!-- Help Modal Structure -->
-  <div id="help-modal" class="modal">
-    <div class="modal-header">
-      <!-- Icon for Back Button -->
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat" id="close-button"><i class="material-icons">close</i></a>
-    </div>
-    <div class="modal-content">
-      <h4>Help using this map</h4>
-      <ul class="collapsible">
-         <li>
-           <div class="collapsible-header"><i class="material-icons iconadd">arrow_drop_down</i><i class="material-icons iconremove">arrow_drop_up</i>What do the circles mean?</div>
-           <div class="collapsible-body">
-            <p>"No Fly Zones"</p><span class="no-fly-icon"></span>
-            <span>You need to get permission to fly in a NO FLY ZONE.</span>
-          </div>
-         </li>
-         <li>
-           <div class="collapsible-header"><i class="material-icons iconadd">arrow_drop_down</i><i class="material-icons iconremove">arrow_drop_up</i>How do I use the map?</div>
-           <div class="collapsible-body">
-            Lorem ipsum dolor sit amet.
-           </div>
-         </li>
-         <li>
-           <div class="collapsible-header"><i class="material-icons iconadd">arrow_drop_down</i><i class="material-icons iconremove">arrow_drop_up</i>What are the regulations for flying drones?</div>
-           <div class="collapsible-body">
-            Lorem ipsum dolor sit amet.
-           </div>
-         </li>
-       </ul>
-       <div class="modal-footer">
-          <p><a class="help-center-link"> Visit our Help centre</a></p>
-        </div>
-     </div>
-  </div>
-  <!-- Map Canvas -->
-  <div id="myMap"></div>
+  <a class="waves-effect waves-light btn" href="/map"><i class="material-icons right">cloud</i>Go to map</a>
+
 {% endblock %}

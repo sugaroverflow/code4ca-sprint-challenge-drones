@@ -16,13 +16,20 @@ import numpy as np
 # Create a new instance of the Flask class.
 app = Flask(__name__, template_folder=".")
 
+@app.route('/')
+def homeview():
+  # initialize
+  get_data()
+  return render_template('templates/home.html')
+
 # map the URL / to the function mapview()
-@app.route("/")
+@app.route("/map")
 def mapview():
-    # initialize
-    get_data()
     # Uses a Flask function to render the home.html template
-    return render_template('templates/home.html')
+    return render_template('templates/map.html')
+
+
+
 
 def get_data():
     '''

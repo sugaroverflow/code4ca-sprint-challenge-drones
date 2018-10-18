@@ -62,7 +62,7 @@ header {
   text-align: left;;
 }
 .modal-header {
-  font-size: 15px;
+  font-size: 22px;
   color: #0B4974;
   font-weight: 400;
 }
@@ -70,6 +70,12 @@ header {
   font-size: 13px;
   font-weight: 400;
 }
+
+.modal-content > .title {
+  color: #0B4974;
+  font-size: 15px;
+  font-style: italic;
+ }
 
 #close-button {
   float: right;
@@ -140,9 +146,11 @@ header {
 
 .iconadd{
   display:inline-block ;
+  margin-top: 10px;
 }
 .iconremove{
   display:none !important;
+  margin-top: 10px;
 }
 
 li.active .collapsible-header .material-icons.iconadd{
@@ -153,4 +161,7 @@ li.active .collapsible-header .material-icons.iconremove{
   display: inline-block !important;
 }
 
+.fixed-action-btn {
+  padding-right: 14px;
+ }
 

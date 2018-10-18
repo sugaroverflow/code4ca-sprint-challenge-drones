@@ -1,80 +1,79 @@
 
 var map, infoWindow;
 
-
 function initMap() {
   var myLatLng = {lat: 56.1304, lng: -106.3468};
+  infoWindow = new google.maps.InfoWindow;
+
   map = new google.maps.Map(document.getElementById('myMap'), {
     zoom: 4,
     center: myLatLng,
     fullscreenControl: false,
     streetViewControlOptions: {
-      position: google.maps.ControlPosition.BOTTOM_RIGHT
+      position: google.maps.ControlPosition.RIGHT_BOTTOM
     },
     mapTypeControlOptions: {
-      style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+      style: google.maps.MapTypeControlStyle.DROPDOWN,
       mapTypeIds: ['roadmap', 'satellite', 'terrain'],
-      position: google.maps.ControlPosition.BOTTOM_RIGHT
+      position: google.maps.ControlPosition.RIGHT_BOTTOM
     },
     zoomControlOptions: {
       position: google.maps.ControlPosition.RIGHT_BOTTOM
     }
   });
 
-  infoWindow = new google.maps.InfoWindow;
-    google.maps.event.addListener(map,'click',function() {
-        infoWindow.close();
-    });
 
-    // build those damn circles
-    map.data.setStyle(function(feature) {
-        var color = 'FF0000';
-        var symbol = '%E2%80%A2';  // dot
+  // Style markers
+  map.data.setStyle(function(feature) {
+      var color = 'FF0000';
+      var symbol = '%E2%80%A2';  // dot
 
-        return /** @type {google.maps.Data.StyleOptions} */ {
-            visible: feature.getProperty('active'),
-            icon: {
-                path: google.maps.SymbolPath.CIRCLE,
-                scale: 1,
-                strokeColor:"rgb(213, 35, 32)"
-            },
-        };
-    });
-    // radius listener
-    map.data.addListener('addfeature', function (o) {
-        drawPointRadii(map, o.feature);
-    });
-
-    // info window listener
-    map.data.addListener('click', function(event) {
-      addInfoWindowToPoint(event);
-    });
-
-   map.data.loadGeoJson('static/data/dataset.json');
+      return /** @type {google.maps.Data.StyleOptions} */ {
+          visible: feature.getProperty('active'),
+          icon: {
+              path: google.maps.SymbolPath.CIRCLE,
+              scale: 1,
+              strokeColor:"rgb(213, 35, 32)"
+          },
+      };
+  });
+  // Draw Circles
+  map.data.addListener('addfeature', function (o) {
+      drawCircleOverlays(map, o.feature);
+  });
 
   // Create the DIV to hold the control and call the GeolocationControl()
   var geolocationDiv = document.getElementById('geolocate-button');
-  var geolocationControl = new GeolocationControl(geolocationDiv, map);
-  map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(geolocationDiv);
-
+  if (geolocationDiv) {
+    var geolocationControl = new GeolocationControl(geolocationDiv, map);
+    map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(geolocationDiv);
+  }
   // Back button
   var backButtonDiv = document.getElementById('back-button');
-  var backButtonControl = new BackButtonControl(backButtonDiv, map);
-  map.controls[google.maps.ControlPosition.TOP_LEFT].push(backButtonDiv);
+  if (backButtonDiv) {
+    var backButtonControl = new BackButtonControl(backButtonDiv, map);
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(backButtonDiv);
+  }
 
   // Help button
   var helpButtonDiv = document.getElementById('help-button');
-  var helpButtonControl = new HelpButtonControl(helpButtonDiv, map);
-  map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(helpButtonDiv);
+  if (helpButtonDiv) {
+    var helpButtonControl = new HelpButtonControl(helpButtonDiv, map);
+    map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(helpButtonDiv);
+  }
 
   // Create the search box and link it to the UI element.
   var input = document.getElementById('search-input');
-  var searchBox = new google.maps.places.SearchBox(input);
-  map.controls[google.maps.ControlPosition.TOP_CENTER].push(input);
-  initAutocomplete(input, searchBox);
+  if (input) {
+    var searchBox = new google.maps.places.SearchBox(input);
+    map.controls[google.maps.ControlPosition.TOP_CENTER].push(input);
+    initAutocomplete(input, searchBox, map);
+  }
+
+  map.data.loadGeoJson('static/data/data-smaller.json');
 }
 
-function drawPointRadii(map, feature) {
+function drawCircleOverlays(map, feature) {
   var circle = new google.maps.Circle({
     map: map,
     radius: 8046, // 5 miles in meters
@@ -91,22 +90,19 @@ function drawPointRadii(map, feature) {
   });
 
   circle.bindTo('center', placeholderMarker, 'position');
+  google.maps.event.addListener(circle, 'click', function(ev){
+    addInfoWindowToCircle(feature, circle);
+
+  });
 }
 
 /**
  * [addInfoWindowToPoint description]
  * @param {[type]} event [description]
  */
-function addInfoWindowToPoint(data) {
-  var airport_name = data.feature.getProperty('airport_name');
-  var airport_id = data.feature.getProperty('airport_id');
-  var airport_type = data.feature.getProperty('airport_type');
-  var runway_len = data.feature.getProperty('runway_len');
-  var runway_surface = data.feature.getProperty('runway_surface');
-  var radio_freq = data.feature.getProperty('radio_freq');
-  var lat = data.feature.getProperty('airport_lat');
-  var lng = data.feature.getProperty('airport_long');
-  var LatLng = {lat, lng};
+function addInfoWindowToCircle(feature, circle) {
+  var airport_name = feature.getProperty('airport_name');
+  var airport_type = feature.getProperty('airport_type');
 
   airport_type = renameAirportTypes(airport_type);
   var contentString =
@@ -120,8 +116,7 @@ function addInfoWindowToPoint(data) {
       '</div>';
 
   infoWindow.setContent("<div class='infoWindow'>"+contentString+"</div>");
-  infoWindow.setPosition(data.feature.getGeometry().get());
-  infoWindow.setOptions({pixelOffset: new google.maps.Size(0,-30)});
+  infoWindow.setPosition(circle.getCenter());
   infoWindow.open(map);
 }
 
@@ -156,7 +151,6 @@ function GeolocationControl(controlDiv, map) {
 }
 
 function geolocate() {
-  console.log("hi geolocate()");
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(function (position) {
       var pos = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
@@ -208,12 +202,13 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
   infoWindow.open(map);
 }
 
-function initAutocomplete(input, searchBox) {
+function initAutocomplete(input, searchBox, map) {
   searchBox.addListener('places_changed', function () {
       var places = searchBox.getPlaces();
       if (places.length == 0) {
           return;
       }
+      var markers = [];
       var bounds = new google.maps.LatLngBounds();
       places.forEach(function (place) {
           if (place.geometry.viewport) {
@@ -222,6 +217,17 @@ function initAutocomplete(input, searchBox) {
           } else {
               bounds.extend(place.geometry.location);
           }
+          var pinColor = "51C43B";
+          var pinImage = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + pinColor);
+          // Create a marker for each place.
+          var marker = new google.maps.Marker({
+            map: map,
+            title: place.name,
+            position: place.geometry.location,
+            icon: pinImage,
+          });
+
+          markers.push(marker);
       });
       map.fitBounds(bounds);
   });
