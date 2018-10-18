@@ -1,10 +1,33 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>C4C TC Sprint</title>
-    {{map.js}}
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">;
+    <!-- Basic Page Needs
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>Map</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
 
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">;
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}">
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- <link rel="icon" type="image/png" href="images/favicon.png"> -->
+
+    <!-- Scripts
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="{{url_for('static', filename='js/mapFunctions.js')}}"></script>
     <script type="text/javascript">
@@ -12,16 +35,20 @@
     </script>
   </head>
   <body>
-
-    <header>
+      <!-- Primary Page Layout
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="container">
-        <h1 class="logo">Transport Canada Sprint Challenge</h1>
+          <header class="ui-bar">
+            <a href="/map">
+                <img class="logo" src="static/assets/canada-logo.png"/>
+            </a>
+          </header>
+        <div class="main-content">
+          {% block content %}
+          {% endblock %}
+        </div>
       </div>
-    </header>
-
-    <div class="main-content container">
-      {% block content %}
-      {% endblock %}
-    </div>
+    <!-- End Document
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   </body>
 </html>

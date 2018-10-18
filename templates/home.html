@@ -1,8 +1,9 @@
 {% extends "templates/layout.html" %}
 {% block content %}
-  <div class="jumbo">
-    <h2>Welcome to the Flask app</h2>
-    <h3>This is the home page for the Flask app</h3>
-    {{map.html}}
+  <div class="row">
+    <div class="twelve columns">
+      <input id="pac-input" class="controls" type="text" placeholder="Search Box">
+      <div id="myMap"></div>
+    </div>
   </div>
 {% endblock %}

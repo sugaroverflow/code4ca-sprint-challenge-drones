@@ -4,7 +4,7 @@ __pycache__/
 
 # API keys
 config.py
-config.json
+config.js
 
 
 # Distribution / packaging

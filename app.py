@@ -25,18 +25,18 @@ app.config['GOOGLEMAPS_KEY'] = config.api_key
 GoogleMaps(app)
 
 # map the URL / to the function mapview()
-@app.route("/")
+@app.route("/map")
 def mapview():
     # initialize
     get_data()
     # creating a map in the view
     gmap = Map(
-        identifier="map",
+        identifier="myMap",
         lat=56.1304,
         lng=-106.3468,
     )
     # Uses a Flask function to render the home.html template
-    return render_template('templates/home.html', map=gmap)
+    return render_template('templates/home.html', myMap=gmap)
 
 def get_data():
     '''
