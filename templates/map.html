@@ -1,0 +1,53 @@
+{% extends "templates/layout.html" %}
+{% block content %}
+  <!-- Icon for Back Button -->
+  <a class="waves-effect waves-light btn-small" id="back-button" href="/"><i class="material-icons">arrow_back</i></a>
+  <!-- Icon for the Geo Location -->
+  <div class="fixed-action-btn" id ="geolocate-button">
+    <a class="btn-floating btn-small waves-effect waves-light"><i class="material-icons">location_searching</i></a>
+  </div>
+  <!-- Search Bar Structure -->
+  <form>
+    <div class="search-bar input-field">
+      <input id="search-input" class="controls" type="search" placeholder="Search By Location or Coordinates" required>
+      <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+    </div>
+  </form>
+  <!-- Help Modal Icon -->
+
+  <a class="waves-effect waves-light btn-floating btn-small modal-trigger" id="help-button" href="#help-modal"><i class="material-icons">help_outline</i></a>
+  <!-- Help Modal Structure -->
+  <div id="help-modal" class="modal">
+      <!-- Icon for Back Button -->
+      <a href="#!" class="modal-close waves-effect waves-green btn-flat" id="close-button"><i class="material-icons">close</i></a>
+    <div class="modal-content">
+      <div class="modal-header">Help</div>
+      <ul class="collapsible">
+         <li>
+           <div class="collapsible-header row"><p class="col s10">What do the circles mean?</p><i class="material-icons iconadd col s2">arrow_drop_down</i><i class="material-icons iconremove col s2">arrow_drop_up</i></div>
+           <div class="collapsible-body">
+            <p class="title"><em>No Fly Zones</em></p><span class="no-fly-icon"></span>
+            <p>You need to get permission to fly in a <em>No Fly Zone</em>.</p>
+          </div>
+         </li>
+         <li>
+           <div class="collapsible-header row"><p class="col s10">How do I use the map?</p><i class="material-icons iconadd col s2">arrow_drop_down</i><i class="material-icons iconremove col s2">arrow_drop_up</i></div>
+           <div class="collapsible-body">
+            We use standard Google Maps functionality. To learn more, visit <a href="https://support.google.com/maps/?hl=en">their help page</a>.
+           </div>
+         </li>
+         <li>
+           <div class="collapsible-header row"><p class="col s10">What are the regulations for flying drones?</p><i class="material-icons iconadd col s2">arrow_drop_down</i><i class="material-icons iconremove col s2">arrow_drop_up</i></div>
+           <div class="collapsible-body">
+            There are new regulations for drone users as of November 2018. <a href="https://www.tc.gc.ca/en/services/aviation/drone-safety/where-fly-drone.html">Check Transport Canada for the full list.</a>
+           </div>
+         </li>
+       </ul>
+       <div class="modal-footer">
+          <p><a class="help-center-link"> Visit our Help centre</a></p>
+        </div>
+     </div>
+  </div>
+  <!-- Map Canvas -->
+  <div id="myMap"></div>
+{% endblock %}
