@@ -20,35 +20,51 @@ function initMap() {
   geolocateIconDiv.index = 1;
   map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(geolocateIconDiv);
 
-  map.data.loadGeoJson('static/data/dataset.json');
-  map.data.setStyle(function(feature) {
-      var color = 'FF0000';
-      var symbol = '%E2%80%A2';  // dot
+  // map.data.loadGeoJson('static/data/dataset.json');
 
-      return /** @type {google.maps.Data.StyleOptions} */ {
-          visible: feature.getProperty('active'),
-          icon: {
-              path: google.maps.SymbolPath.CIRCLE,
-              scale: 16,
-              fillColor: "rgb(213, 35, 32)",
-              fillOpacity: 0.50,
-              strokeWeight: 2,
-              strokeColor: "#F7FC4F"
-
-          },
-      };
-  });
   infoWindow = new google.maps.InfoWindow;
+
+
+    google.maps.event.addListener(map,'click',function() {
+        infoWindow.close();
+    });
+    // build those damn circles
+    map.data.setStyle(function(feature) {
+        var color = 'FF0000';
+        var symbol = '%E2%80%A2';  // dot
+
+        return /** @type {google.maps.Data.StyleOptions} */ {
+            visible: feature.getProperty('active'),
+            icon: {
+                path: google.maps.SymbolPath.CIRCLE,
+                scale: 20,
+                fillColor: "rgb(213, 35, 32)",
+                fillOpacity: 0.50,
+                strokeWeight: 2,
+                strokeColor: "#F7FC4F"
+
+            },
+        };
+    });
+
+  // info window listener
+    map.data.addListener('click', function(event) {
+      var myHTML = event.feature.getProperty('runway_surface');
+      infoWindow.setContent("<div style='width:150px; text-align: center;'>"+myHTML+"</div>");
+      infoWindow.setPosition(event.feature.getGeometry().get());
+      infoWindow.setOptions({pixelOffset: new google.maps.Size(0,-30)});
+      infoWindow.open(map);
+    });
+   map.data.loadGeoJson('static/data/data-smaller.json');
+
 
   // Try HTML5 geolocation.
   // handleGeolocation();
-
-
   // Create the search box and link it to the UI element.
   var input = document.getElementById('pac-input');
   var searchBox = new google.maps.places.SearchBox(input);
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
-  initAutocomplete()
+  initAutocomplete(input, searchBox);
 }
 
 /**
@@ -129,9 +145,7 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
   infoWindow.open(map);
 }
 
-function initAutocomplete() {
-
-
+function initAutocomplete(input, searchBox) {
   // Bias the SearchBox results towards current map's viewport.
   map.addListener('bounds_changed', function() {
     searchBox.setBounds(map.getBounds());
