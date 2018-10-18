@@ -50,7 +50,7 @@ function initMap() {
       addInfoWindowToPoint(event);
     });
 
-   map.data.loadGeoJson('static/data/data-smaller.json');
+   map.data.loadGeoJson('static/data/dataset.json');
 
   // Create the DIV to hold the control and call the GeolocationControl()
   var geolocationDiv = document.getElementById('geolocate-button');
