@@ -26,6 +26,7 @@ function initMap() {
     google.maps.event.addListener(map,'click',function() {
         infoWindow.close();
     });
+
     // build those damn circles
     map.data.setStyle(function(feature) {
         var color = 'FF0000';
@@ -35,21 +36,22 @@ function initMap() {
             visible: feature.getProperty('active'),
             icon: {
                 path: google.maps.SymbolPath.CIRCLE,
-                scale: 25,
-                fillColor: "rgb(213, 35, 32)",
-                fillOpacity: 0.50,
-                strokeWeight: 2,
-                strokeColor: "#F7FC4F"
-
+                scale: 1,
+                strokeColor:"rgb(213, 35, 32)"
             },
         };
     });
+    // radius listener
+    map.data.addListener('addfeature', function (o) {
+        drawPointRadii(map, o.feature);
+    });
 
-  // info window listener
+    // info window listener
     map.data.addListener('click', function(event) {
       addInfoWindowToPoint(event);
     });
-   map.data.loadGeoJson('static/data/data-smaller.json');
+
+   map.data.loadGeoJson('static/data/dataset.json');
 
   // Create the DIV to hold the control and call the GeolocateControl()
   // constructor passing in this DIV.
@@ -72,6 +74,25 @@ function initMap() {
   var searchBox = new google.maps.places.SearchBox(input);
   map.controls[google.maps.ControlPosition.TOP_RIGHT].push(input);
   initAutocomplete(input, searchBox);
+}
+
+function drawPointRadii(map, feature) {
+  var circle = new google.maps.Circle({
+    map: map,
+    radius: 8046, // 5 miles in meters
+    fillColor: "rgb(213, 35, 32)",
+    fillOpacity: 0.50,
+    strokeWeight: 2,
+    strokeColor: "#F7FC4F"
+  });
+
+  var placeholderMarker = new google.maps.Marker({
+      position: feature.getGeometry().get(),
+      visible: false,
+      map: map,
+  });
+
+  circle.bindTo('center', placeholderMarker, 'position');
 }
 
 /**
