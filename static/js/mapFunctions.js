@@ -11,7 +11,6 @@ function initMap() {
     fullscreenControl: false,
     streetViewControlOptions: {
       position: google.maps.ControlPosition.RIGHT_BOTTOM
-      style: google.maps.ZoomControlStyle.SMALL,
     },
     mapTypeControlOptions: {
       style: google.maps.MapTypeControlStyle.DROPDOWN,
