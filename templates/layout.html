@@ -18,7 +18,7 @@
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">;
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/materialize.css') }}">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Favicon
@@ -42,19 +42,20 @@
     </script>
   </head>
   <body>
-      <!-- Primary Page Layout
-      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-      <div class="container">
-          <header class="ui-bar">
-            <a href="/map">
-                <img class="logo" src="static/assets/canada-logo.png"/>
-            </a>
-          </header>
-        <div class="main-content">
-          {% block content %}
-          {% endblock %}
-        </div>
+    <header class="ui-bar">
+      <a href="/map">
+          <img class="logo" src="static/assets/canada-logo.png"/>
+      </a>
+    </header>
+    <!-- Primary Page Layout
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div class="container">
+
+      <div class="main-content">
+        {% block content %}
+        {% endblock %}
       </div>
+    </div>
     <!-- End Document
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   </body>

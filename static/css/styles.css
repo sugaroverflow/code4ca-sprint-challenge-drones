@@ -9,11 +9,11 @@ body {
   color: #444;
 }
 
-.header {
+header {
   overflow: hidden;
   background-color: #111 ;
   padding: 20px 10px;
-  padding: 3% 0;
+  padding: .5em 0;
 }
 
 .ui-bar {
@@ -36,16 +36,27 @@ body {
   height: 22px;
 }
 
-#back-button, #help-button {
-  background-color: #0B4974;
- }
 
-#geolocate-button {
+#back-button {
+  background-color: #0B4974;
+  display: flex;
+  margin-top: 10px;
+}
+#help-button {
+  background-color: #0B4974;
+  display: flex;
+}
+
+#geolocate-button > a {
   background-color: #fff;
 }
-.btn-floating.btn-small i  {
-  color: #666666;
+#geolocate-button > a > i {
+  color: #666666
 }
+#help-button > i  {
+  color: #fff;
+}
+
 .infoWindow {
   width:150px;
   text-align: left;;

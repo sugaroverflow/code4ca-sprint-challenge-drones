@@ -8,12 +8,12 @@ function initMap() {
     zoom: 4,
     center: myLatLng,
     fullscreenControl: false,
-    mapTypeControlOptions: {
-      style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
-      mapTypeIds: ['roadmap', 'satellite', 'terrain'],
+    streetViewControlOptions: {
       position: google.maps.ControlPosition.BOTTOM_RIGHT
     },
-    streetViewControlOptions: {
+    mapTypeControlOptions: {
+      style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+      mapTypeIds: ['roadmap', 'satellite', 'terrain'],
       position: google.maps.ControlPosition.BOTTOM_RIGHT
     },
     zoomControlOptions: {
@@ -51,13 +51,12 @@ function initMap() {
       addInfoWindowToPoint(event);
     });
 
-   map.data.loadGeoJson('static/data/dataset.json');
+   map.data.loadGeoJson('static/data/data-smaller.json');
 
-  // Create the DIV to hold the control and call the GeolocateControl()
-  // constructor passing in this DIV.
-  var geolocateIconDiv = document.getElementById('geolocate-button');
-  var geolocateControl = new GeolocateControl(geolocateIconDiv, map);
-  map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(geolocateIconDiv);
+  // Create the DIV to hold the control and call the GeolocationControl()
+  var geolocationDiv = document.getElementById('geolocate-button');
+  var geolocationControl = new GeolocationControl(geolocationDiv, map);
+  map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(geolocationDiv);
 
   // Back button
   var backButtonDiv = document.getElementById('back-button');
@@ -65,14 +64,14 @@ function initMap() {
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(backButtonDiv);
 
   // Help button
-  // var helpButtonDiv = document.getElementById('help-button');
-  // var helpButtonControl = new HelpButtonControl(helpButtonDiv, map);
-  // map.controls[google.maps.ControlPosition.BOTTOM_LEFT].push(helpButtonDiv);
+  var helpButtonDiv = document.getElementById('help-button');
+  var helpButtonControl = new HelpButtonControl(helpButtonDiv, map);
+  map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(helpButtonDiv);
 
   // Create the search box and link it to the UI element.
   var input = document.getElementById('search-input');
   var searchBox = new google.maps.places.SearchBox(input);
-  map.controls[google.maps.ControlPosition.TOP_RIGHT].push(input);
+  map.controls[google.maps.ControlPosition.TOP_CENTER].push(input);
   initAutocomplete(input, searchBox);
 }
 
@@ -149,24 +148,30 @@ function renameAirportTypes(airport_type) {
 }
 
 
+function GeolocationControl(controlDiv, map) {
+    var controlUI = document.createElement('div');
+    controlUI.style.cursor = 'pointer';
+    controlUI.title = 'Click to geolocate';
 
-/**
- * The GeolocateControl adds a control to the map that geolocates the map on
- * the user's location.
- * This constructor takes the geolocateIcon DIV as an argument.
- * @constructor
- */
-function GeolocateControl(controlDiv, map) {
-  var controlUI = document.createElement('div');
-  controlUI.style.cursor = 'pointer';
-  controlUI.title = 'Click to geolocate';
-  controlDiv.appendChild(controlUI);
+    // Setup the click event listeners to geolocate user
+    google.maps.event.addDomListener(controlUI, 'click', geolocate);
+}
 
-  // Setup the click event listeners: simply set the map to Chicago.
-  controlUI.addEventListener('click', function() {
-    handleGeolocation();
-  });
-
+function geolocate() {
+  console.log("hi geolocate()");
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function (position) {
+      var pos = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+      // Create a marker and center map on user location
+      marker = new google.maps.Marker({
+        position: pos,
+        draggable: true,
+        animation: google.maps.Animation.DROP,
+        map: map
+      });
+      map.setCenter(pos);
+    });
+  }
 }
 
 function BackButtonControl(controlDiv, map) {
@@ -174,9 +179,9 @@ function BackButtonControl(controlDiv, map) {
   controlUI.style.cursor = 'pointer';
   controlUI.title = 'Click to navigate back';
   controlDiv.appendChild(controlUI);
-  // Setup the click event listeners: simply set the map to Chicago.
+  // Setup the click event listeners: go back.
   controlUI.addEventListener('click', function() {
-    // handleGeolocation();
+    window.location.href = "#";
   });
 }
 
@@ -186,38 +191,10 @@ function HelpButtonControl(controlDiv, map) {
   controlUI.style.cursor = 'pointer';
   controlUI.title = 'Click for help';
   controlDiv.appendChild(controlUI);
-  // Setup the click event listeners: simply set the map to Chicago.
-  controlUI.addEventListener('click', function() {
-    $('#modal1').modal('open');
-  });
 }
 
 
-/**
- * [handleGeolocation description]
- * @return {[type]} [description]
- */
-function handleGeolocation(){
-  if (navigator.geolocation) {
-   navigator.geolocation.getCurrentPosition(function(position) {
-     var pos = {
-       lat: position.coords.latitude,
-       lng: position.coords.longitude
-     };
 
-     infoWindow.setPosition(pos);
-     infoWindow.setContent('Location found.');
-     infoWindow.open(map);
-     map.setCenter(pos);
-   }, function() {
-     handleLocationError(true, infoWindow, map.getCenter());
-   });
-  }
-  else {
-   // Browser doesn't support Geolocation
-   handleLocationError(false, infoWindow, map.getCenter());
-  }
-}
 /**
  * [handleLocationError description]
  * @param  {[type]} browserHasGeolocation [description]
