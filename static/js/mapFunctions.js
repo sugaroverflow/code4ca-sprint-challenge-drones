@@ -92,7 +92,6 @@ function drawCircleOverlays(map, feature) {
   circle.bindTo('center', placeholderMarker, 'position');
   google.maps.event.addListener(circle, 'click', function(ev){
     addInfoWindowToCircle(feature, circle);
-
   });
 }
 

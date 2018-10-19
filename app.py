@@ -43,27 +43,23 @@ def get_data():
     ap_codes =  data[['id']]
     # only a subset of the columns
     ap_sub = data[['id', 'type', 'name', 'latitude_deg', 'longitude_deg']]
-    rw_sub = data_runways[['id', 'airport_ref', 'length_ft', 'width_ft', 'surface']]
-    frq_sub = data_freq[['airport_ref', 'type', 'frequency_mhz']]
+    # rw_sub = data_runways[['id', 'airport_ref', 'length_ft', 'width_ft', 'surface']]
+    # frq_sub = data_freq[['airport_ref', 'type', 'frequency_mhz']]
     # attempt to merge airports and runways
-    merged_inner = pd.merge(left=ap_sub,right=rw_sub, left_on='id', right_on='airport_ref')
+    # merged_full = pd.merge(left=ap_sub,right=rw_sub, left_on='id', right_on='airport_ref')
     # merge with frequencies
-    merged_full = pd.merge(left=merged_inner, right=frq_sub, left_on='id_x', right_on='airport_ref')
+    # merged_full = pd.merge(left=merged_inner, right=frq_sub, left_on='id_x', right_on='airport_ref')
     # subset of columns
-    cols = ['id_x', 'type_x', 'name', 'latitude_deg', 'longitude_deg', 'length_ft', 'width_ft', 'surface', 'frequency_mhz']
-    merged_sub = merged_full[cols]
+    # cols = ['id_x', 'type', 'name', 'latitude_deg', 'longitude_deg']
+    # merged_sub = merged_full[cols]
     # rename some columns
-    merged_sub = merged_sub.rename(
+    merged_sub = ap_sub.rename(
       columns={
         'name': 'airport_name',
-        'id_x':'airport_id',
-        'type_x':'airport_type',
+        'id':'airport_id',
+        'type':'airport_type',
         'latitude_deg':'airport_long',
         'longitude_deg':'airport_lat',
-        'length_ft':'runway_len',
-        'width_ft':'runway_wdt',
-        'surface':'runway_surface',
-        'frequency_mhz':'radio_freq'
       }
     )
     # save to csv
@@ -103,10 +99,6 @@ def constructGeoJson(json_result_string):
               'airport_type': record['airport_type'],
               'airport_lat': record['airport_lat'],
               'airport_long': record['airport_long'],
-              'runway_len': record['runway_len'],
-              'runway_wdt': record['runway_wdt'],
-              'runway_surface': record['runway_surface'],
-              'radio_freq': record['radio_freq']
             }
         })
 
