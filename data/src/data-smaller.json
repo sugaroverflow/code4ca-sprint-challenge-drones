@@ -1,0 +1,4053 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -75.296943664551,
+          45.391666412354
+        ]
+      },
+      "properties": {
+        "airport_name": "Navan Bearbrook Airport",
+        "airport_id": 41087,
+        "airport_type": "small_airport",
+        "airport_lat": -75.296943664551,
+        "airport_long": 45.391666412354,
+        "runway_len": 2800.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "Turf, soft during spring thaw",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.0880555556,
+          56.3447222222
+        ]
+      },
+      "properties": {
+        "airport_name": "Voisey's Bay",
+        "airport_id": 45216,
+        "airport_type": "small_airport",
+        "airport_lat": -62.0880555556,
+        "airport_long": 56.3447222222,
+        "runway_len": 5002.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "Gravel",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.1673545837,
+          45.5297264228
+        ]
+      },
+      "properties": {
+        "airport_name": "Pontiac Airpark",
+        "airport_id": 41098,
+        "airport_type": "small_airport",
+        "airport_lat": -76.1673545837,
+        "airport_long": 45.5297264228,
+        "runway_len": 1678.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "Stone Dust",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.1673545837,
+          45.5297264228
+        ]
+      },
+      "properties": {
+        "airport_name": "Pontiac Airpark",
+        "airport_id": 41098,
+        "airport_type": "small_airport",
+        "airport_lat": -76.1673545837,
+        "airport_long": 45.5297264228,
+        "runway_len": 1678.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "Stone Dust",
+        "radio_freq": 127.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.1673545837,
+          45.5297264228
+        ]
+      },
+      "properties": {
+        "airport_name": "Pontiac Airpark",
+        "airport_id": 41098,
+        "airport_type": "small_airport",
+        "airport_lat": -76.1673545837,
+        "airport_long": 45.5297264228,
+        "runway_len": 3246.0,
+        "runway_wdt": 65.0,
+        "runway_surface": "Stone Dust",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.1673545837,
+          45.5297264228
+        ]
+      },
+      "properties": {
+        "airport_name": "Pontiac Airpark",
+        "airport_id": 41098,
+        "airport_type": "small_airport",
+        "airport_lat": -76.1673545837,
+        "airport_long": 45.5297264228,
+        "runway_len": 3246.0,
+        "runway_wdt": 65.0,
+        "runway_surface": "Stone Dust",
+        "radio_freq": 127.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -78.6488002539,
+          44.0000000945
+        ]
+      },
+      "properties": {
+        "airport_name": "Hawke Field",
+        "airport_id": 44455,
+        "airport_type": "small_airport",
+        "airport_lat": -78.6488002539,
+        "airport_long": 44.0000000945,
+        "runway_len": 3300.0,
+        "runway_wdt": null,
+        "runway_surface": "TURF",
+        "radio_freq": 122.775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -79.8466801643,
+          44.0421005199
+        ]
+      },
+      "properties": {
+        "airport_name": "Tottenham/Ronan Aerodrome",
+        "airport_id": 45043,
+        "airport_type": "small_airport",
+        "airport_lat": -79.8466801643,
+        "airport_long": 44.0421005199,
+        "runway_len": 2033.0,
+        "runway_wdt": 120.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -67.719555,
+          46.587133
+        ]
+      },
+      "properties": {
+        "airport_name": "Upper Kent Airport",
+        "airport_id": 40039,
+        "airport_type": "small_airport",
+        "airport_lat": -67.719555,
+        "airport_long": 46.587133,
+        "runway_len": 1400.0,
+        "runway_wdt": 70.0,
+        "runway_surface": "TURF",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -78.426976,
+          44.024881
+        ]
+      },
+      "properties": {
+        "airport_name": "Port Hope (Peter's Field) Airport",
+        "airport_id": 46495,
+        "airport_type": "small_airport",
+        "airport_lat": -78.426976,
+        "airport_long": 44.024881,
+        "runway_len": 2200.0,
+        "runway_wdt": 120.0,
+        "runway_surface": "Turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -78.426976,
+          44.024881
+        ]
+      },
+      "properties": {
+        "airport_name": "Port Hope (Peter's Field) Airport",
+        "airport_id": 46495,
+        "airport_type": "small_airport",
+        "airport_lat": -78.426976,
+        "airport_long": 44.024881,
+        "runway_len": 3200.0,
+        "runway_wdt": 120.0,
+        "runway_surface": "Turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -79.09907341,
+          44.4470778865
+        ]
+      },
+      "properties": {
+        "airport_name": "Beaverton Airport",
+        "airport_id": 46580,
+        "airport_type": "small_airport",
+        "airport_lat": -79.09907341,
+        "airport_long": 44.4470778865,
+        "runway_len": 2480.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "TURF",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.9290161133,
+          44.7546573859
+        ]
+      },
+      "properties": {
+        "airport_name": "Baker's Valley",
+        "airport_id": 46642,
+        "airport_type": "small_airport",
+        "airport_lat": -76.9290161133,
+        "airport_long": 44.7546573859,
+        "runway_len": 2000.0,
+        "runway_wdt": 22.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -61.7128658295,
+          47.2762009676
+        ]
+      },
+      "properties": {
+        "airport_name": "L'\u00cele d'Entr\u00e9e Airfield",
+        "airport_id": 298348,
+        "airport_type": "small_airport",
+        "airport_lat": -61.7128658295,
+        "airport_long": 47.2762009676,
+        "runway_len": 1200.0,
+        "runway_wdt": 20.0,
+        "runway_surface": "Gravel",
+        "radio_freq": 123.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -61.7128658295,
+          47.2762009676
+        ]
+      },
+      "properties": {
+        "airport_name": "L'\u00cele d'Entr\u00e9e Airfield",
+        "airport_id": 298348,
+        "airport_type": "small_airport",
+        "airport_lat": -61.7128658295,
+        "airport_long": 47.2762009676,
+        "runway_len": 800.0,
+        "runway_wdt": 20.0,
+        "runway_surface": "Gravel",
+        "radio_freq": 123.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -73.5809111595,
+          45.6931260794
+        ]
+      },
+      "properties": {
+        "airport_name": "Saint-Fran\u00e7ois-de-Laval (Laval Aviation)",
+        "airport_id": 298393,
+        "airport_type": "seaplane_base",
+        "airport_lat": -73.5809111595,
+        "airport_long": 45.6931260794,
+        "runway_len": 4000.0,
+        "runway_wdt": 25.0,
+        "runway_surface": "asphalt/gravel",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.357778,
+          50.331944
+        ]
+      },
+      "properties": {
+        "airport_name": "Vulcan / Kirkcaldy Airport",
+        "airport_id": 299272,
+        "airport_type": "small_airport",
+        "airport_lat": -113.357778,
+        "airport_long": 50.331944,
+        "runway_len": 3187.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.357778,
+          50.331944
+        ]
+      },
+      "properties": {
+        "airport_name": "Vulcan / Kirkcaldy Airport",
+        "airport_id": 299272,
+        "airport_type": "small_airport",
+        "airport_lat": -113.357778,
+        "airport_long": 50.331944,
+        "runway_len": 2998.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.357778,
+          50.331944
+        ]
+      },
+      "properties": {
+        "airport_name": "Vulcan / Kirkcaldy Airport",
+        "airport_id": 299272,
+        "airport_type": "small_airport",
+        "airport_lat": -113.357778,
+        "airport_long": 50.331944,
+        "runway_len": 3076.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "GVL",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.9398841858,
+          44.4393568122
+        ]
+      },
+      "properties": {
+        "airport_name": "Farrow's Field",
+        "airport_id": 300400,
+        "airport_type": "small_airport",
+        "airport_lat": -80.9398841858,
+        "airport_long": 44.4393568122,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "Grass",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -81.479738,
+          42.936718
+        ]
+      },
+      "properties": {
+        "airport_name": "Warren Field",
+        "airport_id": 307238,
+        "airport_type": "small_airport",
+        "airport_lat": -81.479738,
+        "airport_long": 42.936718,
+        "runway_len": 2192.0,
+        "runway_wdt": 80.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.7638454437,
+          44.5897948166
+        ]
+      },
+      "properties": {
+        "airport_name": "Varys field",
+        "airport_id": 309767,
+        "airport_type": "small_airport",
+        "airport_lat": -80.7638454437,
+        "airport_long": 44.5897948166,
+        "runway_len": 1000.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "dirt, No winter maint.",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.295278,
+          49.401389
+        ]
+      },
+      "properties": {
+        "airport_name": "Rivi\u00e8re-aux-Saumons Aerodrome (Private Operator: Safari Anticosti)",
+        "airport_id": 309272,
+        "airport_type": "small_airport",
+        "airport_lat": -62.295278,
+        "airport_long": 49.401389,
+        "runway_len": 5384.0,
+        "runway_wdt": 80.0,
+        "runway_surface": "Gravel",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.236944,
+          49.078889
+        ]
+      },
+      "properties": {
+        "airport_name": "Rivi\u00e8re Bell Airport",
+        "airport_id": 309273,
+        "airport_type": "small_airport",
+        "airport_lat": -62.236944,
+        "airport_long": 49.078889,
+        "runway_len": 5528.0,
+        "runway_wdt": 80.0,
+        "runway_surface": "Gravel",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -71.5747269101,
+          46.1256599864
+        ]
+      },
+      "properties": {
+        "airport_name": "Lac William, Piste de glace (hiver seulement)",
+        "airport_id": 311164,
+        "airport_type": "seaplane_base",
+        "airport_lat": -71.5747269101,
+        "airport_long": 46.1256599864,
+        "runway_len": 3000.0,
+        "runway_wdt": 70.0,
+        "runway_surface": "Ice",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -71.5747269101,
+          46.1256599864
+        ]
+      },
+      "properties": {
+        "airport_name": "Lac William, Piste de glace (hiver seulement)",
+        "airport_id": 311164,
+        "airport_type": "seaplane_base",
+        "airport_lat": -71.5747269101,
+        "airport_long": 46.1256599864,
+        "runway_len": 3000.0,
+        "runway_wdt": 70.0,
+        "runway_surface": "Ice",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -116.0,
+          50.516700744629
+        ]
+      },
+      "properties": {
+        "airport_name": "Invermere Airport",
+        "airport_id": 612,
+        "airport_type": "small_airport",
+        "airport_lat": -116.0,
+        "airport_long": 50.516700744629,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -116.0,
+          50.516700744629
+        ]
+      },
+      "properties": {
+        "airport_name": "Invermere Airport",
+        "airport_id": 612,
+        "airport_type": "small_airport",
+        "airport_lat": -116.0,
+        "airport_long": 50.516700744629,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 126.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -117.60900116,
+          49.0555992126
+        ]
+      },
+      "properties": {
+        "airport_name": "Trail Airport",
+        "airport_id": 614,
+        "airport_type": "small_airport",
+        "airport_lat": -117.60900116,
+        "airport_long": 49.0555992126,
+        "runway_len": 4000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -120.747001648,
+          50.1227989197
+        ]
+      },
+      "properties": {
+        "airport_name": "Merritt Airport",
+        "airport_id": 615,
+        "airport_type": "small_airport",
+        "airport_lat": -120.747001648,
+        "airport_long": 50.1227989197,
+        "runway_len": 4000.0,
+        "runway_wdt": 73.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.9820022583,
+          49.679401397705
+        ]
+      },
+      "properties": {
+        "airport_name": "Courtenay Airpark",
+        "airport_id": 620,
+        "airport_type": "small_airport",
+        "airport_lat": -124.9820022583,
+        "airport_long": 49.679401397705,
+        "runway_len": 1800.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "ASPHALT",
+        "radio_freq": 123.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -119.333999633789,
+          52.853298187256
+        ]
+      },
+      "properties": {
+        "airport_name": "Valemount Airport",
+        "airport_id": 621,
+        "airport_type": "small_airport",
+        "airport_lat": -119.333999633789,
+        "airport_long": 52.853298187256,
+        "runway_len": 3950.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -136.572998046875,
+          66.491096496582
+        ]
+      },
+      "properties": {
+        "airport_name": "Wiley Airport",
+        "airport_id": 622,
+        "airport_type": "small_airport",
+        "airport_lat": -136.572998046875,
+        "airport_long": 66.491096496582,
+        "runway_len": 2500.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "gravel",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -116.49800109863,
+          49.03689956665
+        ]
+      },
+      "properties": {
+        "airport_name": "Creston Valley Regional Airport - Art Sutcliffe Field",
+        "airport_id": 623,
+        "airport_type": "small_airport",
+        "airport_lat": -116.49800109863,
+        "airport_long": 49.03689956665,
+        "runway_len": 3945.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -125.303001403809,
+          52.452499389648
+        ]
+      },
+      "properties": {
+        "airport_name": "Anahim Lake Airport",
+        "airport_id": 624,
+        "airport_type": "small_airport",
+        "airport_lat": -125.303001403809,
+        "airport_long": 52.452499389648,
+        "runway_len": 2738.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "GVL",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -125.303001403809,
+          52.452499389648
+        ]
+      },
+      "properties": {
+        "airport_name": "Anahim Lake Airport",
+        "airport_id": 624,
+        "airport_type": "small_airport",
+        "airport_lat": -125.303001403809,
+        "airport_long": 52.452499389648,
+        "runway_len": 3930.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.75,
+          50.450000762939
+        ]
+      },
+      "properties": {
+        "airport_name": "Cayley A J Flying Ranch Airport",
+        "airport_id": 625,
+        "airport_type": "small_airport",
+        "airport_lat": -113.75,
+        "airport_long": 50.450000762939,
+        "runway_len": 4500.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -122.941002,
+          49.0774
+        ]
+      },
+      "properties": {
+        "airport_name": "Delta Heritage Air Park",
+        "airport_id": 627,
+        "airport_type": "small_airport",
+        "airport_lat": -122.941002,
+        "airport_long": 49.0774,
+        "runway_len": 2600.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -122.941002,
+          49.0774
+        ]
+      },
+      "properties": {
+        "airport_name": "Delta Heritage Air Park",
+        "airport_id": 627,
+        "airport_type": "small_airport",
+        "airport_lat": -122.941002,
+        "airport_long": 49.0774,
+        "runway_len": 2600.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "TURF",
+        "radio_freq": 125.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -122.941002,
+          49.0774
+        ]
+      },
+      "properties": {
+        "airport_name": "Delta Heritage Air Park",
+        "airport_id": 627,
+        "airport_type": "small_airport",
+        "airport_lat": -122.941002,
+        "airport_long": 49.0774,
+        "runway_len": 2600.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "TURF",
+        "radio_freq": 118.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -120.171273351,
+          50.1654600485
+        ]
+      },
+      "properties": {
+        "airport_name": "Douglas Lake Airport",
+        "airport_id": 629,
+        "airport_type": "small_airport",
+        "airport_lat": -120.171273351,
+        "airport_long": 50.1654600485,
+        "runway_len": 4600.0,
+        "runway_wdt": 40.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -123.709702492,
+          48.7545336204
+        ]
+      },
+      "properties": {
+        "airport_name": "Duncan Airport",
+        "airport_id": 631,
+        "airport_type": "small_airport",
+        "airport_lat": -123.709702492,
+        "airport_long": 48.7545336204,
+        "runway_len": 1520.0,
+        "runway_wdt": 30.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.667525,
+          52.346194
+        ]
+      },
+      "properties": {
+        "airport_name": "Alhambra / Ahlstrom Airport",
+        "airport_id": 46598,
+        "airport_type": "small_airport",
+        "airport_lat": -114.667525,
+        "airport_long": 52.346194,
+        "runway_len": 2500.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "Turf",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -126.778879166,
+          54.4392009821
+        ]
+      },
+      "properties": {
+        "airport_name": "Houston Airport",
+        "airport_id": 632,
+        "airport_type": "small_airport",
+        "airport_lat": -126.778879166,
+        "airport_long": 54.4392009821,
+        "runway_len": 3900.0,
+        "runway_wdt": 66.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -117.813003540039,
+          50.266399383545
+        ]
+      },
+      "properties": {
+        "airport_name": "Nakusp Airport",
+        "airport_id": 637,
+        "airport_type": "small_airport",
+        "airport_lat": -117.813003540039,
+        "airport_long": 50.266399383545,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.4329252243,
+          43.7827292694
+        ]
+      },
+      "properties": {
+        "airport_name": "Arthur (Arthur South)",
+        "airport_id": 46600,
+        "airport_type": "small_airport",
+        "airport_lat": -80.4329252243,
+        "airport_long": 43.7827292694,
+        "runway_len": 1650.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.393997,
+          49.3372
+        ]
+      },
+      "properties": {
+        "airport_name": "Qualicum Beach Airport",
+        "airport_id": 643,
+        "airport_type": "small_airport",
+        "airport_lat": -124.393997,
+        "airport_long": 49.3372,
+        "runway_len": 3565.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.393997,
+          49.3372
+        ]
+      },
+      "properties": {
+        "airport_name": "Qualicum Beach Airport",
+        "airport_id": 643,
+        "airport_type": "small_airport",
+        "airport_lat": -124.393997,
+        "airport_long": 49.3372,
+        "runway_len": 3565.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -119.551002502441,
+          49.173301696777
+        ]
+      },
+      "properties": {
+        "airport_name": "Oliver Airport",
+        "airport_id": 646,
+        "airport_type": "small_airport",
+        "airport_lat": -119.551002502441,
+        "airport_long": 49.173301696777,
+        "runway_len": 3200.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "ASP",
+        "radio_freq": 126.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -119.551002502441,
+          49.173301696777
+        ]
+      },
+      "properties": {
+        "airport_name": "Oliver Airport",
+        "airport_id": 646,
+        "airport_type": "small_airport",
+        "airport_lat": -119.551002502441,
+        "airport_long": 49.173301696777,
+        "runway_len": 3200.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.012001037598,
+          54.046100616455
+        ]
+      },
+      "properties": {
+        "airport_name": "Vanderhoof Airport",
+        "airport_id": 647,
+        "airport_type": "small_airport",
+        "airport_lat": -124.012001037598,
+        "airport_long": 54.046100616455,
+        "runway_len": 5200.0,
+        "runway_wdt": 180.0,
+        "runway_surface": "GVL",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.012001037598,
+          54.046100616455
+        ]
+      },
+      "properties": {
+        "airport_name": "Vanderhoof Airport",
+        "airport_id": 647,
+        "airport_type": "small_airport",
+        "airport_lat": -124.012001037598,
+        "airport_long": 54.046100616455,
+        "runway_len": 5018.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.012001037598,
+          54.046100616455
+        ]
+      },
+      "properties": {
+        "airport_name": "Vanderhoof Airport",
+        "airport_id": 647,
+        "airport_type": "small_airport",
+        "airport_lat": -124.012001037598,
+        "airport_long": 54.046100616455,
+        "runway_len": 3200.0,
+        "runway_wdt": 180.0,
+        "runway_surface": "GVL",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -96.585833,
+          50.041111
+        ]
+      },
+      "properties": {
+        "airport_name": "Beausejour/Av-Ranch Airpark",
+        "airport_id": 45222,
+        "airport_type": "small_airport",
+        "airport_lat": -96.585833,
+        "airport_long": 50.041111,
+        "runway_len": 1800.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "Turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.4991666667,
+          43.3058333333
+        ]
+      },
+      "properties": {
+        "airport_name": "Ayr/Sargeant Private Airfield",
+        "airport_id": 311583,
+        "airport_type": "small_airport",
+        "airport_lat": -80.4991666667,
+        "airport_long": 43.3058333333,
+        "runway_len": 2723.0,
+        "runway_wdt": 90.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -121.321314,
+          50.775258
+        ]
+      },
+      "properties": {
+        "airport_name": "Cache Creek-Ashcroft Regional Airport",
+        "airport_id": 657,
+        "airport_type": "small_airport",
+        "airport_lat": -121.321314,
+        "airport_long": 50.775258,
+        "runway_len": 3280.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -119.488998413,
+          49.0372009277
+        ]
+      },
+      "properties": {
+        "airport_name": "Osoyoos Airport",
+        "airport_id": 663,
+        "airport_type": "small_airport",
+        "airport_lat": -119.488998413,
+        "airport_long": 49.0372009277,
+        "runway_len": 2800.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "GRAVEL",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -128.156994,
+          52.185001
+        ]
+      },
+      "properties": {
+        "airport_name": "Bella Bella (Campbell Island) Airport",
+        "airport_id": 664,
+        "airport_type": "small_airport",
+        "airport_lat": -128.156994,
+        "airport_long": 52.185001,
+        "runway_len": 3700.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -128.156994,
+          52.185001
+        ]
+      },
+      "properties": {
+        "airport_name": "Bella Bella (Campbell Island) Airport",
+        "airport_id": 664,
+        "airport_type": "small_airport",
+        "airport_lat": -128.156994,
+        "airport_long": 52.185001,
+        "runway_len": 3700.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 131.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -128.156994,
+          52.185001
+        ]
+      },
+      "properties": {
+        "airport_name": "Bella Bella (Campbell Island) Airport",
+        "airport_id": 664,
+        "airport_type": "small_airport",
+        "airport_lat": -128.156994,
+        "airport_long": 52.185001,
+        "runway_len": 3700.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -128.156994,
+          52.185001
+        ]
+      },
+      "properties": {
+        "airport_name": "Bella Bella (Campbell Island) Airport",
+        "airport_id": 664,
+        "airport_type": "small_airport",
+        "airport_lat": -128.156994,
+        "airport_long": 52.185001,
+        "runway_len": 3700.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 126.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.3119444444,
+          43.808333333
+        ]
+      },
+      "properties": {
+        "airport_name": "Belwood (Baird Field)",
+        "airport_id": 46602,
+        "airport_type": "small_airport",
+        "airport_lat": -80.3119444444,
+        "airport_long": 43.808333333,
+        "runway_len": 2400.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -121.994003295898,
+          51.24169921875
+        ]
+      },
+      "properties": {
+        "airport_name": "Echo Valley Airport",
+        "airport_id": 687,
+        "airport_type": "small_airport",
+        "airport_lat": -121.994003295898,
+        "airport_long": 51.24169921875,
+        "runway_len": 3412.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -79.127269,
+          44.459454
+        ]
+      },
+      "properties": {
+        "airport_name": "Beaverton North",
+        "airport_id": 43877,
+        "airport_type": "small_airport",
+        "airport_lat": -79.127269,
+        "airport_long": 44.459454,
+        "runway_len": 2135.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "TURF",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -128.233001708984,
+          55.066699981689
+        ]
+      },
+      "properties": {
+        "airport_name": "Woodcock Airport",
+        "airport_id": 710,
+        "airport_type": "small_airport",
+        "airport_lat": -128.233001708984,
+        "airport_long": 55.066699981689,
+        "runway_len": 3350.0,
+        "runway_wdt": 200.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -116.934997558594,
+          49.9035987854
+        ]
+      },
+      "properties": {
+        "airport_name": "Kaslo Airport",
+        "airport_id": 711,
+        "airport_type": "small_airport",
+        "airport_lat": -116.934997558594,
+        "airport_long": 49.9035987854,
+        "runway_len": 3700.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.931,
+          49.321899
+        ]
+      },
+      "properties": {
+        "airport_name": "Alberni Valley Regional Airport",
+        "airport_id": 717,
+        "airport_type": "small_airport",
+        "airport_lat": -124.931,
+        "airport_long": 49.321899,
+        "runway_len": 3952.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -129.983968735,
+          57.847994155
+        ]
+      },
+      "properties": {
+        "airport_name": "Eddontenajon / Iskut Village Airport",
+        "airport_id": 723,
+        "airport_type": "small_airport",
+        "airport_lat": -129.983968735,
+        "airport_long": 57.847994155,
+        "runway_len": 3600.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "GRAVEL",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -120.93499755859,
+          55.025001525879
+        ]
+      },
+      "properties": {
+        "airport_name": "Tumbler Ridge Airport",
+        "airport_id": 737,
+        "airport_type": "small_airport",
+        "airport_lat": -120.93499755859,
+        "airport_long": 55.025001525879,
+        "runway_len": 4000.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -124.767997741699,
+          54.013301849365
+        ]
+      },
+      "properties": {
+        "airport_name": "Fraser Lake Airport",
+        "airport_id": 741,
+        "airport_type": "small_airport",
+        "airport_lat": -124.767997741699,
+        "airport_long": 54.013301849365,
+        "runway_len": 3900.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.592800140381,
+          46.443298339844
+        ]
+      },
+      "properties": {
+        "airport_name": "Cable Head Airpark",
+        "airport_id": 742,
+        "airport_type": "small_airport",
+        "airport_lat": -62.592800140381,
+        "airport_long": 46.443298339844,
+        "runway_len": 2400.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.592800140381,
+          46.443298339844
+        ]
+      },
+      "properties": {
+        "airport_name": "Cable Head Airpark",
+        "airport_id": 742,
+        "airport_type": "small_airport",
+        "airport_lat": -62.592800140381,
+        "airport_long": 46.443298339844,
+        "runway_len": 2400.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "TURF",
+        "radio_freq": 135.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.592800140381,
+          46.443298339844
+        ]
+      },
+      "properties": {
+        "airport_name": "Cable Head Airpark",
+        "airport_id": 742,
+        "airport_type": "small_airport",
+        "airport_lat": -62.592800140381,
+        "airport_long": 46.443298339844,
+        "runway_len": 3600.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.592800140381,
+          46.443298339844
+        ]
+      },
+      "properties": {
+        "airport_name": "Cable Head Airpark",
+        "airport_id": 742,
+        "airport_type": "small_airport",
+        "airport_lat": -62.592800140381,
+        "airport_long": 46.443298339844,
+        "runway_len": 3600.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "TURF",
+        "radio_freq": 135.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -55.329200744629,
+          47.136901855469
+        ]
+      },
+      "properties": {
+        "airport_name": "Winterland Airport",
+        "airport_id": 747,
+        "airport_type": "small_airport",
+        "airport_lat": -55.329200744629,
+        "airport_long": 47.136901855469,
+        "runway_len": 2999.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -67.168296813965,
+          46.562801361084
+        ]
+      },
+      "properties": {
+        "airport_name": "Juniper Airport",
+        "airport_id": 751,
+        "airport_type": "small_airport",
+        "airport_lat": -67.168296813965,
+        "airport_long": 46.562801361084,
+        "runway_len": 4021.0,
+        "runway_wdt": 53.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.7925,
+          44.3257833333
+        ]
+      },
+      "properties": {
+        "airport_name": "Camden East Airstrip",
+        "airport_id": 46478,
+        "airport_type": "small_airport",
+        "airport_lat": -76.7925,
+        "airport_long": 44.3257833333,
+        "runway_len": 1200.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -76.7925,
+          44.3257833333
+        ]
+      },
+      "properties": {
+        "airport_name": "Camden East Airstrip",
+        "airport_id": 46478,
+        "airport_type": "small_airport",
+        "airport_lat": -76.7925,
+        "airport_long": 44.3257833333,
+        "runway_len": 900.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.2996821404,
+          44.7099936874
+        ]
+      },
+      "properties": {
+        "airport_name": "Porters Lake Airport",
+        "airport_id": 754,
+        "airport_type": "small_airport",
+        "airport_lat": -63.2996821404,
+        "airport_long": 44.7099936874,
+        "runway_len": 2400.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "GRAVEL/TURF",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -66.858901977539,
+          46.037498474121
+        ]
+      },
+      "properties": {
+        "airport_name": "Weyman Airpark",
+        "airport_id": 756,
+        "airport_type": "small_airport",
+        "airport_lat": -66.858901977539,
+        "airport_long": 46.037498474121,
+        "runway_len": 3000.0,
+        "runway_wdt": 80.0,
+        "runway_surface": "SAND/GRAVEL/AS",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.7686004639,
+          46.1539001465
+        ]
+      },
+      "properties": {
+        "airport_name": "Moncton / McEwen Airport",
+        "airport_id": 757,
+        "airport_type": "small_airport",
+        "airport_lat": -64.7686004639,
+        "airport_long": 46.1539001465,
+        "runway_len": 3000.0,
+        "runway_wdt": 80.0,
+        "runway_surface": "ASP",
+        "radio_freq": 121.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.7686004639,
+          46.1539001465
+        ]
+      },
+      "properties": {
+        "airport_name": "Moncton / McEwen Airport",
+        "airport_id": 757,
+        "airport_type": "small_airport",
+        "airport_lat": -64.7686004639,
+        "airport_long": 46.1539001465,
+        "runway_len": 3000.0,
+        "runway_wdt": 80.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -66.796401977539,
+          44.713298797607
+        ]
+      },
+      "properties": {
+        "airport_name": "Grand Manan Airport",
+        "airport_id": 768,
+        "airport_type": "small_airport",
+        "airport_lat": -66.796401977539,
+        "airport_long": 44.713298797607,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.4855555556,
+          44.0325
+        ]
+      },
+      "properties": {
+        "airport_name": "Conn Field",
+        "airport_id": 311591,
+        "airport_type": "small_airport",
+        "airport_lat": -80.4855555556,
+        "airport_long": 44.0325,
+        "runway_len": 2600.0,
+        "runway_wdt": 120.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.4855555556,
+          44.0325
+        ]
+      },
+      "properties": {
+        "airport_name": "Conn Field",
+        "airport_id": 311591,
+        "airport_type": "small_airport",
+        "airport_lat": -80.4855555556,
+        "airport_long": 44.0325,
+        "runway_len": 3300.0,
+        "runway_wdt": 120.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -55.447700500488,
+          49.055999755859
+        ]
+      },
+      "properties": {
+        "airport_name": "Exploits Valley Botwood Airport",
+        "airport_id": 769,
+        "airport_type": "small_airport",
+        "airport_lat": -55.447700500488,
+        "airport_long": 49.055999755859,
+        "runway_len": null,
+        "runway_wdt": null,
+        "runway_surface": "UNK",
+        "radio_freq": 132.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -55.447700500488,
+          49.055999755859
+        ]
+      },
+      "properties": {
+        "airport_name": "Exploits Valley Botwood Airport",
+        "airport_id": 769,
+        "airport_type": "small_airport",
+        "airport_lat": -55.447700500488,
+        "airport_long": 49.055999755859,
+        "runway_len": null,
+        "runway_wdt": null,
+        "runway_surface": "UNK",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -55.447700500488,
+          49.055999755859
+        ]
+      },
+      "properties": {
+        "airport_name": "Exploits Valley Botwood Airport",
+        "airport_id": 769,
+        "airport_type": "small_airport",
+        "airport_lat": -55.447700500488,
+        "airport_long": 49.055999755859,
+        "runway_len": 3930.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 132.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -55.447700500488,
+          49.055999755859
+        ]
+      },
+      "properties": {
+        "airport_name": "Exploits Valley Botwood Airport",
+        "airport_id": 769,
+        "airport_type": "small_airport",
+        "airport_lat": -55.447700500488,
+        "airport_long": 49.055999755859,
+        "runway_len": 3930.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.460601806641,
+          45.418598175049
+        ]
+      },
+      "properties": {
+        "airport_name": "Debert Airport",
+        "airport_id": 773,
+        "airport_type": "small_airport",
+        "airport_lat": -63.460601806641,
+        "airport_long": 45.418598175049,
+        "runway_len": 3000.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 119.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.460601806641,
+          45.418598175049
+        ]
+      },
+      "properties": {
+        "airport_name": "Debert Airport",
+        "airport_id": 773,
+        "airport_type": "small_airport",
+        "airport_lat": -63.460601806641,
+        "airport_long": 45.418598175049,
+        "runway_len": 3000.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.460601806641,
+          45.418598175049
+        ]
+      },
+      "properties": {
+        "airport_name": "Debert Airport",
+        "airport_id": 773,
+        "airport_type": "small_airport",
+        "airport_lat": -63.460601806641,
+        "airport_long": 45.418598175049,
+        "runway_len": 5000.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 119.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.460601806641,
+          45.418598175049
+        ]
+      },
+      "properties": {
+        "airport_name": "Debert Airport",
+        "airport_id": 773,
+        "airport_type": "small_airport",
+        "airport_lat": -63.460601806641,
+        "airport_long": 45.418598175049,
+        "runway_len": 5000.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.460601806641,
+          45.418598175049
+        ]
+      },
+      "properties": {
+        "airport_name": "Debert Airport",
+        "airport_id": 773,
+        "airport_type": "small_airport",
+        "airport_lat": -63.460601806641,
+        "airport_long": 45.418598175049,
+        "runway_len": 5000.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 119.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.460601806641,
+          45.418598175049
+        ]
+      },
+      "properties": {
+        "airport_name": "Debert Airport",
+        "airport_id": 773,
+        "airport_type": "small_airport",
+        "airport_lat": -63.460601806641,
+        "airport_long": 45.418598175049,
+        "runway_len": 5000.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -67.62809753418,
+          46.42610168457
+        ]
+      },
+      "properties": {
+        "airport_name": "Florenceville Airport",
+        "airport_id": 774,
+        "airport_type": "small_airport",
+        "airport_lat": -67.62809753418,
+        "airport_long": 46.42610168457,
+        "runway_len": 5400.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -67.250602722168,
+          45.207500457764
+        ]
+      },
+      "properties": {
+        "airport_name": "St. Stephen Airport",
+        "airport_id": 779,
+        "airport_type": "small_airport",
+        "airport_lat": -67.250602722168,
+        "airport_long": 45.207500457764,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -65.904197692871,
+          46.148601531982
+        ]
+      },
+      "properties": {
+        "airport_name": "Chipman Airport",
+        "airport_id": 780,
+        "airport_type": "small_airport",
+        "airport_lat": -65.904197692871,
+        "airport_long": 46.148601531982,
+        "runway_len": 4022.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.6517028809,
+          45.0518989563
+        ]
+      },
+      "properties": {
+        "airport_name": "Waterville / Kings County Municipal Airport",
+        "airport_id": 786,
+        "airport_type": "small_airport",
+        "airport_lat": -64.6517028809,
+        "airport_long": 45.0518989563,
+        "runway_len": 3500.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 120.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.6517028809,
+          45.0518989563
+        ]
+      },
+      "properties": {
+        "airport_name": "Waterville / Kings County Municipal Airport",
+        "airport_id": 786,
+        "airport_type": "small_airport",
+        "airport_lat": -64.6517028809,
+        "airport_long": 45.0518989563,
+        "runway_len": 3500.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 119.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.6517028809,
+          45.0518989563
+        ]
+      },
+      "properties": {
+        "airport_name": "Waterville / Kings County Municipal Airport",
+        "airport_id": 786,
+        "airport_type": "small_airport",
+        "airport_lat": -64.6517028809,
+        "airport_long": 45.0518989563,
+        "runway_len": 3500.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.920600891113,
+          45.100601196289
+        ]
+      },
+      "properties": {
+        "airport_name": "Stanley Airport",
+        "airport_id": 787,
+        "airport_type": "small_airport",
+        "airport_lat": -63.920600891113,
+        "airport_long": 45.100601196289,
+        "runway_len": 2500.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "GRS",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.920600891113,
+          45.100601196289
+        ]
+      },
+      "properties": {
+        "airport_name": "Stanley Airport",
+        "airport_id": 787,
+        "airport_type": "small_airport",
+        "airport_lat": -63.920600891113,
+        "airport_long": 45.100601196289,
+        "runway_len": 2400.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "COM",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -63.920600891113,
+          45.100601196289
+        ]
+      },
+      "properties": {
+        "airport_name": "Stanley Airport",
+        "airport_id": 787,
+        "airport_type": "small_airport",
+        "airport_lat": -63.920600891113,
+        "airport_long": 45.100601196289,
+        "runway_len": 1600.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "GRS",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -53.923900604248,
+          48.274700164795
+        ]
+      },
+      "properties": {
+        "airport_name": "Clarenville Airport",
+        "airport_id": 794,
+        "airport_type": "small_airport",
+        "airport_lat": -53.923900604248,
+        "airport_long": 48.274700164795,
+        "runway_len": 3933.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 132.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -53.923900604248,
+          48.274700164795
+        ]
+      },
+      "properties": {
+        "airport_name": "Clarenville Airport",
+        "airport_id": 794,
+        "airport_type": "small_airport",
+        "airport_lat": -53.923900604248,
+        "airport_long": 48.274700164795,
+        "runway_len": 3933.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.882499694824,
+          47.716400146484
+        ]
+      },
+      "properties": {
+        "airport_name": "Pokemouche Airport",
+        "airport_id": 799,
+        "airport_type": "small_airport",
+        "airport_lat": -64.882499694824,
+        "airport_long": 47.716400146484,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.882499694824,
+          47.716400146484
+        ]
+      },
+      "properties": {
+        "airport_name": "Pokemouche Airport",
+        "airport_id": 799,
+        "airport_type": "small_airport",
+        "airport_lat": -64.882499694824,
+        "airport_long": 47.716400146484,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -59.3130989075,
+          47.773601532
+        ]
+      },
+      "properties": {
+        "airport_name": "St. Andrews Codroy Valley Airport",
+        "airport_id": 800,
+        "airport_type": "small_airport",
+        "airport_lat": -59.3130989075,
+        "airport_long": 47.773601532,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -79.1513977051,
+          45.3541984558
+        ]
+      },
+      "properties": {
+        "airport_name": "Deerhurst Resort Airport",
+        "airport_id": 809,
+        "airport_type": "small_airport",
+        "airport_lat": -79.1513977051,
+        "airport_long": 45.3541984558,
+        "runway_len": 3080.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -66.828300476074,
+          46.713298797607
+        ]
+      },
+      "properties": {
+        "airport_name": "Clearwater Airport",
+        "airport_id": 812,
+        "airport_type": "small_airport",
+        "airport_lat": -66.828300476074,
+        "airport_long": 46.713298797607,
+        "runway_len": 3979.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -62.618401,
+          45.4094
+        ]
+      },
+      "properties": {
+        "airport_name": "Centredale Airport",
+        "airport_id": 320210,
+        "airport_type": "small_airport",
+        "airport_lat": -62.618401,
+        "airport_long": 45.4094,
+        "runway_len": 1800.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "Turf",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.693901,
+          46.509399
+        ]
+      },
+      "properties": {
+        "airport_name": "Bouctouche Airport",
+        "airport_id": 818,
+        "airport_type": "small_airport",
+        "airport_lat": -64.693901,
+        "airport_long": 46.509399,
+        "runway_len": 5024.0,
+        "runway_wdt": 74.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -66.093902587891,
+          46.552501678467
+        ]
+      },
+      "properties": {
+        "airport_name": "Doaktown Airport",
+        "airport_id": 821,
+        "airport_type": "small_airport",
+        "airport_lat": -66.093902587891,
+        "airport_long": 46.552501678467,
+        "runway_len": 3996.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -67.42610168457,
+          47.753601074219
+        ]
+      },
+      "properties": {
+        "airport_name": "Downs Gulch Airport",
+        "airport_id": 823,
+        "airport_type": "small_airport",
+        "airport_lat": -67.42610168457,
+        "airport_long": 47.753601074219,
+        "runway_len": 4003.0,
+        "runway_wdt": 47.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -54.237499237061,
+          49.657501220703
+        ]
+      },
+      "properties": {
+        "airport_name": "Fogo Airport",
+        "airport_id": 827,
+        "airport_type": "small_airport",
+        "airport_lat": -54.237499237061,
+        "airport_long": 49.657501220703,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -54.237499237061,
+          49.657501220703
+        ]
+      },
+      "properties": {
+        "airport_name": "Fogo Airport",
+        "airport_id": 827,
+        "airport_type": "small_airport",
+        "airport_lat": -54.237499237061,
+        "airport_long": 49.657501220703,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 132.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -64.456703186,
+          44.3819007874
+        ]
+      },
+      "properties": {
+        "airport_name": "Bridgewater / Dayspring Airpark",
+        "airport_id": 829,
+        "airport_type": "small_airport",
+        "airport_lat": -64.456703186,
+        "airport_long": 44.3819007874,
+        "runway_len": 1728.0,
+        "runway_wdt": 30.0,
+        "runway_surface": "Gravel/Asphalt mix",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.107002258,
+          51.7118988037
+        ]
+      },
+      "properties": {
+        "airport_name": "Olds-Didsbury Airport",
+        "airport_id": 830,
+        "airport_type": "small_airport",
+        "airport_lat": -114.107002258,
+        "airport_long": 51.7118988037,
+        "runway_len": 1800.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "GRS",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.107002258,
+          51.7118988037
+        ]
+      },
+      "properties": {
+        "airport_name": "Olds-Didsbury Airport",
+        "airport_id": 830,
+        "airport_type": "small_airport",
+        "airport_lat": -114.107002258,
+        "airport_long": 51.7118988037,
+        "runway_len": 1800.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "GRS",
+        "radio_freq": 122.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.107002258,
+          51.7118988037
+        ]
+      },
+      "properties": {
+        "airport_name": "Olds-Didsbury Airport",
+        "airport_id": 830,
+        "airport_type": "small_airport",
+        "airport_lat": -114.107002258,
+        "airport_long": 51.7118988037,
+        "runway_len": 3650.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.107002258,
+          51.7118988037
+        ]
+      },
+      "properties": {
+        "airport_name": "Olds-Didsbury Airport",
+        "airport_id": 830,
+        "airport_type": "small_airport",
+        "airport_lat": -114.107002258,
+        "airport_long": 51.7118988037,
+        "runway_len": 3650.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.384002685547,
+          52.646900177002
+        ]
+      },
+      "properties": {
+        "airport_name": "Hardisty Airport",
+        "airport_id": 831,
+        "airport_type": "small_airport",
+        "airport_lat": -111.384002685547,
+        "airport_long": 52.646900177002,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.240997314453,
+          49.162498474121
+        ]
+      },
+      "properties": {
+        "airport_name": "Cardston Airport",
+        "airport_id": 832,
+        "airport_type": "small_airport",
+        "airport_lat": -113.240997314453,
+        "airport_long": 49.162498474121,
+        "runway_len": 3500.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -118.434997559,
+          56.081401825
+        ]
+      },
+      "properties": {
+        "airport_name": "Fairview Airport",
+        "airport_id": 834,
+        "airport_type": "small_airport",
+        "airport_lat": -118.434997559,
+        "airport_long": 56.081401825,
+        "runway_len": null,
+        "runway_wdt": null,
+        "runway_surface": "UNK",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -118.434997559,
+          56.081401825
+        ]
+      },
+      "properties": {
+        "airport_name": "Fairview Airport",
+        "airport_id": 834,
+        "airport_type": "small_airport",
+        "airport_lat": -118.434997559,
+        "airport_long": 56.081401825,
+        "runway_len": 3492.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -117.752998352,
+          53.3191986084
+        ]
+      },
+      "properties": {
+        "airport_name": "Hinton/Jasper-Hinton Airport",
+        "airport_id": 836,
+        "airport_type": "small_airport",
+        "airport_lat": -117.752998352,
+        "airport_long": 53.3191986084,
+        "runway_len": 4300.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -117.752998352,
+          53.3191986084
+        ]
+      },
+      "properties": {
+        "airport_name": "Hinton/Jasper-Hinton Airport",
+        "airport_id": 836,
+        "airport_type": "small_airport",
+        "airport_lat": -117.752998352,
+        "airport_long": 53.3191986084,
+        "runway_len": 4300.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.490997314453,
+          51.334201812744
+        ]
+      },
+      "properties": {
+        "airport_name": "Oyen Municipal Airport",
+        "airport_id": 839,
+        "airport_type": "small_airport",
+        "airport_lat": -110.490997314453,
+        "airport_long": 51.334201812744,
+        "runway_len": 2200.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "SAN",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.490997314453,
+          51.334201812744
+        ]
+      },
+      "properties": {
+        "airport_name": "Oyen Municipal Airport",
+        "airport_id": 839,
+        "airport_type": "small_airport",
+        "airport_lat": -110.490997314453,
+        "airport_long": 51.334201812744,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -112.184997558594,
+          49.826698303223
+        ]
+      },
+      "properties": {
+        "airport_name": "Taber Airport",
+        "airport_id": 841,
+        "airport_type": "small_airport",
+        "airport_lat": -112.184997558594,
+        "airport_long": 49.826698303223,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -112.184997558594,
+          49.826698303223
+        ]
+      },
+      "properties": {
+        "airport_name": "Taber Airport",
+        "airport_id": 841,
+        "airport_type": "small_airport",
+        "airport_lat": -112.184997558594,
+        "airport_long": 49.826698303223,
+        "runway_len": 2000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -88.8166666667,
+          48.5722222222
+        ]
+      },
+      "properties": {
+        "airport_name": "Thunderbay / Eldorado Field",
+        "airport_id": 311595,
+        "airport_type": "small_airport",
+        "airport_lat": -88.8166666667,
+        "airport_long": 48.5722222222,
+        "runway_len": 1900.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "turf",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.819000244,
+          55.9618988037
+        ]
+      },
+      "properties": {
+        "airport_name": "Wabasca Airport",
+        "airport_id": 844,
+        "airport_type": "small_airport",
+        "airport_lat": -113.819000244,
+        "airport_long": 55.9618988037,
+        "runway_len": 3544.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.3694534302,
+          43.8372354306
+        ]
+      },
+      "properties": {
+        "airport_name": "Belwood (Ellen Field)",
+        "airport_id": 46603,
+        "airport_type": "small_airport",
+        "airport_lat": -80.3694534302,
+        "airport_long": 43.8372354306,
+        "runway_len": 2000.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.333000183105,
+          49.88330078125
+        ]
+      },
+      "properties": {
+        "airport_name": "Bow Island Airport",
+        "airport_id": 847,
+        "airport_type": "small_airport",
+        "airport_lat": -111.333000183105,
+        "airport_long": 49.88330078125,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.93399810791,
+          51.263900756836
+        ]
+      },
+      "properties": {
+        "airport_name": "Airdrie Airport",
+        "airport_id": 848,
+        "airport_type": "small_airport",
+        "airport_lat": -113.93399810791,
+        "airport_long": 51.263900756836,
+        "runway_len": 2914.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "GVL",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.93399810791,
+          51.263900756836
+        ]
+      },
+      "properties": {
+        "airport_name": "Airdrie Airport",
+        "airport_id": 848,
+        "airport_type": "small_airport",
+        "airport_lat": -113.93399810791,
+        "airport_long": 51.263900756836,
+        "runway_len": 2926.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.93399810791,
+          51.263900756836
+        ]
+      },
+      "properties": {
+        "airport_name": "Airdrie Airport",
+        "airport_id": 848,
+        "airport_type": "small_airport",
+        "airport_lat": -113.93399810791,
+        "airport_long": 51.263900756836,
+        "runway_len": 5000.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.93399810791,
+          51.263900756836
+        ]
+      },
+      "properties": {
+        "airport_name": "Airdrie Airport",
+        "airport_id": 848,
+        "airport_type": "small_airport",
+        "airport_lat": -113.93399810791,
+        "airport_long": 51.263900756836,
+        "runway_len": 2918.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "GVL",
+        "radio_freq": 122.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.71199798584,
+          52.488300323486
+        ]
+      },
+      "properties": {
+        "airport_name": "Lacombe Airport",
+        "airport_id": 851,
+        "airport_type": "small_airport",
+        "airport_lat": -113.71199798584,
+        "airport_long": 52.488300323486,
+        "runway_len": 3000.0,
+        "runway_wdt": 74.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -112.749000549316,
+          51.496398925781
+        ]
+      },
+      "properties": {
+        "airport_name": "Drumheller Municipal Airport",
+        "airport_id": 852,
+        "airport_type": "small_airport",
+        "airport_lat": -112.749000549316,
+        "airport_long": 51.496398925781,
+        "runway_len": 3500.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.179001,
+          50.7225
+        ]
+      },
+      "properties": {
+        "airport_name": "Cu Nim Airport",
+        "airport_id": 855,
+        "airport_type": "small_airport",
+        "airport_lat": -114.179001,
+        "airport_long": 50.7225,
+        "runway_len": 3014.0,
+        "runway_wdt": 300.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.179001,
+          50.7225
+        ]
+      },
+      "properties": {
+        "airport_name": "Cu Nim Airport",
+        "airport_id": 855,
+        "airport_type": "small_airport",
+        "airport_lat": -114.179001,
+        "airport_long": 50.7225,
+        "runway_len": 2230.0,
+        "runway_wdt": 200.0,
+        "runway_surface": "TURF",
+        "radio_freq": 123.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.606002807617,
+          52.651699066162
+        ]
+      },
+      "properties": {
+        "airport_name": "Ponoka Industrial Airport",
+        "airport_id": 856,
+        "airport_type": "small_airport",
+        "airport_lat": -113.606002807617,
+        "airport_long": 52.651699066162,
+        "runway_len": 3097.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.823997497559,
+          50.821899414062
+        ]
+      },
+      "properties": {
+        "airport_name": "De Winton South Calgary Airport",
+        "airport_id": 857,
+        "airport_type": "small_airport",
+        "airport_lat": -113.823997497559,
+        "airport_long": 50.821899414062,
+        "runway_len": 3015.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.823997497559,
+          50.821899414062
+        ]
+      },
+      "properties": {
+        "airport_name": "De Winton South Calgary Airport",
+        "airport_id": 857,
+        "airport_type": "small_airport",
+        "airport_lat": -113.823997497559,
+        "airport_long": 50.821899414062,
+        "runway_len": 2931.0,
+        "runway_wdt": 150.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -115.274002075195,
+          56.546398162842
+        ]
+      },
+      "properties": {
+        "airport_name": "Red Earth Creek Airport",
+        "airport_id": 858,
+        "airport_type": "small_airport",
+        "airport_lat": -115.274002075195,
+        "airport_long": 56.546398162842,
+        "runway_len": 3540.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.278999328613,
+          52.33810043335
+        ]
+      },
+      "properties": {
+        "airport_name": "Provost Airport",
+        "airport_id": 859,
+        "airport_type": "small_airport",
+        "airport_lat": -110.278999328613,
+        "airport_long": 52.33810043335,
+        "runway_len": 5001.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 133.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.278999328613,
+          52.33810043335
+        ]
+      },
+      "properties": {
+        "airport_name": "Provost Airport",
+        "airport_id": 859,
+        "airport_type": "small_airport",
+        "airport_lat": -110.278999328613,
+        "airport_long": 52.33810043335,
+        "runway_len": 5001.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 126.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.278999328613,
+          52.33810043335
+        ]
+      },
+      "properties": {
+        "airport_name": "Provost Airport",
+        "airport_id": 859,
+        "airport_type": "small_airport",
+        "airport_lat": -110.278999328613,
+        "airport_long": 52.33810043335,
+        "runway_len": 5001.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -112.753997802734,
+          52.310001373291
+        ]
+      },
+      "properties": {
+        "airport_name": "Stettler Airport",
+        "airport_id": 862,
+        "airport_type": "small_airport",
+        "airport_lat": -112.753997802734,
+        "airport_long": 52.310001373291,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.629997253418,
+          50.004699707031
+        ]
+      },
+      "properties": {
+        "airport_name": "Claresholm Industrial Airport",
+        "airport_id": 863,
+        "airport_type": "small_airport",
+        "airport_lat": -113.629997253418,
+        "airport_long": 50.004699707031,
+        "runway_len": 3100.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.629997253418,
+          50.004699707031
+        ]
+      },
+      "properties": {
+        "airport_name": "Claresholm Industrial Airport",
+        "airport_id": 863,
+        "airport_type": "small_airport",
+        "airport_lat": -113.629997253418,
+        "airport_long": 50.004699707031,
+        "runway_len": 3100.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.629997253418,
+          50.004699707031
+        ]
+      },
+      "properties": {
+        "airport_name": "Claresholm Industrial Airport",
+        "airport_id": 863,
+        "airport_type": "small_airport",
+        "airport_lat": -113.629997253418,
+        "airport_long": 50.004699707031,
+        "runway_len": 3100.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.772003173828,
+          53.893100738525
+        ]
+      },
+      "properties": {
+        "airport_name": "Elk Point Airport",
+        "airport_id": 865,
+        "airport_type": "small_airport",
+        "airport_lat": -110.772003173828,
+        "airport_long": 53.893100738525,
+        "runway_len": 4492.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.766998291016,
+          52.799999237061
+        ]
+      },
+      "properties": {
+        "airport_name": "Killam-Sedgewick Airport",
+        "airport_id": 868,
+        "airport_type": "small_airport",
+        "airport_lat": -111.766998291016,
+        "airport_long": 52.799999237061,
+        "runway_len": 2950.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASPHALT",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -80.944026,
+          44.661068
+        ]
+      },
+      "properties": {
+        "airport_name": "East Linton (Kerr Field)",
+        "airport_id": 46604,
+        "airport_type": "small_airport",
+        "airport_lat": -80.944026,
+        "airport_long": 44.661068,
+        "runway_len": 2400.0,
+        "runway_wdt": 50.0,
+        "runway_surface": "Turf / Gravel",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.903999328613,
+          51.631401062012
+        ]
+      },
+      "properties": {
+        "airport_name": "Hanna Airport",
+        "airport_id": 870,
+        "airport_type": "small_airport",
+        "airport_lat": -111.903999328613,
+        "airport_long": 51.631401062012,
+        "runway_len": 1800.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "GRS",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.903999328613,
+          51.631401062012
+        ]
+      },
+      "properties": {
+        "airport_name": "Hanna Airport",
+        "airport_id": 870,
+        "airport_type": "small_airport",
+        "airport_lat": -111.903999328613,
+        "airport_long": 51.631401062012,
+        "runway_len": 3535.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.903999328613,
+          51.631401062012
+        ]
+      },
+      "properties": {
+        "airport_name": "Hanna Airport",
+        "airport_id": 870,
+        "airport_type": "small_airport",
+        "airport_lat": -111.903999328613,
+        "airport_long": 51.631401062012,
+        "runway_len": 1418.0,
+        "runway_wdt": 60.0,
+        "runway_surface": "GRS",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -117.295997619629,
+          55.032501220703
+        ]
+      },
+      "properties": {
+        "airport_name": "Valleyview Airport",
+        "airport_id": 871,
+        "airport_type": "small_airport",
+        "airport_lat": -117.295997619629,
+        "airport_long": 55.032501220703,
+        "runway_len": 3300.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.027000427246,
+          52.078601837158
+        ]
+      },
+      "properties": {
+        "airport_name": "Innisfail Airport",
+        "airport_id": 875,
+        "airport_type": "small_airport",
+        "airport_lat": -114.027000427246,
+        "airport_long": 52.078601837158,
+        "runway_len": 3025.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.027000427246,
+          52.078601837158
+        ]
+      },
+      "properties": {
+        "airport_name": "Innisfail Airport",
+        "airport_id": 875,
+        "airport_type": "small_airport",
+        "airport_lat": -114.027000427246,
+        "airport_long": 52.078601837158,
+        "runway_len": 3025.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.027000427246,
+          52.078601837158
+        ]
+      },
+      "properties": {
+        "airport_name": "Innisfail Airport",
+        "airport_id": 875,
+        "airport_type": "small_airport",
+        "airport_lat": -114.027000427246,
+        "airport_long": 52.078601837158,
+        "runway_len": 3025.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -115.415000915527,
+          54.670799255371
+        ]
+      },
+      "properties": {
+        "airport_name": "Swan Hills Airport",
+        "airport_id": 876,
+        "airport_type": "small_airport",
+        "airport_lat": -115.415000915527,
+        "airport_long": 54.670799255371,
+        "runway_len": 4500.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.208999633789,
+          51.696701049805
+        ]
+      },
+      "properties": {
+        "airport_name": "Three Hills Airport",
+        "airport_id": 878,
+        "airport_type": "small_airport",
+        "airport_lat": -113.208999633789,
+        "airport_long": 51.696701049805,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.833000183105,
+          50.533298492432
+        ]
+      },
+      "properties": {
+        "airport_name": "High River Airport",
+        "airport_id": 879,
+        "airport_type": "small_airport",
+        "airport_lat": -113.833000183105,
+        "airport_long": 50.533298492432,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.833000183105,
+          50.533298492432
+        ]
+      },
+      "properties": {
+        "airport_name": "High River Airport",
+        "airport_id": 879,
+        "airport_type": "small_airport",
+        "airport_lat": -113.833000183105,
+        "airport_long": 50.533298492432,
+        "runway_len": 2950.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "GVL",
+        "radio_freq": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.268997192383,
+          54.477500915527
+        ]
+      },
+      "properties": {
+        "airport_name": "Cold Lake Regional Airport",
+        "airport_id": 880,
+        "airport_type": "small_airport",
+        "airport_lat": -110.268997192383,
+        "airport_long": 54.477500915527,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -110.268997192383,
+          54.477500915527
+        ]
+      },
+      "properties": {
+        "airport_name": "Cold Lake Regional Airport",
+        "airport_id": 880,
+        "airport_type": "small_airport",
+        "airport_lat": -110.268997192383,
+        "airport_long": 54.477500915527,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 126.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.432998657227,
+          54.099998474121
+        ]
+      },
+      "properties": {
+        "airport_name": "Barrhead Airport",
+        "airport_id": 883,
+        "airport_type": "small_airport",
+        "airport_lat": -114.432998657227,
+        "airport_long": 54.099998474121,
+        "runway_len": 3500.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -112.81600189209,
+          53.040298461914
+        ]
+      },
+      "properties": {
+        "airport_name": "Camrose Airport",
+        "airport_id": 888,
+        "airport_type": "small_airport",
+        "airport_lat": -112.81600189209,
+        "airport_long": 53.040298461914,
+        "runway_len": 4500.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -112.776000977,
+          48.9986000061
+        ]
+      },
+      "properties": {
+        "airport_name": "Del Bonita / Whetstone International Airport",
+        "airport_id": 889,
+        "airport_type": "small_airport",
+        "airport_lat": -112.776000977,
+        "airport_long": 48.9986000061,
+        "runway_len": 4363.0,
+        "runway_wdt": 65.0,
+        "runway_surface": "TURF",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -118.87400054932,
+          53.916900634766
+        ]
+      },
+      "properties": {
+        "airport_name": "Grande Cache Airport",
+        "airport_id": 890,
+        "airport_type": "small_airport",
+        "airport_lat": -118.87400054932,
+        "airport_long": 53.916900634766,
+        "runway_len": 5000.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.926887035,
+          52.2209249248
+        ]
+      },
+      "properties": {
+        "airport_name": "Castor Airport",
+        "airport_id": 891,
+        "airport_type": "small_airport",
+        "airport_lat": -111.926887035,
+        "airport_long": 52.2209249248,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -114.95999908447,
+          53.265800476074
+        ]
+      },
+      "properties": {
+        "airport_name": "Drayton Valley Industrial Airport",
+        "airport_id": 892,
+        "airport_type": "small_airport",
+        "airport_lat": -114.95999908447,
+        "airport_long": 53.265800476074,
+        "runway_len": 5066.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -111.573997498,
+          57.0555992126
+        ]
+      },
+      "properties": {
+        "airport_name": "Fort McMurray / Mildred Lake Airport",
+        "airport_id": 893,
+        "airport_type": "small_airport",
+        "airport_lat": -111.573997498,
+        "airport_long": 57.0555992126,
+        "runway_len": 5437.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "TREATED GRAVEL",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -73.672395,
+          45.9144
+        ]
+      },
+      "properties": {
+        "airport_name": "St-Esprit Aerodrome",
+        "airport_id": 46605,
+        "airport_type": "small_airport",
+        "airport_lat": -73.672395,
+        "airport_long": 45.9144,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "Turf",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.687338829,
+          53.6866943605
+        ]
+      },
+      "properties": {
+        "airport_name": "Edmonton / St. Albert (Delta Helicopters) Heliport",
+        "airport_id": 895,
+        "airport_type": "heliport",
+        "airport_lat": -113.687338829,
+        "airport_long": 53.6866943605,
+        "runway_len": 3200.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "GRAVEL",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.687338829,
+          53.6866943605
+        ]
+      },
+      "properties": {
+        "airport_name": "Edmonton / St. Albert (Delta Helicopters) Heliport",
+        "airport_id": 895,
+        "airport_type": "heliport",
+        "airport_lat": -113.687338829,
+        "airport_long": 53.6866943605,
+        "runway_len": 86.0,
+        "runway_wdt": 86.0,
+        "runway_surface": "GRAVEL",
+        "radio_freq": 123.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -113.740997314453,
+          54.142200469971
+        ]
+      },
+      "properties": {
+        "airport_name": "Westlock Airport",
+        "airport_id": 896,
+        "airport_type": "small_airport",
+        "airport_lat": -113.740997314453,
+        "airport_long": 54.142200469971,
+        "runway_len": 3000.0,
+        "runway_wdt": 75.0,
+        "runway_surface": "ASP",
+        "radio_freq": 122.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -121.365997314453,
+          61.86669921875
+        ]
+      },
+      "properties": {
+        "airport_name": "Fort Simpson Island Airport",
+        "airport_id": 899,
+        "airport_type": "small_airport",
+        "airport_lat": -121.365997314453,
+        "airport_long": 61.86669921875,
+        "runway_len": 3000.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "Gravel/Snow",
+        "radio_freq": 122.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "icon": "../img/map-icon-test.jpg",
+        "coordinates": [
+          -121.365997314453,
+          61.86669921875
+        ]
+      },
+      "properties": {
+        "airport_name": "Fort Simpson Island Airport",
+        "airport_id": 899,
+        "airport_type": "small_airport",
+        "airport_lat": -121.365997314453,
+        "airport_long": 61.86669921875,
+        "runway_len": 3000.0,
+        "runway_wdt": 100.0,
+        "runway_surface": "Gravel/Snow",
+        "radio_freq": 126.7
+      }
+    }
+  ]
+}

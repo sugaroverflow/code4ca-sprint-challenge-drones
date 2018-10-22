@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>C4C Sprint</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--Import Google Icon Font-->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<!--Import materialize.css-->
+		<link type="text/css" rel="stylesheet" href="build/css/materialize.min.css"  media="screen,projection"/>
+		<link rel="stylesheet" href="build/css/styles.css" />
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<img src="build/assets/canada-logo.png" alt="" />
+								</a>
+						</div>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<div class="row">
+					      <div class="col s12">
+					      	<div id="mapcanvas"></div>
+					      	<!--- Search bar -->
+					      	<div id="search-bar">
+					      	  <input id="search-input" class="controls" type="search" placeholder="Search By Location or Coordinates" required>
+					      	</div>
+
+					      	<!-- Modal Structure -->
+					      	<div id="help-modal" class="modal">
+					      		<a href="#!" class="modal-close waves-effect waves-green btn-flat" id="close-button"><i class="material-icons">close</i></a>
+					      		<div class="modal-content">
+					      		  <div class="modal-header">Help</div>
+					      		  <ul class="collapsible">
+					      		    <li>
+					      		      <div class="collapsible-header">
+					      		      	What do the circles mean?
+					      		      	<i class="material-icons iconadd col s2">arrow_drop_down</i><i class="material-icons iconremove col s2">arrow_drop_up</i>
+					      		      </div>
+					      		      <div class="collapsible-body">
+					      		      		<p class="title"><em>No Fly Zones</em><img src="build/assets/graphics/%22no%20fly%22%20zones.png" class="no-fly-icon"></p></img>
+								              <p>You need to get permission to fly in a <em>No Fly Zone</em>.</p>
+					      		      </div>
+					      		    </li>
+					      		    <li>
+					      		      <div class="collapsible-header">
+					      		      	What are the regulations for flying drones?
+					      		      	<i class="material-icons iconadd col s2">arrow_drop_down</i><i class="material-icons iconremove col s2">arrow_drop_up</i>
+					      		      </div>
+					      		      <div class="collapsible-body"><span>
+					      		      	There are new regulations for drone users as of November 2018. <a href="https://www.tc.gc.ca/en/services/aviation/drone-safety/where-fly-drone.html">Check Transport Canada for the full list.</a>
+					      		      </span></div>
+					      		    </li>
+					      		    <li>
+					      		      <div class="collapsible-header">
+					      		      	How do I use the map?
+					      		      	<i class="material-icons iconadd col s2">arrow_drop_down</i><i class="material-icons iconremove col s2">arrow_drop_up</i>
+					      		      </div>
+					      		      <div class="collapsible-body"><span>
+						      		       We use standard Google Maps functionality. To learn more, visit <a href="https://support.google.com/maps/?hl=en">their help page</a>.
+					      		      </span></div>
+					      		    </li>
+					      		  </ul>
+					      		  <div class="modal-footer">
+					      		     <p><a class="help-center-link" href="https://www.canada.ca/en/contact.html">Visit our Help centre</a></p>
+				      		    </div>
+					      		</div>
+					      	</div>
+				      	</div>
+
+					      </div>
+
+					    </div>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="copyright">
+								<li>C4C Sprint challenge. </li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!--JavaScript at end of body for optimized loading-->
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+			<script src="build/js/vendor/materialize.min.js"></script>
+			<script src="build/js/script.js"></script>
+			<script src="build/js/vendor/gmaps.min.js"></script>
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDh0eB6mkhUYRgfAwwkKuvSbHwpl9HvlIs&libraries=places&callback=initializeMap"></script>
+			</script>
+			<script type="text/javascript">
+				$(document).ready(function(){
+				  $('.modal').modal();
+				  $('.collapsible').collapsible();
+				  $('.fixed-action-btn').floatingActionButton();
+				});
+			</script>
+
+
+	</body>
+</html>

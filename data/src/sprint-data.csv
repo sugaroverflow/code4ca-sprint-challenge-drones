@@ -1,0 +1,2131 @@
+airport_id,airport_type,airport_name,airport_long,airport_lat
+28477,small_airport,Pourvoirie Joncas Airstrip,47.10540008544922,-77.631103515625
+35358,small_airport,Maxville Airport,45.296501,-74.8536
+42744,small_airport,1669 Diamondview Road Private Strip,45.31809997558594,-76.05599975585938
+42745,small_airport,1797 Diamondview Road Private Strip,45.33111953735352,-76.07295989990234
+46632,small_airport,Knustford Airstrip,50.5980307035,-120.308640003
+41087,small_airport,Navan Bearbrook Airport,45.39166641235352,-75.29694366455078
+45216,small_airport,Voisey's Bay,56.344722222200005,-62.08805555560001
+41098,small_airport,Pontiac Airpark,45.529726422799996,-76.16735458370002
+39824,small_airport,Kaskattama Airstrip,57.0415,-90.1126
+42747,heliport,Citadelle de Québec Heliport,46.80739974975586,-71.20659637451172
+42748,heliport,Manic 5 Heliport,50.66110610961914,-68.74042510986328
+46516,seaplane_base,Stevensville Seaplane Base,42.924840969099996,-79.0784794092
+39943,small_airport,Primrose Airport,55.390002,-111.1198
+44455,small_airport,Hawke Field,44.000000094499995,-78.6488002539
+44558,small_airport,Private Airstrip,55.46689987182617,-127.7030029296875
+44570,small_airport,Nass Camp Airstrip,55.29069900512695,-128.99699401855472
+45043,small_airport,Tottenham/Ronan Aerodrome,44.042100519899996,-79.84668016430001
+40037,small_airport,Ullswater Airport,45.2107,-79.5045
+40039,small_airport,Upper Kent Airport,46.587133,-67.719555
+45047,heliport,"Milford ""Heliport"" (PPR)",43.937523496800004,-77.08777606490001
+40057,small_airport,Wingham (Inglis Field) Airport,43.897621,-81.335737
+40062,small_airport,Wrong Lake Airport,52.615452000000005,-96.184015
+44559,small_airport,Witwer Airfield,55.53519821166992,-127.86599731445312
+44557,small_airport,Seeley Lake Field,55.193001,-127.712997
+46374,small_airport,Disley Airport,50.637459,-105.036194
+46375,small_airport,Elbow Airstrip,51.1344200458,-106.585707664
+46495,small_airport,Port Hope (Peter's Field) Airport,44.024881,-78.426976
+46519,small_airport,Wesleyville Airstrip,43.9401965638,-78.444185257
+46500,small_airport,Regina / Aerogate Airport,50.597731,-104.601312
+46503,heliport,Picton (Prince Edward County Hospital) Heliport,44.016353,-77.138047
+46505,heliport,WESCAM Burlington,43.340449013699995,-79.83305454250002
+46521,heliport,Point Petre Helipad,43.84324432139999,-77.1447569132
+46545,small_airport,Little's Farm,43.7975530554,-79.7895812988
+46577,small_airport,Brier Island Airstrip,44.2570030865,-66.3593530655
+46580,small_airport,Beaverton Airport,44.4470778865,-79.09907341
+46599,heliport,Alhambra / Ahlstrom Heliport,52.346239917700004,-114.67088341700001
+298628,small_airport,Stuart Island Airstrip,50.40944743359999,-125.13161659200001
+46629,small_airport,Gamble Field,43.3576842766,-79.9830651283
+46630,small_airport,Willow Lake Airstrip,43.1668129063,-80.7752287388
+46631,small_airport,Woodstock Private Airstrip,43.128144001,-80.8007848263
+46633,small_airport,Monte Creek Airstrip,50.648263182,-119.90032196
+46634,small_airport,Prichard Airstrip,50.659473079099996,-119.793720245
+46635,small_airport,Courtland / Tillsonburg Flying Club Field,42.85709146759999,-80.63207387920002
+298629,small_airport,Sheridan Lake Airstrip,51.495492221300005,-120.83579063399999
+46642,small_airport,Baker's Valley,44.7546573859,-76.92901611330002
+46638,small_airport,Brisbane,43.7378792754,-80.08428096770001
+46648,small_airport,Roseville Field,43.3471211516,-80.43365478519999
+298348,small_airport,L'Île d'Entrée Airfield,47.276200967600005,-61.7128658295
+298369,heliport,Newcastle (Morgan's Road) Heliport,43.9324087966,-78.52885723109999
+298381,small_airport,Seagrave Airfield,44.166891030500004,-78.9350295067
+298382,small_airport,Utica Airfield,44.066080608,-79.0208816528
+298383,small_airport,Brougham (High Perspective Hang Glider Port),43.915547259200004,-79.13389921190002
+298392,small_airport,Saint-François-de-Laval (Laval Aviation),45.6886744043,-73.5811257362
+298393,seaplane_base,Saint-François-de-Laval (Laval Aviation),45.693126079399995,-73.58091115949999
+298395,small_airport,Hampton,43.9765877574,-78.706870079
+298396,small_airport,Hampton / Morawetz Field,43.982038338,-78.81718397139998
+298398,small_airport,Sandford Field,44.1547763813,-79.1985189915
+298400,small_airport,Belle River Field,42.245166587,-82.72061347959998
+298401,small_airport,Ruscom Station Field,42.1883059789,-82.673470974
+298402,small_airport,Colinville Field,42.8658522331,-82.3607683182
+298403,small_airport,Tyneside Field,43.1022832509,-79.87678527830002
+298404,small_airport,Burnaby Field,42.884281956399995,-79.31903600689999
+298407,seaplane_base,Whati Airport Seaplane Base,63.132175914099996,-117.25862503100001
+298408,small_airport,Dugan Lake Air Strip,52.1977699021,-121.95758700399999
+298409,heliport,Williams Lake / Lee Todd Heliport,52.1658906512,-122.20654428
+298410,heliport,Williams Lake / Clusko Logging,52.165857747,-122.162486315
+298411,heliport,Williams Lake / Highland Helicopters,52.140471538999996,-122.15888142600001
+298412,heliport,Williams Lake / Wayne Peterson Heliport,52.1237896659,-122.107565403
+298413,heliport,Williams Lake / Pioneer Heliport,52.110247928700005,-122.134366035
+298486,small_airport,Elizabethville Airstrip,44.063898898699996,-78.49959969519999
+298546,small_airport,Brussels / Hemingway Field,43.718512413199996,-81.23827457430001
+298814,small_airport,Douro Airfield,44.3838238978,-78.1574678421
+298855,small_airport,Foxden Farms,43.9686657666,-79.40330028530002
+299001,small_airport,Selby - Howard's Airstrip,44.315158841800006,-76.9580966234
+299272,small_airport,Vulcan / Kirkcaldy Airport,50.331944,-113.357778
+299302,small_airport,Napanee Airstrip,44.253060974600004,-76.9941186905
+299559,heliport,D.C. Heliport,44.358246936099995,-76.85742259030002
+299562,small_airport,Centreview Airstrip,45.374473321,-77.72322893139999
+299651,small_airport,Linden,51.59432189969999,-113.48022937799999
+299911,small_airport,Mary River Aerodrome,71.3241666667,-79.3569444444
+300233,seaplane_base,Rivière Temiscamie Floatbase,51.008489000000004,-72.989837
+300313,small_airport,Newburgh - R.S. (Bob) Clapp Memorial Airstrip,44.354603000000004,-76.854515
+300322,small_airport,Fern's Field,44.1052991057,-77.45914936070001
+300400,small_airport,Farrow's Field,44.4393568122,-80.9398841858
+301224,seaplane_base,Balsam Lake Seaplane Base,44.54063,-78.893096
+301226,seaplane_base,Val D'or (St. Pierre) Water Aerodrome,48.077864,-77.86965500000001
+301227,seaplane_base,Val D'or / Huard Water Aerodrome,48.071742,-77.87384
+301230,heliport,Two Hills (Health Centre) Heliport,53.71361874390001,-111.730871201
+302070,small_airport,Long Sault Airstrip,45.039786801400005,-74.8594772816
+307218,small_airport,Sky Wrench Field,49.120833333300006,-81.0435
+307238,small_airport,Warren Field,42.936718,-81.479738
+307323,small_airport,Hastings Field,48.78255,-123.28426
+307391,small_airport,Ivanhoe Airstrip,48.183055555600006,-82.5492361111
+308011,small_airport,Lorneville Airstrip,44.448507,-78.910104
+308537,small_airport,Mount Forest Roths' Field,44.23,-81.026667
+308538,heliport,Calgary (Aerial Recon) Heliport,50.868,-114.13799999999999
+308539,small_airport,Roths field,43.9785487888,-80.77706336979999
+309767,small_airport,Varys field,44.5897948166,-80.76384544369998
+309890,small_airport,Flamboro Centre Airport,43.371598999999996,-79.93238000000001
+309272,small_airport,Rivière-aux-Saumons Aerodrome (Private Operator: Safari Anticosti),49.401389,-62.295278
+309273,small_airport,Rivière Bell Airport,49.078889000000004,-62.236943999999994
+309891,small_airport,Skydive SWOOP,43.3018169655,-79.971832037
+309924,heliport,Prince Edward O.P.P. Helipad,43.9952303773,-77.18827575450001
+309926,seaplane_base,Hallowell Mills Cove Seaplane Base,44.0335547856,-77.1363830566
+309927,heliport,Clapp Farm Heliport,43.909323433699996,-77.0790508389
+310620,seaplane_base,Marina Senneterre,48.392617,-77.225038
+311164,seaplane_base,"Lac William, Piste de glace (hiver seulement)",46.1256599864,-71.5747269101
+311586,small_airport,Beaverton North,44.4594444444,-79.1261111111
+312632,small_airport,Paterson Field,43.419447,-81.237176
+312802,small_airport,Robinson International Air Field,44.18,-80.9515
+313545,small_airport,Pretty Estates Resort Airport,49.252371999999994,-121.945846
+315415,small_airport,Nicholson Island Private Airstrip,43.916397700000005,-77.52523636
+315836,seaplane_base,Cree Lake (Crystal Lodge) Water Aerodrome,57.4616,-106.7528
+316098,seaplane_base,Cameron Bay Water Aerodrome,66.06,-117.89
+316109,seaplane_base,Fort Resolution Water Aerodrome,61.163999999999994,-113.678
+316114,seaplane_base,Clarence Lagoon Water Aerodrome,69.62,-140.81
+316115,seaplane_base,Fort Smith Water Aerodrome,60.02,-111.89
+316197,seaplane_base,Boffa Lake Water Aerodrome,69.637,-116.196
+316215,seaplane_base,Rocher River Water Aerodrome.,61.379,-112.744
+316403,small_airport,Griffith Island,44.830509924280996,-80.90098118316399
+316408,small_airport,White Cloud Island,44.835907609474,-80.97540070675299
+316411,small_airport,Hay Island Airstrip,44.8902,-80.9773
+317280,small_airport,Carnie Airfield,42.424644,-81.865847
+28244,seaplane_base,Gowganda/Gowganda Lake Seaplane Base,47.6506,-80.785301
+317772,heliport,Triple Island Lightstation Helipad,54.294727,-130.880179
+317825,small_airport,Carlstads Airstrip,56.247489,-119.79863600000002
+317826,small_airport,Prairie Point Airport,58.272539,-116.461299
+318009,small_airport,Goderich Municipal Airport,43.767747,-81.710472
+320057,heliport,Amphitrite Point Heliport,48.9224,-125.541601
+320058,heliport,Egg Island Lightstation Helipad,51.249701,-127.8364
+320059,heliport,Green Island Lightstation Helipad,54.56854010000001,-130.70648
+320060,small_airport,Bamfield Airstrip,48.8206,-125.1193
+320063,heliport,Scarlett Point Lighthouse Helipad,50.8609,-127.6126
+320064,small_airport,Pointed Mountain Airport,60.331100199999995,-123.81299999999999
+320091,heliport,Race Rocks Light Helipad,48.298504,-123.5322
+320092,heliport,Elephant Enterprises Inc. Heliport,51.1152,-114.2956
+320093,heliport,Foothills Hospital McCaig Tower Helipad,51.0654,-114.135001
+320094,heliport,K. Coffey Residence Helipad,51.1657,-114.314801
+320095,heliport,Calgary\Okotoks (GG Ranch) Heliport,50.7448,-113.991601
+320096,heliport,Calgary/South Health Campus Hospital Helipad,50.8828,-113.95200000000001
+320116,heliport,Canmore Hospital Helipad,51.0924,-115.349501
+320121,small_airport,Rednek Air Airport,49.821603,-112.5308
+320123,small_airport,Didsbury/Minty Field,51.6535,-114.353
+320190,small_airport,Bracebridge (Stone Wall Farm) Airport,44.988503,-79.1895
+320311,heliport,Stuart Lake Hospital Helipad,54.440705,-124.2424
+320339,small_airport,Palestine Airport,44.490101,-78.977902
+320343,small_airport,Lampman/Spitfire Air Airport,49.49,-102.882902
+320420,heliport,Chrome Island Lightstation Helipad,49.471829,-124.684468
+320495,heliport,Cape Scott Lightstation Helipad,50.7819,-128.427504
+320522,small_airport,Martin's Landing,48.2936,-89.543002
+320541,heliport,Valleyview Health Centre Heliport,55.0675,-117.2718
+320560,heliport,Sisters Islets Lighthouse Helipad,49.486989,-124.43506200000002
+320587,small_airport,Stouffville Airport,43.9931,-79.2674
+320594,heliport,Active Pass Lighthouse Heliport,48.8734,-123.2914
+320608,heliport,Ivory Island Lightstation Helipad,52.271104,-128.405304
+320620,heliport,Discovery Island Lightstation Helipad,48.4248,-123.225802
+320671,small_airport,Aviation PLMG Inc Airport,46.8844,-75.3329
+320716,heliport,Bonilla Island Lightstation Helipad,53.492902,-130.6353
+320723,heliport,Addenbroke Island Lightstation Helipad,51.6045,-127.863602
+320878,seaplane_base,Morrison Lake Seaplane Base,44.8705,-79.461
+320983,large_airport,Cyll,53.310365000000004,-110.07202099999999
+320987,medium_airport,Cycd,49.054970000000004,-123.87085
+321389,small_airport,Intergalactic,49.020309000000005,-122.732863
+322987,small_airport,Twin Creeks Airport,62.619443999999994,-131.270277
+323244,small_airport,Brechin / Skywagon City Airfield,44.569964,-79.233377
+323245,seaplane_base,Brechin / Ronan Waterdrome,44.569697,-79.2237
+323246,small_airport,Brechin / Ronan Airfield,44.571164,-79.22538399999999
+325172,small_airport,Bolton Lake Lodge Airstrip,54.220665000000004,-95.766588
+326149,large_airport,yyz,0.0,0.0
+329455,small_airport,Fawcettville Airfield,44.034448,-77.14711199999999
+43086,heliport,Abbotsford (Regional Hospital & Cancer Centre) Heliport,49.0361500085,-122.314048558
+306929,small_airport,St. Andre-Avellin Aerodrome,45.746389,-75.07583100000001
+28471,seaplane_base,Zeballos Seaplane Base,49.9778,-126.8445
+611,heliport,Smithers (Canadian) Heliport,54.7750015258789,-127.13500213623048
+28237,seaplane_base,Gilford Island/Echo Bay Seaplane Base,50.7667007446,-126.48300170899999
+612,small_airport,Invermere Airport,50.5167007446289,-116.0
+28374,seaplane_base,Port Alberni/Sproat Lake Seaplane Base,49.289152450699994,-124.937746525
+28174,seaplane_base,Bedwell Harbour Seaplane Base,48.75,-123.23300170899999
+28447,seaplane_base,Tofino Harbour Seaplane Base,49.155,-125.91
+613,heliport,Kelowna (Alpine) Heliport,49.8653839897,-119.568818361
+28468,seaplane_base,Williams Lake Seaplane Base,52.1166992188,-122.099998474
+45053,heliport,Calgary (Alberta Children's Hospital),51.07582624649999,-114.14770782
+28332,seaplane_base,Nanaimo Harbour Water Airport,49.1833000183,-123.94999694799999
+28427,seaplane_base,Stewart Seaplane Base,55.9166984558,-130.0
+320493,heliport,Allan Dale Residence Heliport,52.2699,-113.6974
+320494,heliport,Allan Dale Trailers & RV Heliport,52.308801,-113.8633
+614,small_airport,Trail Airport,49.0555992126,-117.60900116
+615,small_airport,Merritt Airport,50.1227989197,-120.747001648
+28164,seaplane_base,Atlin Seaplane Base,59.5666999817,-133.716995239
+28238,seaplane_base,Gilford Island/Health Bay Seaplane Base,50.7000007629,-126.599998474
+28335,seaplane_base,Nelson Seaplane Base,49.5,-117.30000305200001
+616,heliport,Cranbrook (East Kootenay Regional Hospital) Heliport,49.51250076293945,-115.75
+28187,seaplane_base,Campbell River Seaplane Base,50.049999,-125.25
+617,small_airport,Tsacha Lake Airport,53.0167007446289,-124.83300018310548
+28465,seaplane_base,Whistler/Green Lake Water Aerodrome,50.1436004639,-122.948997498
+28251,seaplane_base,Harrison Hot Springs Seaplane Base,49.3048530057,-121.78593635600001
+28169,seaplane_base,Bamfield Seaplane Base,48.8333015442,-125.133003235
+320199,small_airport,Cayuga East Airport,42.960301,-79.788
+618,small_airport,Tsuniah Lake Lodge Airport,51.53329849243164,-124.16699981689452
+28177,seaplane_base,Big Bay Seaplane Base,50.3923,-125.1372
+28339,seaplane_base,Nimpo Lake Seaplane Base,52.327,-125.145
+619,small_airport,Chilko Lake (Tsylos Park Lodge) Airport,51.626098632799994,-124.14199829100001
+28182,seaplane_base,Blind Channel Seaplane Base,50.416698,-125.5
+28364,seaplane_base,Pender Harbour Seaplane Base,49.623785,-124.02488400000001
+28433,seaplane_base,Surge Narrows Seaplane Base,50.216702000000005,-125.116997
+28346,seaplane_base,Ocean Falls Seaplane Base,52.3666992188,-127.717002869
+620,small_airport,Courtenay Airpark,49.679401397705,-124.9820022583
+621,small_airport,Valemount Airport,52.85329818725586,-119.33399963378906
+28268,seaplane_base,Kamloops Seaplane Base,50.700003,-120.432999
+622,small_airport,Wiley Airport,66.49109649658203,-136.572998046875
+623,small_airport,Creston Valley Regional Airport - Art Sutcliffe Field,49.03689956665,-116.49800109863001
+624,small_airport,Anahim Lake Airport,52.45249938964844,-125.3030014038086
+625,small_airport,Cayley A J Flying Ranch Airport,50.45000076293945,-113.75
+28370,seaplane_base,Pitt Meadows Seaplane Base,49.209858000000004,-122.70904499999999
+626,small_airport,Fort Ware Airport,57.42720031738281,-125.6500015258789
+627,small_airport,Delta Heritage Air Park,49.0774,-122.941002
+28188,seaplane_base,Camp Cordero Seaplane Base,50.446694,-125.45378500000001
+628,heliport,Vancouver (Children & Women's Health Centre) Heliport,49.2438419064,-123.127095848
+28219,seaplane_base,Finlay Bay Seaplane Base,55.97919845581055,-123.7770004272461
+629,small_airport,Douglas Lake Airport,50.1654600485,-120.17127335100001
+30592,small_airport,Fort MacKay/Albian Aerodrome,57.2238998413,-111.418998718
+46536,heliport,Prince Albert (Fire Centre) Heliport,53.228574,-105.75573600000001
+630,heliport,Ganges (Lady Minto / Gulf Islands Hospital) Heliport,48.8625294276,-123.508716524
+28434,seaplane_base,Tahsis Seaplane Base,49.9166984558,-126.666999817
+631,small_airport,Duncan Airport,48.7545336204,-123.709702492
+46598,small_airport,Alhambra / Ahlstrom Airport,52.346194,-114.667525
+632,small_airport,Houston Airport,54.4392009821,-126.77887916600001
+28380,seaplane_base,Port McNeill Seaplane Base,50.5922314571,-127.08838462799999
+28454,seaplane_base,Vancouver International Seaplane Base,49.177046999999995,-123.168154
+28450,seaplane_base,Ucluelet Seaplane Base,48.950003,-125.550005
+28385,seaplane_base,Prince Rupert/Digby Island Seaplane Base,54.313646,-130.405058
+28455,seaplane_base,Vanderhoof (District) Seaplane Base,54.0206,-123.995001
+634,small_airport,Sechelt-Gibsons Airport,49.460601806599996,-123.71900177
+28458,seaplane_base,Victoria Airport,48.65389205060001,-123.45045089700001
+635,small_airport,Ingenika Airport,56.790599823,-124.89700317399999
+28274,seaplane_base,Kitkatla Seaplane Base,53.7999992371,-130.432998657
+314226,small_airport,Appleton Field,50.9904,-113.3703
+28196,seaplane_base,Coal Harbour Seaplane Base,50.5999984741,-127.583000183
+636,small_airport,Springhouse Airpark,51.95560073852539,-122.13899993896484
+637,small_airport,Nakusp Airport,50.26639938354492,-117.81300354003906
+28389,seaplane_base,Queen Charlotte City Seaplane Base,53.25,-132.06700134277344
+28384,seaplane_base,Powell Lake Seaplane Base,49.8833007812,-124.532997131
+638,small_airport,Crawford Bay Airport,49.66669845581055,-116.81700134277344
+46600,small_airport,Arthur (Arthur South),43.782729269399994,-80.4329252243
+28276,seaplane_base,Kyuquot Seaplane Base,50.03329849243164,-127.36699676513672
+28176,seaplane_base,Bella Bella/Waglisla Seaplane Base,52.166698,-128.132994
+640,small_airport,Moose Lake (Lodge) Airport,53.07329940795898,-125.40899658203124
+641,small_airport,Barkerville Airport,53.08810043334961,-121.51499938964844
+28225,seaplane_base,Fort Langley Seaplane Base,49.16669845581055,-122.53299713134766
+320490,heliport,Aerosmith Heli Service Heliport,49.3074,-124.413302
+320516,seaplane_base,Roberval (Air Saguenay) Water Aerodrome,48.526,-72.22
+642,small_airport,Atwood / Coghlin Airport,43.6833000183,-81.00440216060001
+28333,seaplane_base,Nanaimo/Long Lake Seaplane Base,49.21670150756836,-124.01699829101562
+643,small_airport,Qualicum Beach Airport,49.3372,-124.393997
+644,small_airport,Port Mcneill Airport,50.5755996704,-127.028999329
+28301,seaplane_base,Lasqueti Island/False Bay Seaplane Base,49.5,-124.3499984741211
+646,small_airport,Oliver Airport,49.173301696777344,-119.5510025024414
+647,small_airport,Vanderhoof Airport,54.04610061645508,-124.01200103759766
+28241,seaplane_base,Gold River Seaplane Base,49.679217,-126.116203
+28396,seaplane_base,Rivers Inlet Seaplane Base,51.683985,-127.264044
+28224,seaplane_base,Fort Grahame Seaplane Base,56.52750015260001,-124.472999573
+649,small_airport,One Hundred Mile House Airport,51.64250183105469,-121.30699920654295
+650,small_airport,Mcbride Airport,53.31499862670898,-120.1709976196289
+28432,seaplane_base,Sullivan Bay Seaplane Base,50.885359,-126.831069
+45222,small_airport,Beausejour/Av-Ranch Airpark,50.041111,-96.585833
+28311,seaplane_base,Mansons Landing Seaplane Base,50.0666999817,-124.98300170899999
+28414,seaplane_base,Shawnigan Lake Seaplane Base,48.63330078125,-123.63300323486328
+651,small_airport,Oak Hammock Air Park,50.13779830932617,-97.0614013671875
+652,small_airport,Scum Lake Airport,51.79999923706055,-123.58300018310548
+653,heliport,Whistler (Hospital) Heliport,50.1202526317,-122.95467943
+28378,seaplane_base,Port Hardy Seaplane Base,50.71670150756836,-127.48300170898438
+28232,seaplane_base,Fort Ware Seaplane Base,57.4236,-125.6442
+28175,seaplane_base,Bella Bella/Shearwater Seaplane Base,52.150002,-128.08299
+28463,seaplane_base,Whaletown Seaplane Base,50.108503999999996,-125.051001
+44374,small_airport,Axe Lake,57.2691650390625,-109.84750366210938
+654,small_airport,Likely Airport,52.61669921875,-121.5
+28235,seaplane_base,Ganges Seaplane Base,48.8545,-123.4969
+28319,seaplane_base,Minstrel Island Seaplane Base,50.61669921875,-126.31700134277344
+28419,seaplane_base,Smithers/Tyhee Lake Seaplane Base,54.716702000000005,-127.050005
+655,small_airport,Gang Ranch Airport,51.55170059204102,-122.3270034790039
+28252,seaplane_base,Hartley Bay Seaplane Base,53.416698,-129.25
+311583,small_airport,Ayr/Sargeant Private Airfield,43.3058333333,-80.49916666670002
+28320,seaplane_base,Mission Seaplane Base,49.13330078125,-122.3000030517578
+28469,seaplane_base,Winfield (Wood Lake) Seaplane Base,50.04999923706055,-119.4000015258789
+28435,seaplane_base,Takla Landing Seaplane Base,55.483999999999995,-125.98700000000001
+656,heliport,Quesnel (G.R. Baker Memorial Hospital) Heliport,52.9826679166,-122.50075846899999
+657,small_airport,Cache Creek-Ashcroft Regional Airport,50.775258,-121.32131399999999
+28229,seaplane_base,Fort St. James/Stuart River Seaplane Base,54.419,-124.271
+28273,seaplane_base,Kincolith Seaplane Base,55.0,-129.94999694824222
+310995,seaplane_base,Bala/Muskoka Float Flying Club Seaplane Base,45.0355,-79.55533299999999
+658,small_airport,Beaverley Airport,53.85559844970703,-122.90799713134766
+659,small_airport,Ospika Airport,56.2750015258789,-124.052001953125
+320797,seaplane_base,Lake Muskoka/Boyd Bay Seaplane Base,45.0505,-79.409002
+320186,heliport,Beddis Beach Helipad,48.79997,-123.4236
+661,heliport,Port Alice (Hospital) Heliport,50.4257417034,-127.48843342100001
+662,small_airport,Tipella Airport,49.74309921264648,-122.16300201416016
+663,small_airport,Osoyoos Airport,49.037200927700006,-119.48899841299999
+664,small_airport,Bella Bella (Campbell Island) Airport,52.185001,-128.156994
+665,small_airport,Ford Bay Airport,66.03749847412111,-124.71499633789062
+28153,seaplane_base,Alert Bay Seaplane Base,50.58330154418945,-126.93299865722656
+666,heliport,Kamloops (Royal Inland Hospital) Heliport,50.669028798,-120.333158076
+44692,heliport,Calgary / Blue-Con Heliport,50.9969638393,-113.89388904
+667,heliport,Harbour (Public) Heliport,49.2868921105,-123.106112257
+668,heliport,Tofino (Hospital) Heliport,49.151100158691406,-125.90899658203124
+669,heliport,Burgeo (Calder Health Care Corp) Heliport,47.613179191899995,-57.62399911879999
+670,heliport,Delta (North) Heliport,49.1199607211,-123.047267944
+672,small_airport,Nahanni Butte Airport,61.029701232910156,-123.38899993896484
+673,heliport,White Saddle Ranch Heliport,51.733299255371094,-124.73300170898438
+674,small_airport,Elko Airport,49.28329849243164,-115.1500015258789
+675,heliport,Beamsville/Panterra Heliport,43.186552790200004,-79.47424471379998
+28156,seaplane_base,Alliford Bay Seaplane Base,53.21500015258789,-131.99099731445312
+28326,seaplane_base,Moose Lake (Lodge) Seaplane Base,53.07580184936523,-125.4010009765625
+676,heliport,Whistler (Municipal) Heliport,50.168377378100004,-122.90475413200001
+46602,small_airport,Belwood (Baird Field),43.808333333,-80.3119444444
+677,heliport,Mission (Public Safety) Heliport,49.132753634,-122.343615219
+678,heliport,Mayne Island (Medical Emergency) Heliport,48.8465101417,-123.283567876
+679,heliport,Seal Cove (Public) Heliport,54.33000183105469,-130.27799987792972
+680,heliport,Victoria Harbour (Camel Point) Heliport,48.41809844970703,-123.38800048828124
+28328,seaplane_base,Muncho Lake/Mile 462 Seaplane Base,59.0099983215332,-125.77400207519531
+681,small_airport,Mabel Lake Airport,50.6088981628418,-118.7310028076172
+682,small_airport,Green Lake Airport,51.42940139770508,-121.20999908447266
+683,heliport,Nanaimo (Regional General Hospital) Heliport,49.185749305600005,-123.971756995
+684,heliport,Prince George (Pacific Western Helicopters) Heliport,53.8775233186,-122.766669989
+28204,seaplane_base,Courtenay Airpark Seaplane Base,49.6814002991,-124.98100280799999
+685,small_airport,Helmet Airport,59.42580032348633,-120.7979965209961
+686,small_airport,Prairie Creek Airport,61.56470108032226,-124.81500244140624
+320083,small_airport,Benalto/Hillmans Farm Airport,52.228,-114.256202
+687,small_airport,Echo Valley Airport,51.24169921875,-121.99400329589844
+28233,seaplane_base,Fraser Lake Seaplane Base,54.0666999817,-124.883003235
+688,heliport,San Juan Point (Coast Guard) Heliport,48.53110122680664,-124.45700073242188
+689,heliport,Vancouver (General Hospital) Heliport,49.261946699,-123.12441095700001
+690,heliport,Port Alberni (West Coast General Hospital) Heliport,49.2488391687,-124.78303603799999
+691,small_airport,Quesnel Lake Airport,52.51499938964844,-121.04499816894531
+692,small_airport,Mile 422 (Alaska Highway) Airport,58.84939956665039,-125.23999786376952
+693,heliport,Victoria (Royal Jubilee Hospital) Heliport,48.434293991800004,-123.325164914
+694,heliport,Little Parker Island Heliport,48.896400451660156,-123.41799926757812
+321881,seaplane_base,Buck Lake Seaplane Base,44.7717,-79.413
+695,small_airport,Gordon Field,58.81669998168945,-122.78299713134766
+696,heliport,Bassano (Health Centre) Heliport,50.79029846191406,-112.46099853515624
+697,small_airport,Radium Hot Springs Airport,50.63330078125,-116.0999984741211
+698,heliport,Cortes Island Heliport,50.05860137939453,-124.98200225830078
+320180,small_airport,Bala Airport,45.030605,-79.617801
+699,small_airport,Elkin Creek Guest Ranch Airport,51.51279830932617,-123.8040008544922
+314447,small_airport,Blackstock / Martyn,44.093,-78.7367
+701,small_airport,Midway Airport,49.0099983215332,-118.79000091552734
+320082,heliport,Banff - Mineral Springs Hospital Helipad,51.17964,-115.576081
+702,heliport,Port McNeill (Hospital) Heliport,50.581676562,-127.06680625700001
+320087,heliport,Bonnyville Health Care Centre Helipad,54.263999999999996,-110.7405
+46537,heliport,Buffalo Narrows (Fire Centre) Heliport,55.83424070270001,-108.404202461
+28312,seaplane_base,Masset Seaplane Base,54.0167007446289,-132.14999389648438
+43877,small_airport,Beaverton North,44.459454,-79.127269
+703,small_airport,Tsay Keh Airport,56.90610122680664,-124.96499633789062
+704,heliport,Banff (Park Compound Heliport) Heliport,51.19169998168945,-115.55799865722656
+705,heliport,Fernie (Elk Valley Hospital) Heliport,49.5,-115.06700134277344
+706,heliport,Sechelt (St. Mary's Hospital) Heliport,49.476225279,-123.748554289
+707,heliport,Lillooet (CC Helicopters 2011) Heliport,50.685104046000006,-121.927245855
+708,small_airport,Fort Langley Airport,49.16749954223633,-122.55500030517578
+709,small_airport,Kemess Creek Airport,56.97439956665039,-126.74099731445312
+710,small_airport,Woodcock Airport,55.06669998168945,-128.23300170898438
+28390,seaplane_base,Quennell Lake Seaplane Base,49.077496999999994,-123.831001
+711,small_airport,Kaslo Airport,49.90359878540039,-116.93499755859376
+298375,small_airport,Clinton / Bleibler Ranch,51.2668021597,-121.685771942
+712,heliport,Tofino Lifeboat Station Heliport,49.13330078125,-125.9000015258789
+713,heliport,Prince Rupert (Hospital) Heliport,54.3046989440918,-130.33000183105472
+320088,small_airport,Anchor 9 Ranch Airport,51.4125,-114.580201
+320295,small_airport,Blue Sky Airport,49.2939,-103.0197
+714,small_airport,Mule Creek Airport,59.78559875488281,-136.58299255371094
+715,heliport,Port Hardy (Hospital) Heliport,50.720622911499994,-127.502938807
+716,small_airport,Briercrest South Airport,50.06639862060547,-105.3010025024414
+717,small_airport,Alberni Valley Regional Airport,49.321899,-124.931
+718,heliport,Blairmore (Crowsnest Pass Health Centre) Heliport,49.6161,-114.457001
+719,small_airport,Tsetzi Lake (Pan Phillips) Airport,52.971900939941406,-125.0270004272461
+720,heliport,Golden (Golden & District General Hospital) Heliport,51.29669952392578,-116.96800231933594
+721,small_airport,Quilchena Airport,50.1618895996,-120.50774574299999
+722,heliport,Sproat Lake Tanker Base Heliport,49.28981723689999,-124.93909567600001
+723,small_airport,Eddontenajon / Iskut Village Airport,57.847994155,-129.983968735
+724,heliport,Prince Rupert (Hydro) Heliport,54.31169891357422,-130.29400634765622
+725,heliport,Terrace (Mills Memorial Hospital) Heliport,54.51087096649999,-128.597647548
+310996,heliport,Belleville (QHC) Heliport,44.1672131754,-77.3504027374
+727,heliport,Valemount (Yellowhead Helicopters) Heliport,52.86669921875,-119.3000030517578
+728,heliport,Comox (St. Joseph's Hospital) Heliport,49.67507461060001,-124.941185117
+729,small_airport,Kitimat Airport,54.16389846801758,-128.58099365234378
+730,small_airport,Fort Grahame Airport,56.52138778769999,-124.470291138
+731,small_airport,Bob Quinn Lake Airport,56.9667015076,-130.25
+300226,small_airport,Belwood (Wright Field),43.793888888999994,-80.4025
+733,heliport,Victoria (General Hospital) Heliport,48.467959755200006,-123.432410359
+734,small_airport,Baldwin West Aerodrome,44.2764,-79.3746
+735,heliport,Madrona Bay Heliport,48.85580062866211,-123.48600006103516
+736,small_airport,Tungsten (Cantung) Airport,61.956901550293,-128.20300292969
+737,small_airport,Tumbler Ridge Airport,55.025001525879,-120.93499755859
+320124,heliport,Edmonton/Bailey Heliport,53.5078,-113.2363
+738,heliport,Seal Cove (Coast Guard) Heliport,54.33169937133789,-130.27699279785156
+28247,seaplane_base,Green Lake Seaplane Base,51.42190170288086,-121.21399688720705
+739,heliport,Kemano Heliport,53.56669998168945,-127.9499969482422
+740,heliport,Victoria Harbour (Shoal Point) Heliport,48.4232077287,-123.387526274
+28399,seaplane_base,Rykerts Seaplane Base,48.983299255371094,-116.5
+741,small_airport,Fraser Lake Airport,54.01330184936523,-124.76799774169922
+28338,seaplane_base,New Germany Seaplane Base,44.54999923706055,-64.75
+742,small_airport,Cable Head Airpark,46.44329833984375,-62.59280014038086
+743,small_airport,Williams Harbour Airport,52.56689834594727,-55.78469848632813
+746,heliport,Amherst Heliport,45.8121180134,-64.220508635
+28243,seaplane_base,Goose (Otter Creek) Seaplane Base,53.349998,-60.416698
+747,small_airport,Winterland Airport,47.13690185546875,-55.3292007446289
+748,small_airport,Springdale Airport,49.47890090942383,-56.1781005859375
+749,small_airport,Woodstock Airport,46.15224846970001,-67.54523277279999
+750,small_airport,Postville Airport,54.9105,-59.78507
+39895,small_airport,Mount Pleasant Airport,46.5999984741,-64.0
+751,small_airport,Juniper Airport,46.56280136108398,-67.16829681396484
+752,small_airport,Black Tickle Airport,53.469398498500006,-55.784999847399995
+753,heliport,Canso (Eastern Memorial Hospital) Heliport,45.3331270219,-60.9819316864
+46478,small_airport,Camden East Airstrip,44.3257833333,-76.7925
+754,small_airport,Porters Lake Airport,44.7099936874,-63.2996821404
+45221,small_airport,Edmonton/Morinville (Currie Field),53.819722,-113.760833
+314212,small_airport,Alida/Cowan Farm Private Aerodrome,49.395901,-101.8249
+755,small_airport,Scottsfield Airpark,45.96030044555664,-67.09529876708984
+28284,seaplane_base,Lac Gobeil Seaplane Base,48.24169921875,-69.64720153808594
+756,small_airport,Weyman Airpark,46.037498474121094,-66.85890197753906
+757,small_airport,Moncton / McEwen Airport,46.15390014649999,-64.7686004639
+314915,small_airport,Cayuga Airport,42.9512,-79.825
+758,small_airport,Charlottetown Airport,52.76499938964844,-56.1156005859375
+759,heliport,Montreal / Longueuil (Centre Hospitalier Pierre-Boucher) Heliport,45.538143678599994,-73.4600481391
+760,heliport,Summerside (Prince County Hospital) Heliport,46.41780090332031,-63.77389907836914
+320491,heliport,Capitale Hélicoptère Heliport,46.8008,-71.3741
+761,small_airport,Cortes Island (Hansen Airfield) Airport,50.020301818847656,-124.98400115966795
+762,small_airport,Boston Brook Airport,47.44860076904297,-67.62470245361328
+320262,heliport,St John's Health Sciences Centre Heliport,47.572503999999995,-52.7455
+763,small_airport,Grand Falls Airport,47.07500076293945,-67.68499755859375
+764,small_airport,St. Lewis (Fox Harbour) Airport,52.37279891967773,-55.67390060424805
+300227,small_airport,Owen Sound (Cook Field),44.6347639588,-80.74130642239999
+765,small_airport,Candle Lake Airpark,53.7682991027832,-105.30799865722656
+46622,small_airport,Christina Lake Airport,55.628384999999994,-110.75111399999999
+766,small_airport,Sevogle Airport,47.19105529785156,-66.16061401367189
+767,small_airport,Port Au Choix Airport,50.68889999389648,-57.33140182495117
+768,small_airport,Grand Manan Airport,44.71329879760742,-66.79640197753906
+311591,small_airport,Conn Field,44.0325,-80.48555555559999
+769,small_airport,Exploits Valley Botwood Airport,49.05599975585938,-55.44770050048828
+770,small_airport,Chute-St-Philippe Airport,46.66109848022461,-75.24500274658203
+771,small_airport,Port Hope Simpson Airport,52.528099060058594,-56.28609848022461
+772,small_airport,Caniapiscau Airport,54.83779907226562,-69.89279937744139
+773,small_airport,Debert Airport,45.41859817504883,-63.46060180664063
+28402,seaplane_base,St. John's (Paddys Pond) Seaplane Base,47.468257,-52.889542000000006
+774,small_airport,Florenceville Airport,46.42610168457031,-67.62809753417969
+775,heliport,Cline River Heliport,52.178902,-116.478996
+776,heliport,Campbell River (E & B Heli) Heliport,50.0413226692,-125.26844814399999
+777,heliport,Castor (Our Lady of the Rosary Hospital) Heliport,52.2235013417,-111.906577349
+28202,seaplane_base,Conne River Seaplane Base,47.92499923706055,-55.57780075073242
+320221,small_airport,Creemore Airport,44.346503999999996,-80.1336
+320122,heliport,Consort Health Centre Helipad,52.009103,-110.78200000000001
+779,small_airport,St. Stephen Airport,45.20750045776367,-67.25060272216797
+780,small_airport,Chipman Airport,46.14860153198242,-65.90419769287111
+781,small_airport,Havelock Airport,45.98640060424805,-65.30190277099611
+782,small_airport,Courtenay (Smit Field) Airport,49.68249893188477,-125.10099792480469
+320212,heliport,Chicoutimi Central Hospital Helipad,48.4258,-71.047601
+783,small_airport,Cookstown Airport,44.23889923095703,-79.63890075683594
+784,heliport,Castlegar (Tarrys Convention Centre) Heliport,49.38610076904297,-117.552001953125
+28422,seaplane_base,South Brook Seaplane Base,49.016701,-57.633301
+785,small_airport,Bell Island Airport,47.63330078125,-52.983299255371094
+786,small_airport,Waterville / Kings County Municipal Airport,45.0518989563,-64.6517028809
+787,small_airport,Stanley Airport,45.10060119628906,-63.92060089111328
+28443,seaplane_base,Thorburn Lake Seaplane Base,48.266701,-54.150002
+788,heliport,Long Pond Heliport,47.5161018371582,-52.98080062866211
+789,small_airport,Brockway Airport,45.56669998168945,-67.09999847412111
+28461,seaplane_base,Wabush Seaplane Base,52.9333,-66.900002
+28200,seaplane_base,Comox Seaplane Base,49.670601,-124.932999
+790,small_airport,Sussex Airport,45.68999862670898,-65.54000091552734
+791,small_airport,East Gore Eco Airpark,45.11750030517578,-63.70280075073242
+792,heliport,Edmundston (Regional Hospital) Heliport,47.37639999389648,-68.31189727783203
+793,small_airport,Rigolet Airport,54.1796989440918,-58.45750045776367
+794,small_airport,Clarenville Airport,48.27470016479492,-53.92390060424805
+795,small_airport,Margaree Airport,46.34109878540039,-60.979698181152344
+796,small_airport,Thorburn Airport,45.56060028076172,-62.59469985961914
+797,heliport,Shelburne (Roseway Hospital) Heliport,43.7502981388,-65.3097081184
+799,small_airport,Pokemouche Airport,47.71640014648438,-64.88249969482422
+800,small_airport,St. Andrews Codroy Valley Airport,47.773601532,-59.31309890749999
+801,small_airport,Bristol Airport,46.45940017700195,-67.564697265625
+802,heliport,Shunda (Fire Base) Heliport,52.48830032348633,-115.75499725341795
+803,heliport,Moncton / Salisbury Heliport,46.049102572200006,-65.06189346309999
+804,heliport,St. John's (Universal) Heliport,47.608342128800004,-52.7270713449
+805,small_airport,Dawson Creek (Flying L Ranch) Airport,55.81948852539063,-120.46028137207031
+806,small_airport,St-Quentin Airport,47.52109909057617,-67.42109680175781
+320455,small_airport,Dougall Campbell Field,52.010801,-121.2107
+28377,seaplane_base,Porters Lake Seaplane Base,44.71220016479492,-63.29890060424805
+807,small_airport,Ste-Agnès-de-Dundee Airport,45.04750061035156,-74.34329986572266
+321783,heliport,Lac-Des-Ecorces / Heliport Belle-Ile,46.525,-75.3852778
+43878,small_airport,Teeswater (Dent Field),43.99444580078125,-81.29360961914062
+300228,small_airport,Englehart (Dave's Field),47.809722223,-79.81111111109999
+320288,small_airport,Elora Airport,43.632401,-80.3565
+808,heliport,Digby (General Hospital) Heliport,44.6161003112793,-65.76190185546875
+45220,small_airport,Dungannon,43.836389000000004,-81.606667
+809,small_airport,Deerhurst Resort Airport,45.3541984558,-79.1513977051
+810,heliport,Drumheller (Health Centre) Heliport,51.469111,-112.72818600000001
+811,small_airport,Finlay Air Park,43.96220016479492,-65.99420166015625
+320263,heliport,Cowichan District Hospital Heliport,48.7862,-123.7214
+320432,heliport,Nanaimo Harbour Heliport,49.1608,-123.9232
+320257,small_airport,Delhi Airport,42.8846,-80.4062
+812,small_airport,Clearwater Airport,46.71329879760742,-66.82830047607422
+813,small_airport,Strathmore (D.J. Murray) Airport,51.13190078735352,-113.55999755859376
+814,small_airport,Diavik Airport,64.5113983154,-110.289001465
+321912,seaplane_base,Dorset/Kawagama Lake (South) Seaplane Base,45.2638,-78.7922
+815,heliport,Daysland Health Centre Heliport,52.8689,-112.273003
+320831,seaplane_base,Doctor’s Lake East Water Aerodrome,43.8817,-66.0975
+320832,seaplane_base,Doctor's Lake West Water Aerodrome,43.8836,-66.1028
+43879,small_airport,Doris Lake,68.1252746582,-106.58528137200001
+320210,small_airport,Centredale Airport,45.4094,-62.618401
+816,small_airport,Ostergard's Airport,51.29439926147461,-112.61399841308594
+28260,seaplane_base,Hoopers Lake Seaplane Base,43.95389938354492,-65.99079895019531
+817,heliport,Arichat (St. Anne Ladies Auxiliary Hospital) Heliport,45.511444615200006,-61.0330438614
+818,small_airport,Bouctouche Airport,46.509399,-64.693901
+819,heliport,Bridgewater (South Shore Regional Hospital) Heliport,44.38214467379999,-64.5104205608
+320271,small_airport,Dutton Airport,42.6592,-81.512602
+820,heliport,Yarmouth (Regional Hospital) Heliport,43.848668441,-66.1210119724
+28425,seaplane_base,Springdale/Davis Pond Seaplane Base,49.550052,-56.064591
+821,small_airport,Doaktown Airport,46.5525016784668,-66.09390258789061
+823,small_airport,Downs Gulch Airport,47.75360107421875,-67.42610168457031
+824,heliport,Charlottetown (Queen Elizabeth Hospital) Heliport,46.255492591599996,-63.0988866091
+825,small_airport,Baddeck (Crown Jewel) Airport,46.165000915527344,-60.78390121459961
+827,small_airport,Fogo Airport,49.65750122070313,-54.23749923706055
+828,heliport,Antigonish (St. Martha's Regional Hospital) Heliport,45.626836146,-61.98193296789999
+829,small_airport,Bridgewater / Dayspring Airpark,44.3819007874,-64.456703186
+830,small_airport,Olds-Didsbury Airport,51.7118988037,-114.107002258
+831,small_airport,Hardisty Airport,52.64690017700195,-111.38400268554688
+832,small_airport,Cardston Airport,49.162498474121094,-113.24099731445312
+320663,small_airport,Rockyford/Early Bird Air Airport,51.1777,-113.2791
+834,small_airport,Fairview Airport,56.081401825,-118.434997559
+28189,seaplane_base,Carcross Seaplane Base,60.183300018311,-134.69999694824
+43876,small_airport,Essex / Billing Airstrip,42.186668395996094,-82.78221893310547
+28305,seaplane_base,Lutselk'e Seaplane Base,62.400002,-110.75
+835,small_airport,Fox Lake Airport,58.47330093383789,-114.54299926757812
+836,small_airport,Hinton/Jasper-Hinton Airport,53.3191986084,-117.752998352
+837,heliport,Fort Smith (District) Heliport,60.00310134887695,-111.90899658203124
+839,small_airport,Oyen Municipal Airport,51.33420181274414,-110.49099731445312
+840,small_airport,Fox Creek Airport,54.38000106811523,-116.76599884033205
+841,small_airport,Taber Airport,49.826698303222656,-112.18499755859376
+842,small_airport,Highwood Airport,50.80189895629883,-113.88899993896484
+28198,seaplane_base,Colville Lake Seaplane Base,67.050003,-126.099998
+311595,small_airport,Thunderbay / Eldorado Field,48.572222222200004,-88.81666666670002
+28436,seaplane_base,Taltheilei Narrows Seaplane Base,62.599998474121094,-111.51699829101562
+28267,seaplane_base,Inuvik/Shell Lake Seaplane Base,68.316704,-133.617007
+843,small_airport,Hinton / Entrance Airport,53.381401061999995,-117.70099639899999
+844,small_airport,Wabasca Airport,55.9618988037,-113.819000244
+845,small_airport,Edmonton / Twin Island Airpark,53.47109985350001,-113.153999329
+28215,seaplane_base,Edmonton/Cooking Lake Seaplane Base,53.4255939787,-113.105792999
+846,small_airport,Viking Airport,53.1089685346,-111.864938736
+46603,small_airport,Belwood (Ellen Field),43.8372354306,-80.36945343020001
+847,small_airport,Bow Island Airport,49.88330078125,-111.33300018310548
+848,small_airport,Airdrie Airport,51.26390075683594,-113.93399810791016
+849,small_airport,S.I.R.Bernard Forestburg Airpark,52.5746994019,-112.083999634
+28256,seaplane_base,Hay River Seaplane Base,60.851834999999994,-115.72958700000001
+28446,seaplane_base,Tincup Lake Seaplane Base,61.748904,-139.246004
+851,small_airport,Lacombe Airport,52.48830032348633,-113.71199798583984
+852,small_airport,Drumheller Municipal Airport,51.49639892578125,-112.7490005493164
+853,small_airport,Chipewyan Lake Airport,56.95249938964844,-113.49600219726562
+300065,heliport,Nordegg / Ahlstrom Heliport,52.4893135963,-116.07956886299999
+28206,seaplane_base,Dawson City Seaplane Base,64.06670379638672,-139.43299865722656
+854,small_airport,North Seal River Airport,58.969398498535156,-99.9749984741211
+28449,seaplane_base,Trout Lake Seaplane Base,60.43330001831055,-121.25
+855,small_airport,Cu Nim Airport,50.7225,-114.179001
+856,small_airport,Ponoka Industrial Airport,52.65169906616211,-113.6060028076172
+857,small_airport,De Winton South Calgary Airport,50.8218994140625,-113.8239974975586
+858,small_airport,Red Earth Creek Airport,56.5463981628418,-115.27400207519531
+859,small_airport,Provost Airport,52.33810043334961,-110.27899932861328
+320378,heliport,Évasion Hélicoptère Heliport,45.6406,-73.642702
+320699,heliport,Colchester Health Centre Heliport,45.349701,-63.3055
+862,small_airport,Stettler Airport,52.31000137329102,-112.75399780273438
+863,small_airport,Claresholm Industrial Airport,50.00469970703125,-113.62999725341795
+865,small_airport,Elk Point Airport,53.89310073852539,-110.77200317382812
+28462,seaplane_base,Watson Lake Seaplane Base,60.11669921875,-128.78300476074222
+866,small_airport,Braeburn Airport,61.48440170288086,-135.7760009765625
+867,heliport,Blairmore (Forestry) Heliport,49.60860061645508,-114.45099639892578
+868,small_airport,Killam-Sedgewick Airport,52.79999923706055,-111.76699829101562
+28259,seaplane_base,High Level/Footner Lake Seaplane Base,58.616693999999995,-117.182999
+869,heliport,Calgary (City / Bow River) Heliport,51.0528342897,-114.078843445
+46604,small_airport,East Linton (Kerr Field),44.661068,-80.94402600000001
+870,small_airport,Hanna Airport,51.63140106201172,-111.90399932861328
+871,small_airport,Valleyview Airport,55.03250122070313,-117.2959976196289
+872,small_airport,Two Hills Airport,53.70000076293945,-111.78299713134766
+28222,seaplane_base,Ford Bay Seaplane Base,66.03009300000001,-124.687376
+46590,small_airport,Eleonore,52.718306623000004,-76.07980728150001
+46531,heliport,Calgary (Eastlake) Heliport,50.955011312299995,-113.972866684
+873,heliport,Calgary (Rockyview Hospital) Heliport,50.988278702799995,-114.09830153
+874,small_airport,Whatì Airport,63.13169860839844,-117.24600219726562
+875,small_airport,Innisfail Airport,52.0786018371582,-114.0270004272461
+876,small_airport,Swan Hills Airport,54.670799255371094,-115.41500091552734
+877,small_airport,Bassano Airport,50.79999923706055,-112.46700286865234
+878,small_airport,Three Hills Airport,51.69670104980469,-113.20899963378906
+879,small_airport,High River Airport,50.53329849243164,-113.83300018310548
+880,small_airport,Cold Lake Regional Airport,54.477500915527344,-110.2689971923828
+881,small_airport,Vauxhall Airport,50.03329849243164,-112.08300018310548
+28210,seaplane_base,Deliné Seaplane Base,65.183299,-123.417
+28470,seaplane_base,Yellowknife Seaplane Base,62.46670150756836,-114.3499984741211
+882,heliport,Calgary (Bow Crow) Heliport,51.1031648907,-114.21496152899999
+883,small_airport,Barrhead Airport,54.099998474121094,-114.43299865722656
+884,small_airport,Ross International Airport,48.998704853199996,-111.97541427600001
+885,small_airport,Janvier Airport,55.9000015258789,-110.73300170898438
+886,small_airport,Warner Airport,49.29330062866211,-112.18900299072266
+320163,heliport,Elk Point Health Care Centre Heliport,53.8983,-110.90799999999999
+887,heliport,Edmonton (Eastport) Heliport,53.504902,-113.3322
+28331,seaplane_base,Namushka Lodge Seaplane Base,62.41669845581055,-113.3499984741211
+888,small_airport,Camrose Airport,53.04029846191406,-112.81600189208984
+889,small_airport,Del Bonita / Whetstone International Airport,48.9986000061,-112.77600097700001
+890,small_airport,Grande Cache Airport,53.916900634765994,-118.87400054931999
+28464,seaplane_base,Whatì Seaplane Base,63.141909999999996,-117.275791
+891,small_airport,Castor Airport,52.220924924799995,-111.926887035
+892,small_airport,Drayton Valley Industrial Airport,53.265800476074,-114.95999908446998
+893,small_airport,Fort McMurray / Mildred Lake Airport,57.0555992126,-111.573997498
+28152,seaplane_base,Aklavik Seaplane Base,68.222504,-134.992007
+28227,seaplane_base,Fort Nelson (Parker Lake) Seaplane Base,58.825217,-122.900345
+46605,small_airport,St-Esprit Aerodrome,45.9144,-73.672395
+895,heliport,Edmonton / St. Albert (Delta Helicopters) Heliport,53.68669436050001,-113.687338829
+896,small_airport,Westlock Airport,54.1422004699707,-113.74099731445312
+320208,small_airport,Centralia (Essery Field) Airport,43.2921,-81.465502
+28159,seaplane_base,Arctic Red River Seaplane Base,67.44999694824219,-133.75
+28226,seaplane_base,Fort McMurray Seaplane Base,56.733297,-111.366997
+897,heliport,Edmonton (Grey Nuns Community Hospital) Heliport,53.462251,-113.427764
+28246,seaplane_base,Great Bear Lake Seaplane Base,66.70829772949219,-119.68299865722656
+898,small_airport,Conklin (Leismer) Airport,55.695301,-111.278999
+899,small_airport,Fort Simpson Island Airport,61.86669921875,-121.36599731445312
+900,heliport,Hay River (District) Heliport,60.784400939941406,-115.82599639892578
+28329,seaplane_base,Nahanni Butte Seaplane Base,61.03329849243164,-123.3499984741211
+901,small_airport,Jean Marie River Airport,61.5167007446289,-120.61699676513672
+902,small_airport,Beaverlodge Airport,55.18420028686523,-119.447998046875
+903,heliport,Rocky Mountain House (General Hospital) Heliport,52.37860107421875,-114.91999816894531
+28342,seaplane_base,Norman Wells Seaplane Base,65.2572021484375,-126.68499755859376
+904,small_airport,Trout Lake Airport,60.43939971923828,-121.23699951171876
+905,small_airport,Edra Airport,57.849998474121094,-113.25
+906,small_airport,Vegreville Airport,53.51440048217773,-112.0270004272461
+907,small_airport,Mayerthorpe Airport,53.9375,-115.1790008544922
+908,small_airport,Tofield Airport,53.37110137939453,-112.6969985961914
+909,small_airport,Snare River Airport,63.43330001831055,-116.18299865722656
+910,small_airport,St. Paul Airport,53.9933013916,-111.379997253
+911,small_airport,Milk River Airport,49.13330078125,-112.0500030517578
+912,heliport,Edmonton / University of Alberta (Stollery Children's Hospital Mahi) Heliport,53.520437,-113.52530900000001
+28361,seaplane_base,Paulatuk Seaplane Base,69.34999847412111,-124.06700134277344
+913,heliport,Canmore Municipal Heliport,51.0778007507,-115.33799743700001
+914,small_airport,Wetaskiwin Regional Airport,52.96500015260001,-113.41100311299999
+915,small_airport,Carmacks Airport,62.11063000000001,-136.179993
+917,small_airport,Brant (Dixon Farm) Airport,50.41939926147461,-113.54100036621094
+918,small_airport,Fort Macleod Airport,49.70000076293945,-113.41699981689452
+28230,seaplane_base,Fort St. John (Charlie Lake) Seaplane Base,56.283298492432,-120.96700286865
+919,small_airport,Chapman Lake Airport,64.903561,-138.277255
+920,small_airport,Edmonton / Cooking Lake Airport,53.42750167849999,-113.115997314
+921,small_airport,Fort Vermilion Airport,58.40420150756836,-115.95099639892578
+28466,seaplane_base,Whitehorse Seaplane Base,60.69110107421875,-135.03700256347656
+28231,seaplane_base,Fort Simpson Island Seaplane Base,61.8694048342,-121.36133194
+922,heliport,Grande Prairie (Forestry) Heliport,55.153601,-118.822501
+923,small_airport,Carcross Airport,60.17419815063477,-134.697998046875
+924,small_airport,Grande Airport,56.29999923706055,-112.23300170898438
+925,small_airport,Taltheilei Narrows Airport,62.5980987549,-111.54299926799999
+926,heliport,Three Hills (Hospital) Heliport,51.708802427200006,-113.252016306
+927,heliport,Frank Channel (Forestry) Heliport,62.78609848022461,-115.9459991455078
+928,small_airport,Hespero Airport,52.29999923706055,-114.46399688720705
+929,small_airport,Trout Lake Airport,56.5,-114.5500030517578
+930,small_airport,Namur Lake Airport,57.38330078125,-112.8000030517578
+931,small_airport,Edmonton / Josephburg Airport,53.727998031999995,-113.086566925
+932,small_airport,Steen River Airport,59.633301,-117.167
+320876,seaplane_base,Foot's Bay Seaplane Base,45.1296,-79.708601
+933,small_airport,Macmillan Pass Airport,63.181098938000005,-130.20199585
+934,small_airport,Rockyford Airport,51.2667007446289,-113.11699676513672
+935,small_airport,Rimbey Airport,52.68190002441406,-114.23799896240234
+28217,seaplane_base,Faro/Johnson Lake Seaplane Base,62.20330047607422,-133.39300537109378
+936,small_airport,Foremost Airport,49.48310089111328,-111.49400329589844
+937,small_airport,Grimshaw Airport,56.19611,-117.62527800000001
+938,heliport,Fort Simpson (Great Slave No. 2) Heliport,61.8369198831,-121.32572829700001
+941,heliport,Kananaskis Village Helistop,50.92279815673828,-115.1439971923828
+28249,seaplane_base,Haines Junction/Pine Lake Seaplane Base,60.80279922485352,-137.49099731445312
+942,small_airport,Christina Basin Airport,55.59000015258789,-111.822998046875
+943,small_airport,Jean Lake Airport,57.483299255371094,-113.88300323486328
+944,small_airport,Great Bear Lake Airport,66.7031021118,-119.70700073200001
+945,heliport,Wainwright / Camp Wainwright Field,52.82793368229999,-110.904278755
+28167,seaplane_base,Bakers Narrows Seaplane Base,54.6786,-101.660004
+946,small_airport,Marek Farms Airport,53.03139877319336,-112.77799987792969
+947,small_airport,Consort Airport,52.0167007446289,-110.75
+948,small_airport,Debolt Airport,55.233299255371094,-118.03299713134766
+949,small_airport,John D'Or Prairie Airport,58.49140167236328,-115.13800048828124
+46534,small_airport,Fort Mackay / Firebag,57.275833,-110.976666
+28218,seaplane_base,Fenelon Falls/Sturgeon Lake Seaplane Base,44.52389907836914,-78.73030090332031
+320584,heliport,Frontline Helicopters Heliport,51.964601,-121.812201
+951,small_airport,Fox Harbour Airport,45.86999893188477,-63.46110153198242
+952,heliport,Edmonton (Royal Alexandra Hospital) Heliport,53.557908597799994,-113.496558666
+953,small_airport,Warburg / Zajes Airport,53.217777526099994,-114.33660507200001
+954,small_airport,Wekweètì Airport,64.190804,-114.07700200000001
+955,heliport,Fort St. John (Hospital) Heliport,56.24670028686523,-120.84200286865234
+956,small_airport,Bashaw Airport,52.55749893188477,-112.96499633789062
+958,small_airport,Calling Lake Airport,55.31669998168945,-113.25
+959,small_airport,Olds (Netook) Airport,51.849998474121094,-114.06700134277344
+960,small_airport,Empress McNeill Spectra Energy Airport,50.68249893189999,-110.041999817
+961,heliport,Black Diamond (Oilfields General Hospital) Heliport,50.67890167236328,-114.23400115966795
+320310,small_airport,Flesherton (Smithorrs Field),44.265002,-80.527602
+962,small_airport,Johnson Lake Airport,57.56669998168945,-110.31700134277344
+963,small_airport,Birch Mountain Airport,57.70000076293945,-111.83300018310548
+964,small_airport,Donnelly Airport,55.7094,-117.094002
+966,small_airport,Teepee Airport,56.45940017700195,-114.11900329589844
+967,small_airport,Boyle Airport,54.57329940795898,-112.81999969482422
+968,small_airport,Fort Macleod (Alcock Farm) Airport,49.583302,-113.300001
+46535,heliport,Fort Macleod (Hospital) Heliport,49.725766,-113.392178
+971,small_airport,La Crete Airport,58.172875198199996,-116.337919235
+972,small_airport,Sundre Airport,51.77420043945313,-114.677001953125
+973,heliport,Fort Nelson (Guardian) Heliport,58.75220108032226,-122.68699645996094
+320875,seaplane_base,Fox Point Seaplane Base,45.273701,-79.012101
+975,small_airport,Mcquesten Airport,63.599998474121094,-137.56700134277344
+976,small_airport,Glendon Airport,54.270802,-111.067002
+977,small_airport,La Biche River Airport,60.12919998168945,-124.04900360107422
+978,small_airport,Wainwright Field 21 Airport,52.830601,-111.100998
+979,small_airport,Whitehorse / Cousins Airport,60.8117343999,-135.18213272100002
+981,small_airport,Milk River (Madge) Airport,49.14469909667969,-112.08399963378906
+982,small_airport,Cheadle Airport,51.05749893188501,-113.62400054931999
+983,small_airport,Silver City Airport,61.02890014648438,-138.40800476074222
+984,small_airport,Pelly Crossing Airport,62.83720016479492,-136.53500366210938
+985,small_airport,Edmonton / Gartner Airport,53.2817001343,-113.455001831
+986,small_airport,Bawlf (Blackwells) Airport,52.9000015258789,-112.5500030517578
+320780,seaplane_base,Fall River Water Aerodrome,44.7844,-63.6417
+987,small_airport,Alban Airport,46.089698791503906,-80.60440063476562
+301319,heliport,Vancouver / Coquitlam Fire and Rescue Heliport,49.291615613599994,-122.79214829200001
+988,small_airport,Red Deer Forestry Airport,51.65140151977539,-115.23899841308594
+46591,heliport,Fort Simpson (Great Slave No. 1) Heliport,61.8382997446,-121.328061819
+320312,small_airport,Fort Selkirk Airport,62.7683,-137.384704
+989,small_airport,Ogilvie River Airport,65.66670227050781,-138.11700439453122
+990,small_airport,Spirit River Airport,55.78359985351562,-118.83999633789062
+991,small_airport,Loon River Airport,57.14189910888672,-115.0749969482422
+992,small_airport,Twin Creeks Airport,62.61940002441406,-131.27900695800778
+993,small_airport,Clearwater River Airport,51.98809814453125,-115.22799682617188
+995,small_airport,Wilderman Farm Airport,50.552434748,-113.58318328899999
+996,small_airport,Finlayson Lake Airport,61.691398620600005,-130.774002075
+997,small_airport,Hyland Airport,61.52389907836914,-128.26899719238278
+998,small_airport,Pelican Airport,56.16080093383789,-113.4739990234375
+999,small_airport,Zama Lake Airport,59.06389999389648,-118.88999938964844
+1000,small_airport,Chipman Airport,53.71670150756836,-112.63300323486328
+1001,small_airport,Garden River Airport,58.71390151977539,-113.8759994506836
+1002,small_airport,Irma Airport,52.91220092773438,-111.17400360107422
+1003,heliport,Olds (Hospital) Heliport,51.8014084991,-114.116886556
+1004,small_airport,Beiseker Airport,51.3932991027832,-113.47200012207031
+1005,small_airport,Mobil Bistcho Airport,59.4747326918,-119.006137848
+28459,seaplane_base,Virginia Falls Seaplane Base,61.607575,-125.756272
+1006,small_airport,Margaret Lake Airport,58.9458023034,-115.256538391
+1007,heliport,Claresholm (General Hospital) Heliport,50.01860046386719,-113.58300018310548
+1008,heliport,Brooks (Community Health Centre) Heliport,50.5694007874,-111.888999939
+1009,heliport,Drayton Valley (Health Centre) Heliport,53.2117,-114.971001
+1010,small_airport,Gordon Lake Airport,56.61669921875,-110.5
+1011,small_airport,Muskeg Tower Airport,57.13750076293945,-110.89299774169922
+1012,small_airport,Taltson River Airport,60.394243,-111.34763799999999
+1013,heliport,Grand Falls-Windsor Heliport,48.9245718313,-55.647007226899994
+1014,small_airport,Calgary / Okotoks Air Park,50.735298156700004,-113.934997559
+1015,small_airport,Doig Airport,56.95000076293945,-119.51699829101562
+1016,small_airport,Manning Airport,56.95080184936523,-117.6439971923828
+320595,small_airport,Clarence and Abel Swallow Airport,52.730001,-72.221001
+1017,small_airport,Vulcan Airport,50.404701232910156,-113.28299713134766
+1018,small_airport,Chestermere (Kirkby Field) Airport,51.04169845581055,-113.7519989013672
+1019,small_airport,Grist Lake Airport,55.4000015258789,-110.48300170898438
+1020,small_airport,Winters Aire Park Airport,50.9048190147,-113.79621505700001
+1021,small_airport,Pine Lake,60.10309982299805,-130.93400573730472
+1022,small_airport,Turner Valley Bar N Ranch Airport,50.65439987182617,-114.34400177001952
+1024,small_airport,Schlenker Airport,49.96670150756836,-110.71700286865234
+1025,small_airport,Sundre / Goodwins Farm Airport,51.73980571470001,-114.662600756
+1026,small_airport,Bishell's Airport,51.582801818847656,-114.052001953125
+320473,small_airport,Greenbush Airport,44.0011,-77.0735
+310994,heliport,Nanaimo/Gabriola Island (Health Clinic) Heliport,49.178333,-123.83533
+28157,seaplane_base,Alma (Rivière La Grande Décharge) Seaplane Base,48.563301,-71.615799
+321911,seaplane_base,Grand Etang Pubnico Water Aerodrome,43.6287,-65.8137
+46524,small_airport,Edmonton / Lechelt Field,53.576289,-112.982025
+320322,heliport,Boundary Hospital Heliport),49.030605,-118.47
+1027,heliport,Gander (James Paton Memorial Regional Health Centre) Heliport,48.95516215439999,-54.6272340417
+44373,small_airport,Gahcho Kue,63.43305587768555,-109.19972229003906
+1028,small_airport,Harrow Airport,42.05939865112305,-82.8407974243164
+28168,seaplane_base,Bala/Gibson Lake Seaplane Base,44.94860076904297,-79.7260971069336
+1029,small_airport,Eaglesham (South) Airport,55.67110061645508,-117.93599700927734
+1030,heliport,Gun Lake Heliport,50.88970184326172,-122.84700012207031
+299179,heliport,Vancouver / Burnaby (Global BC) Heliport,49.254600976099994,-122.93517708799999
+1031,heliport,Smoky Lake (George Mcdougall Health Centre) Heliport,54.12189865112305,-112.46600341796876
+1032,heliport,Golden (Canadian Helicopters) Heliport,51.3031005859375,-116.98200225830078
+320345,small_airport,Gunnlaugson Airport,49.636701,-112.6916
+320173,heliport,Queen Elizabeth II Hospital Helipad,55.17596999999999,-118.78757
+46612,heliport,Gold River (E & B Helicopters) Heliport,49.753309700500004,-126.055626869
+308297,small_airport,George Lake Aerodrome,65.92805600000001,-102.462222
+320316,heliport,The Ridge Heliport,49.7832,-126.043701
+308296,small_airport,Goose Lake Aerodrome,65.552778,-106.43361100000001
+46613,small_airport,Grand Valley / Luther Field,43.976388889,-80.38527778
+43880,small_airport,Grand Valley North,43.962501525878906,-80.35416412353516
+298874,small_airport,Grand Valley (Black Field),43.8600915245,-80.28868675230001
+46615,small_airport,Grand Valley (Martin Field),43.874896111800005,-80.28244256970001
+320741,seaplane_base,Hydravion Aventure Water Aerodrome,46.4778,-72.7761
+320215,heliport,Hudson Bay Helicopters Heliport,58.7664,-94.1677
+1034,heliport,Barrhead (Healthcare Centre) Heliport,54.1182820612,-114.40006613700001
+1035,heliport,Ponoka (Hospital & Care Centre) Heliport,52.68529891967773,-113.58899688720705
+308295,small_airport,Hayes Camp Aerodrome,66.655556,-91.545
+320174,heliport,Hardisty Health Centre Helipad,52.6689,-111.307101
+1036,heliport,Hanna District Ambulance Heliport,51.651126,-111.92929
+311598,small_airport,Thamesford (Harydale Farms),43.1083333333,-81.01916666670002
+43875,small_airport,Ottawa / Manotick (Hope Field),45.1906013489,-75.70860290530001
+320700,small_airport,Hnatko Farms Airport,54.1996,-114.123502
+1037,small_airport,Harbour Grace Airport,47.68560028076172,-53.25389862060547
+320851,seaplane_base,Hamilton Harbour Seaplane Base,43.2988,-79.8498
+1038,heliport,Boyle (Healthcare Centre) Heliport,54.588661,-112.80191299999998
+320651,small_airport,Hillaton/Kings Aerodrome,45.1442,-64.4229
+28193,seaplane_base,Church Lake Seaplane Base,44.55939865112305,-64.61219787597656
+28265,seaplane_base,Huntsville (North) Seaplane Base,45.33140182495117,-79.25810241699219
+298376,small_airport,Spiritwood / H & M Fast Farms,53.275,-107.570278
+316627,seaplane_base,Heurisko Pond Water Aerodrome,43.7722,-80.3739
+320418,heliport,Mont-Tremblant/Heliport P3,46.1953,-74.571201
+1041,heliport,Halifax (Queen Elizabeth II Health Science Centre) Heliport,44.6459410125,-63.5865309834
+320175,heliport,High River Hospital Helipad,50.5761,-113.8793
+320652,small_airport,Beck Farm Airport,49.3366,-113.5733
+321880,seaplane_base,Scugog /Charlies Landing Seaplane Base,44.161301,-78.8245
+320377,heliport,Heliport Senneville,45.4428,-73.9605
+1042,heliport,Halifax (South End) Heliport,44.6254289733,-63.5633915663
+44691,heliport,Mont Tremblant/St-Jovite Heli-Tremblant,46.11420059204102,-74.54139709472656
+320434,heliport,Nelson (High Terrain Helicopters) Heliport,49.486702,-117.327201
+320457,heliport,Orangeville/Headwaters Healthcare Centre Heliport,43.919901,-80.0754
+1043,heliport,Invermere (Hospital) Heliport,50.51060104370117,-116.03500366210938
+1044,heliport,Halifax (IWK Health Centre) Heliport,44.6369942499,-63.584420085
+320693,small_airport,Selkirk Airport,42.8068,-79.9768
+1045,small_airport,Morden Airport,49.21030044555664,-98.05919647216795
+1046,small_airport,Nestor Falls Airport,49.14030075073242,-93.91690063476562
+1047,small_airport,Arcola Airport,49.63330078125,-102.48300170898438
+28208,seaplane_base,Deer Lake Seaplane Base,52.61669921875,-94.0500030517578
+28262,seaplane_base,Hudson Seaplane Base,50.099998474121094,-92.1667022705078
+1048,small_airport,Friendship Field,49.49140167236328,-98.0186004638672
+1049,small_airport,Steinbach Airport,49.549400329589844,-96.6793975830078
+1050,small_airport,Moosomin Airport,50.16859817504883,-101.6439971923828
+1051,small_airport,Gods Lake Airport,54.77920150756836,-93.71690368652344
+28183,seaplane_base,Buffalo Narrows Seaplane Base,55.849998,-108.483002
+1052,small_airport,Kyle Airport,50.83330154418945,-108.06999969482422
+1053,small_airport,Craik Airport,51.05609893798828,-105.83799743652344
+1054,small_airport,Davidson Municipal Airport,51.24779891967773,-105.97599792480469
+1055,small_airport,Central Butte Airport,50.80139923095703,-106.48799896240234
+1056,small_airport,Shaunavon Airport,49.65810012817383,-108.40599822998048
+1057,small_airport,Hafford Airport,52.732200622558594,-107.3740005493164
+28184,seaplane_base,Burditt Lake Seaplane Base,48.91939926147461,-93.8022003173828
+1058,small_airport,Laurie River Airport,56.2486000061,-101.304000854
+1060,small_airport,Cudworth Municipal Airport,52.483299255371094,-105.71700286865234
+1061,small_airport,Birch Hills Airport,52.99079895019531,-105.44499969482422
+1062,small_airport,Leader Airport,50.87720108032226,-109.5009994506836
+28405,seaplane_base,Sand Point Lake Seaplane Base,48.33330154418945,-92.4499969482422
+28186,seaplane_base,Cambridge Bay Seaplane Base,69.122202,-105.02100300000001
+28213,seaplane_base,Dryden Seaplane Base,49.762876,-92.830315
+28266,seaplane_base,Ignace Seaplane Base,49.41669845581055,-91.6667022705078
+1063,small_airport,Dore Lake Airport,54.61669921875,-107.38300323486328
+1064,small_airport,Weyburn Airport,49.6974983215332,-103.8010025024414
+1065,small_airport,Snow Lake Airport,54.89720153808594,-99.81890106201172
+1066,small_airport,Glaslyn Airport,53.37720108032226,-108.34200286865234
+1067,small_airport,Paradise Hill Airport,53.5353012084961,-109.43399810791016
+1068,small_airport,Ashern Airport,51.15859985351562,-98.33190155029295
+28214,seaplane_base,Ear Falls Seaplane Base,50.58330154418945,-93.1667022705078
+320861,seaplane_base,Carignan/Rivière L’Acadie Water Aerodrome,45.4736,-73.2948
+1069,small_airport,Île-à-la-Crosse Airport,55.48970031738281,-107.93000030517578
+28160,seaplane_base,Armstrong Seaplane Base,50.25,-89.05000305175781
+1071,small_airport,Biggar Airport,52.05110168457031,-107.98799896240234
+1072,small_airport,Eatonia (Elvie Smith) Municipal Airport,51.21889877319336,-109.39299774169922
+1073,heliport,Kenora (Lake of the Woods District Hospital) Heliport,49.76860046386719,-94.4989013671875
+1074,small_airport,Gilbert Plains Airport,51.13330078125,-100.5
+1075,small_airport,Maidstone Airport,53.094398498535156,-109.3249969482422
+1076,small_airport,Ferland Airport,49.44499969482422,-106.93199920654295
+28163,seaplane_base,Atikokan Seaplane Base,48.766701,-91.666702
+1078,small_airport,Leask Airport,53.0167007446289,-106.75
+1079,small_airport,Glenboro Airport,49.54999923706055,-99.3332977294922
+299263,small_airport,Wildwood / Loche Mist Farms Airstrip,53.54653100000001,-115.26065700000001
+1080,small_airport,Deloraine Airport,49.15060043334961,-100.5009994506836
+1081,small_airport,Cabri Airport,50.61940002441406,-108.46600341796876
+28192,seaplane_base,Churchill Seaplane Base,58.70000400000001,-94.050004
+1082,small_airport,Macklin Airport,52.34280014038086,-109.91899871826172
+1083,small_airport,Gunisao Lake Airport,53.52000045776367,-96.37110137939452
+1084,small_airport,Beauval Airport,55.11029815673828,-107.71600341796876
+1085,small_airport,Esterhazy Airport,50.642799377441406,-102.0999984741211
+1086,small_airport,Gull Lake Airport,50.05780029296875,-108.48999786376952
+28166,seaplane_base,Baker Lake Seaplane Base,64.316704,-96.016701
+28221,seaplane_base,Flin Flon/Channing Seaplane Base,54.746415,-101.82799999999999
+1087,small_airport,Preeceville Airport,51.95000076293945,-102.6500015258789
+1088,small_airport,Hatchet Lake Airport,58.662498474121,-103.53800201416
+1089,small_airport,La Loche Airport,56.47330093383789,-109.40399932861328
+1090,small_airport,Winnipeg / Lyncrest Airport,49.8525009155,-96.9736022949
+1091,small_airport,Altona Municipal Airport,49.094398498535156,-97.53389739990234
+28201,seaplane_base,Confederation Lake Seaplane Base,51.04999923706055,-92.8332977294922
+1092,small_airport,Kasba Lake Airport,60.291900634765994,-102.50199890136999
+1093,small_airport,Radisson Airport,52.46310043334961,-107.3769989013672
+1094,small_airport,Ituna Airport,51.14609909057617,-103.4260025024414
+1095,small_airport,Gravelbourg Airport,49.86620712280274,-106.57107543945312
+1096,small_airport,Frontier Airport,49.16669845581055,-108.56700134277344
+1097,small_airport,Arborfield Airport,53.1077995300293,-103.6510009765625
+28223,seaplane_base,Fort Frances Seaplane Base,48.6278,-93.357801
+28272,seaplane_base,Kenora Seaplane Base,49.767424,-94.49274
+1098,small_airport,Kamsack Airport,51.55970001220703,-101.87899780273438
+1099,heliport,Ignace Heliport,49.40639877319336,-91.63469696044922
+1100,small_airport,Assiniboia Airport,49.73469924926758,-105.9469985961914
+1101,small_airport,Corman Air Park,52.0005989074707,-106.46299743652344
+1102,small_airport,Little Churchill River / Dunlop's Fly-In Lodge Airport,56.5800018311,-96.2474975586
+28228,seaplane_base,Fort Reliance Seaplane Base,62.7,-109.167
+1103,small_airport,Kerrobert Airport,51.92689895629883,-109.12899780273438
+28410,seaplane_base,Savant Lake (Sturgeon Lake) Seaplane Base,50.20000076293945,-90.68329620361328
+28269,seaplane_base,Kasba Lake Seaplane Base,60.28329849243164,-102.51699829101562
+1104,small_airport,Camsell Portage Airport,59.61000061035156,-109.26699829101562
+1105,small_airport,Bird River (Lac Du Bonnet) Airport,50.39670181274414,-95.73500061035156
+28239,seaplane_base,Gillam Seaplane Base,56.354401,-94.656403
+1106,small_airport,Charlot River Airport,59.60169982910156,-109.13700103759766
+1107,small_airport,Lampman Airport,49.36669921875,-102.76699829101562
+1108,small_airport,Carlyle Airport,49.64440155029297,-102.28700256347656
+1109,small_airport,Maple Creek Airport,49.89580154418945,-109.4749984741211
+1111,small_airport,Tanquary Fiord Airport,81.40940093990001,-76.8816986084
+1112,small_airport,Big Sand Lake Airport,57.61940002441406,-99.87529754638672
+1113,small_airport,Luseland Airport,52.06999969482422,-109.3740005493164
+1114,small_airport,The Pas / Grace Lake Airport,53.826400756800005,-101.205001831
+1115,small_airport,Eston Airport,51.14419937133789,-108.76300048828124
+1116,small_airport,Gladstone Airport,50.16360092163086,-98.94249725341795
+1117,small_airport,Canora Airport,51.62889862060547,-102.4499969482422
+1118,small_airport,Mccreary Airport,50.76470184326172,-99.49669647216795
+1119,small_airport,Naicam Airport,52.411399841308594,-104.48400115966795
+1120,small_airport,Malcolm Island Airport,56.94940185546875,-102.23899841308594
+1121,small_airport,Cluff Lake Airport,58.391101837200004,-109.51599884
+1122,small_airport,Moose Jaw Municipal Airport,50.43420028686523,-105.38700103759766
+1123,small_airport,Killarney Municipal Airport,49.15169906616211,-99.69029998779295
+28178,seaplane_base,Big Hook Wilderness Camp Seaplane Base,53.56669998168945,-92.9499969482422
+1124,small_airport,Carman (South) Airport,49.48030090332031,-98.01499938964844
+28240,seaplane_base,Gods Lake Narrows Seaplane Base,54.54999923706055,-94.4666976928711
+28282,seaplane_base,Lac Du Bonnet (North) Seaplane Base,50.28329849243164,-96.0
+1125,small_airport,Matheson Island Airport,51.732200622558594,-96.93440246582031
+1126,small_airport,Knee Lake Airport,54.915298,-94.798103
+1127,small_airport,Cumberland House Airport,53.95610046386719,-102.2979965209961
+1128,small_airport,Melita Airport,49.26169967651367,-101.01399993896484
+28205,seaplane_base,Cushing Lake Seaplane Base,48.94419860839844,-90.50859832763672
+1129,small_airport,Homewood Airport,49.50920104980469,-97.85060119628906
+1130,small_airport,Leoville Airport,53.62060165405274,-107.60900115966795
+1131,small_airport,Macdonald Airport,50.09640121459961,-98.50080108642578
+1132,small_airport,Humboldt Airport,52.17610168457031,-105.1269989013672
+1133,small_airport,Minnedosa Airport,50.27190017700195,-99.76309967041016
+1134,small_airport,Arborg Airport,50.91279983520508,-97.3043975830078
+1135,small_airport,Edam Airport,53.18500137329102,-108.78900146484376
+28286,seaplane_base,Lac La Croix Seaplane Base,48.349998474121094,-92.1999969482422
+1136,small_airport,Neilburg Airport,52.83140182495117,-109.63999938964844
+1137,small_airport,Otter Lake Airport,55.5811004639,-104.78500366200001
+1138,small_airport,Neepawa Airport,50.2327995300293,-99.5105972290039
+1139,small_airport,Summer Beaver Airport,52.70859909057617,-88.54190063476562
+1140,small_airport,Grand Rapids Airport,53.17250061035156,-99.3230972290039
+1141,small_airport,Melville Municipal Airport,50.94139862060547,-102.73799896240234
+1142,small_airport,Oxbow Airport,49.233299255371094,-102.1500015258789
+1143,small_airport,Loon Lake Airport,54.0182991027832,-109.13500213623048
+1144,small_airport,Pelican Narrows Airport,55.28689956665039,-102.75
+1145,small_airport,Russell Airport,50.76580047607422,-101.29499816894531
+1146,small_airport,Cigar Lake Airport,58.0531005859375,-104.48400115966795
+28248,seaplane_base,Gunisao Lake Seaplane Base,53.5167007446289,-96.36669921875
+1147,heliport,La Ronge Heliport,55.11470031738281,-105.29499816894531
+1148,small_airport,Rosetown Airport,51.56439971923828,-107.91799926757812
+1149,small_airport,Souris Glenwood Industrial Air Park,49.63330078125,-100.1999969482422
+28179,seaplane_base,Bird River Seaplane Base,50.4000015258789,-95.75
+28253,seaplane_base,Hatchet Lake Seaplane Base,58.633301,-103.583
+1151,small_airport,Tisdale Airport,52.836700439453004,-104.06700134277
+1152,small_airport,Sandy Bay Airport,55.54560089111328,-102.27200317382812
+1153,small_airport,Strathclair Airport,50.39609909057617,-100.4250030517578
+28180,seaplane_base,Bissett Seaplane Base,51.0167007446289,-95.68329620361328
+28298,seaplane_base,La Loche Seaplane Base,56.483299255371094,-109.41699981689452
+1154,small_airport,Portage La Prairie (North) Airport,49.99250030517578,-98.3031005859375
+1155,small_airport,Melfort Airport,52.86669921875,-104.6999969482422
+1156,small_airport,Shellbrook Airport,53.22829818725586,-106.36299896240234
+28181,seaplane_base,Black Lake Seaplane Base,59.1500015258789,-105.5500030517578
+28209,seaplane_base,Deer Lake/Keyamawun Seaplane Base,52.66669845581055,-94.4167022705078
+28300,seaplane_base,La Ronge Seaplane Base,55.099998,-105.282997
+28303,seaplane_base,Leaf Rapids Seaplane Base,56.54999923706055,-99.93329620361328
+1158,small_airport,Zhoda Airport,49.280799865722656,-96.5010986328125
+28417,seaplane_base,Sioux Lookout Seaplane Base,50.09189987182617,-91.9124984741211
+1159,small_airport,St. François Xavier Airport,49.924400329589844,-97.54889678955078
+1160,small_airport,Southend Airport / Hans Ulricksen Field,56.3372,-103.292999
+1161,small_airport,Patuanak Airport,55.9000015258789,-107.72100067138672
+298377,heliport,Kootenay Boundary Regional Hospital Heliport,49.103583,-117.70031499999999
+28351,seaplane_base,Otter Lake Seaplane Base,55.599998474121094,-104.76699829101562
+28406,seaplane_base,Sandy Bay Seaplane Base,55.5167007446289,-102.31700134277344
+1162,small_airport,Wapekeka Airport,53.84920120239258,-89.57939910888672
+1163,small_airport,Roblin Airport,51.23440170288086,-101.39299774169922
+1164,small_airport,Silver Falls Airport,50.5,-96.0980987548828
+28415,seaplane_base,Shoal Lake Seaplane Base,50.43330001831055,-100.5999984741211
+28371,seaplane_base,Points North Landing Seaplane Base,58.2667007446289,-104.08300018310548
+28441,seaplane_base,The Pas / Grace Lake Seaplane Base,53.820719778500006,-101.1926651
+28412,seaplane_base,Selkirk Seaplane Base,50.16669845581055,-96.86669921875
+1165,small_airport,Lanigan Airport,51.845298767089844,-104.99199676513672
+1166,small_airport,Rockglen Airport,49.16669845581055,-105.93299865722656
+1167,small_airport,Somerset Airport,49.40029907226562,-98.69249725341795
+1168,small_airport,Pangman Airport,49.646400451660156,-104.66600036621094
+1169,small_airport,Porcupine Plain Airport,52.61970138549805,-103.2480010986328
+28306,seaplane_base,Lynn Lake (Eldon Lake) Seaplane Base,56.81719970703125,-101.0189971923828
+1170,small_airport,Kipling Airport,50.09920120239258,-102.60700225830078
+28442,seaplane_base,Thompson Seaplane Base,55.75,-97.8332977294922
+1171,small_airport,Roland (Graham Field) Airport,49.40829849243164,-97.9906005859375
+301223,small_airport,Kirkfield / Balsam Lake Airfield,44.539987654899996,-78.88926029210002
+1172,small_airport,Slate Falls Airport,51.13000106811523,-91.66560363769531
+1173,small_airport,Quill Lake Airport,52.06669998168945,-104.26699829101562
+28363,seaplane_base,Pelican Narrows Seaplane Base,55.16669845581055,-102.93299865722656
+28407,seaplane_base,Sandy Lake Seaplane Base,53.04999923706055,-93.3332977294922
+28444,seaplane_base,Thunder Bay Seaplane Base,48.45000076293945,-89.16670227050781
+1174,small_airport,Unity Airport,52.44580078125,-109.18499755859376
+1175,heliport,Nipigon (District Memorial Hospital) Heliport,49.0161018371582,-88.27890014648438
+1176,small_airport,Radville Airport,49.46060180664063,-104.27200317382812
+1177,heliport,Atikokan General Hospital Helipad,48.7547,-91.5967
+1178,small_airport,Goodsoil Airport,54.41669845581055,-109.23300170898438
+28270,seaplane_base,Kashabowie/Upper Shebandowan Lake Seaplane Base,48.6500015258789,-90.4000015258789
+1179,small_airport,Macgregor Airport,49.96670150756836,-98.75
+1180,heliport,Sioux Lookout Heliport,50.06669998168945,-91.9167022705078
+320218,small_airport,Kirby Field,44.1328,-79.725
+1181,small_airport,De Lesseps Lake Airport,50.71749877929688,-90.68360137939452
+1182,small_airport,Riverton Airport,50.97169876098633,-97.01110076904295
+28367,seaplane_base,Pickle Lake Seaplane Base,51.46670150756836,-90.1999969482422
+1183,small_airport,Manitou Airport,49.25,-98.5333023071289
+28451,seaplane_base,Uranium City Seaplane Base,59.564809,-108.599869
+1184,small_airport,Kakabeka Falls Airport,48.41830062866211,-89.60189819335938
+1185,small_airport,Rocanville Airport,50.464698791503906,-101.5540008544922
+1186,small_airport,Debden Airport,53.531898498535156,-106.88400268554688
+28368,seaplane_base,Pikangikum Seaplane Base,51.799999,-93.983299
+28456,seaplane_base,Vermilion Bay Seaplane Base,49.8688,-93.402501
+1187,small_airport,Spiritwood Airport,53.36330032348633,-107.5479965209961
+1188,small_airport,Lumsden (Colhoun) Airport,50.66749954223633,-104.78900146484376
+320338,heliport,Kelowna General Hospital Helipad,49.8743,-119.4924
+1189,small_airport,Rosenort Airport,49.45309829711914,-97.42250061035156
+28316,seaplane_base,Mcgavock Lake Seaplane Base,56.56669998168945,-101.5
+1190,small_airport,Hanley Airport,51.62419891357422,-106.44200134277344
+28416,seaplane_base,Silver Falls Seaplane Base,50.5,-96.0999984741211
+1191,small_airport,Starbuck Airport,49.71670150756836,-97.68329620361328
+1192,small_airport,Molson Lake Airport,54.25809860229492,-97.01110076904295
+1193,small_airport,Lemberg Airport,50.708900451660156,-103.1969985961914
+1194,small_airport,St. Brieux Airport,52.6500015258789,-104.86699676513672
+1195,small_airport,Scobey Border Station Airport,49.000001,-105.39933799999999
+1196,small_airport,Estevan (South) Airport,49.03889846801758,-102.97599792480469
+28460,seaplane_base,Wabowden Seaplane Base,54.91669845581055,-98.61669921875
+1198,small_airport,Steinbach (South) Airport,49.49390029907226,-96.69889831542969
+28426,seaplane_base,Staunton Lake Seaplane Base,50.38309860229492,-90.65859985351562
+1199,small_airport,Selkirk Airport,50.17219924926758,-96.87220001220705
+1200,small_airport,Wunnumin Lake Airport,52.89390182495117,-89.28919982910156
+1202,small_airport,Shoal Lake Airport,50.45750045776367,-100.60900115966795
+1203,small_airport,Little Bear Lake Airport,54.29190063476562,-104.6709976196289
+1204,heliport,Upsala Heliport,49.05030059814453,-90.46920013427734
+1205,small_airport,Regina Beach Airport,50.75279998779297,-104.97899627685548
+1206,small_airport,Sioux Narrows Airport,49.38999938964844,-93.99530029296876
+1207,heliport,Shilo Heliport,49.79999923706055,-99.63330078125
+1208,small_airport,Jan Lake Airport,54.8307991027832,-102.78900146484376
+28421,seaplane_base,Snow Lake Seaplane Base,54.883301,-100.032997
+1209,small_airport,Easterville Airport,53.11669921875,-99.8000030517578
+1210,heliport,Thompson Heliport,55.7074225009,-97.89123594760001
+1211,small_airport,Opapimiskan Lake Airport,52.6067008972,-90.3768997192
+1212,heliport,Kentville (Camp Aldershot) Heliport,45.094006202399996,-64.5095676184
+1213,small_airport,Fillmore Airport,49.86890029907226,-103.44499969482422
+1214,small_airport,Nekweaga Bay Airport,57.74250030517578,-103.94499969482422
+1215,heliport,Shilo (Flewin Field) Heliport,49.780799865722656,-99.63890075683594
+1216,small_airport,Spring Valley (North) Airport,50.06000137329102,-105.4020004272461
+28318,seaplane_base,Minaki/Pistol Lake Seaplane Base,49.983299255371094,-94.7166976928711
+28423,seaplane_base,Southend Seaplane Base,56.333302,-103.282997
+28398,seaplane_base,Round Lake (Weagamow Lake) Seaplane Base,52.94829940795898,-91.34919738769531
+320335,heliport,Sensenbrenner Hospital Heliport,49.4264,-82.426501
+28345,seaplane_base,Obre Lake/North of Sixty Seaplane Base,60.3203010559082,-103.1269989013672
+1217,small_airport,Squaw Rapids Airport,53.6786003112793,-103.3499984741211
+1218,small_airport,North Spirit Lake Airport,52.4900016784668,-92.97109985351562
+28391,seaplane_base,Rainy River Seaplane Base,48.71670150756836,-94.56670379638672
+1219,small_airport,Lucky Lake Airport,50.99420166015625,-107.13099670410156
+1220,small_airport,Erickson Municipal Airport,50.4994010925293,-99.89779663085938
+1221,small_airport,Vermilion Bay Airport,49.87969970703125,-93.4364013671875
+1222,small_airport,McArthur River Airport,57.76750183105469,-105.02400207519531
+1223,small_airport,Pine Dock Airport,51.61999893188477,-96.81079864501952
+1224,small_airport,Ste. Rose Du Lac Airport,51.04079818725586,-99.49530029296876
+1225,small_airport,Lundar Airport,50.70330047607422,-98.05670166015624
+1227,small_airport,Virden (Gabrielle Farm) Airport,49.78469848632813,-100.95600128173828
+1228,small_airport,Outlook Airport,51.48249816894531,-107.03700256347656
+320819,seaplane_base,Kennisis Lake Seaplane Base,45.233999999999995,-78.622
+1229,small_airport,Cudworth Airport,52.48809814453125,-105.76399993896484
+28392,seaplane_base,Red Lake Seaplane Base,51.03329849243164,-93.8332977294922
+1230,small_airport,Bryant Airport,49.40999984741211,-103.1439971923828
+1231,small_airport,Wadena Airport,51.92944807589999,-103.833761215
+1232,small_airport,Cree Lake (Crystal Lodge) Airport,57.464199,-106.748001
+1233,small_airport,Shepherd's Landing Airport,44.11750030517578,-81.69830322265625
+28336,seaplane_base,Nestor Falls Seaplane Base,49.11669921875,-93.9167022705078
+28393,seaplane_base,Red Sucker Lake Seaplane Base,54.154701232910156,-93.56330108642578
+1235,small_airport,Hartney Airport,49.45000076293945,-100.5500030517578
+321784,heliport,St-Remi-D'Amherst / Kanata Tremblant Resort Heliport,45.9916667,-74.74972220000001
+1236,small_airport,Wakaw Airport,52.649052252299995,-105.763063431
+28369,seaplane_base,Pine Dock Seaplane Base,51.610801696777344,-96.81719970703124
+1237,small_airport,Treherne Airport,49.63109970092773,-98.66639709472656
+28340,seaplane_base,Nipawin Seaplane Base,53.4000015258789,-104.01699829101562
+1238,small_airport,Cut Knife Airport,52.733299255371094,-109.01699829101562
+1239,small_airport,Imperial Airport,51.349998474121094,-105.4000015258789
+1240,small_airport,Grenfell Airport,50.4192008972168,-102.93499755859376
+1241,small_airport,Watrous Airport,51.68713736,-105.362319946
+1242,small_airport,Kelvington Airport,52.13330078125,-103.53500366210938
+1243,heliport,Dryden Best Western Heliport,49.78329849243164,-92.8332977294922
+1244,small_airport,North of Sixty Airport,60.316398620605,-103.12899780273001
+28428,seaplane_base,Stewart Lake Seaplane Base,49.8167,-93.716698
+1245,small_airport,Churchbridge Airport,51.0167007446289,-101.81700134277344
+1246,small_airport,Wawota Airport,49.8944823433,-102.03045845
+1247,heliport,Kentville (Valley Regional Hospital) Heliport,45.08171042359999,-64.50022548439999
+1248,heliport,Country Gardens B&B Heliport,58.350602,-115.948998
+28337,seaplane_base,Nestor Falls/Sabaskong Bay Seaplane Base,49.13330078125,-93.93329620361328
+28429,seaplane_base,Stony Rapids Seaplane Base,59.2599983215332,-105.83100128173828
+1249,small_airport,Davin Lake Airport,56.88330078125,-103.58300018310548
+28275,seaplane_base,Knee Lake Seaplane Base,54.89080047607422,-94.80750274658205
+1253,small_airport,Fisher Branch Airport,51.08330154418945,-97.4832992553711
+1254,small_airport,Dinsmore Airport,51.33060073852539,-107.43800354003906
+1255,small_airport,Big River Airport,53.83610153198242,-107.00900268554688
+1256,small_airport,Whitewood Airport,50.33477838140001,-102.274475098
+28344,seaplane_base,Norway House Seaplane Base,53.98529815673828,-97.7938995361328
+321910,seaplane_base,Killarney (Killarney Mountain Lodge) Seaplane Base,45.96882,-81.507547
+1258,small_airport,Arkayla Springs Airport,51.2047,-114.774002
+1260,small_airport,Elk Island Airport,54.6713981628418,-94.14530181884766
+1261,small_airport,Louise Municipal Airport,49.14720153808594,-98.88079833984376
+1262,small_airport,Winkler Airport,49.16690063476562,-97.92030334472656
+1263,small_airport,L'Assomption Airport,45.82310104370117,-73.46060180664062
+1264,small_airport,Holland Landing Airpark,44.08940124511719,-79.49500274658203
+299244,small_airport,Lethbridge / Anderson Field,49.6569444445,-112.77277777799999
+1265,small_airport,Lancaster Airpark,45.200401306152344,-74.36100006103516
+46497,small_airport,Plattsville (Lubitz Flying Field),43.305833,-80.548611
+28291,seaplane_base,La Grande-4/Lac Bottine Seaplane Base,53.7094,-73.720801
+1266,small_airport,London / Chapeskie Field,43.068298339799995,-81.1256027222
+45051,heliport,Calgary (Peter Lougheed Centre) Heliport,51.0781955893,-113.98633003200001
+320347,small_airport,Loon Creek Airfield,50.8434,-104.323
+46526,heliport,Edmonton / Leduc Heliport,53.253172,-113.542599
+320722,seaplane_base,Burns Lake (LD Air) Water Aerodrome,54.21,-125.756901
+1267,small_airport,Lower East Pubnico (La Field) Airport,43.62220001220703,-65.76190185546875
+1268,small_airport,Liege / CNRL Airport,57.001899719200004,-113.194000244
+302185,small_airport,Fort McMurray / Legend Airfield,57.196943999999995,-112.895556
+1269,heliport,Stettler (Health Centre) Heliport,52.3231535577,-112.72525727700001
+1270,heliport,Lethbridge (Regional Hospital) Heliport,49.6859684741,-112.81563162799999
+301320,small_airport,Lethbridge / J3 Airfield,49.7416214711,-112.73833036399999
+1271,small_airport,Lucknow Airpark,43.96780014038086,-81.49330139160156
+28299,seaplane_base,Langille Lake Seaplane Base,44.45000076293945,-64.44779968261719
+320820,seaplane_base,Lac Lamothe Water Aerodrome,48.739403,-71.1383
+1272,small_airport,Leamington Airport,42.025001525878906,-82.5250015258789
+28292,seaplane_base,Lake Muskoka/Alport Bay Seaplane Base,45.02109909057617,-79.38279724121094
+320340,heliport,Lamont Health Care Centre Heliport,53.7636,-112.7877
+320802,seaplane_base,Lake Muskoka South Seaplane Base,44.966101,-79.4298
+320801,seaplane_base,Miller Island Seaplane Base,44.9922,-79.465401
+299264,small_airport,Beaverlodge / Clanachan Field,55.2344931,-119.841591
+1273,heliport,Montreal / Laval (Artopex Plus) Heliport,45.5785956158,-73.7500204146
+46494,seaplane_base,Lac Polaris (pourvoirie Mirage),53.800555555600006,-72.8666666667
+1274,heliport,Liverpool (Queens General Hospital) Heliport,44.03871476720001,-64.70534205439999
+320817,seaplane_base,Lake Rosseau/John's Bay Seaplane Base,45.170103999999995,-79.5975
+302187,small_airport,Fort McMurray / South Liege Airfield,56.8323528324,-113.09884071399999
+299265,small_airport,Stayner (Clearview Field) Airport,44.404638,-80.14797800000001
+44690,small_airport,Laurel / Whittington,43.9791679382,-80.1772232056
+1276,small_airport,Mattawa Airport,46.29970169067383,-78.747802734375
+28317,seaplane_base,Miminiska Seaplane Base,51.60139846801758,-88.58080291748047
+299180,small_airport,Meadowbank Airport,65.0246615457,-96.06865882870001
+321913,seaplane_base,Cambridge (Puslinch Lake) Seaplane Base,43.4205,-80.257002
+321898,seaplane_base,Lake Muskoka East (Milford Bay) Seaplane Base,45.074921999999994,-79.480289
+310989,small_airport,Maxville (Bourdon Farm) Airport,45.253,-74.807
+1277,heliport,Mount Belcher Heliport,48.832801818847656,-123.50499725341795
+1278,heliport,Edmonton / Misericordia (Community Hospital) Heliport,53.5203770852,-113.611055464
+1279,heliport,Mayerthorpe (Healthcare Centre) Heliport,53.948711409,-115.13301730200001
+320456,small_airport,Omemee Airport,44.2854,-78.6276
+46616,small_airport,Edmonton / Calmar (Maplelane Farm),53.184654,-113.73823600000001
+298378,small_airport,Lethbridge (Mercer Field),49.554811287700005,-112.561540604
+1280,heliport,Milton (Afi) Heliport,43.532223736400006,-79.90273430939999
+44689,heliport,Lacombe (Mustang Helicopters),52.37888717651367,-113.82250213623048
+320401,heliport,Mirabel Hélico Heliport,45.69555,-73.9525
+1281,heliport,Minden (Hospital) Heliport,44.92470169067383,-78.72940063476562
+321893,seaplane_base,McKellar (Manitouwabing) Seaplane Base,45.501796,-79.917757
+1282,small_airport,Quamichan Lake (Raven Field) Airport,48.8119010925293,-123.6510009765625
+321894,seaplane_base,Mink Lake Water Aerodrome,44.010731,-65.888588
+320877,seaplane_base,Morrison Lake Seaplane Base,44.8705,-79.461
+320521,small_airport,Martin's Landing,48.2936,-89.543002
+321882,seaplane_base,Six Mile Lake (Hungry Bay) Seaplane Base,44.9163,-79.7212
+320678,small_airport,St-Michel-de-Napierville Airport,45.213803999999996,-73.57600000000001
+45050,small_airport,Minto,62.6047222222,-137.221944444
+46539,small_airport,Manic-5,50.657731911400006,-68.8310194016
+45049,small_airport,Edmonton/Morinville (Mike's Field),53.8369444444,-113.56333333299999
+1283,heliport,Camrose / St Mary's Hospital Heliport,53.0151382454,-112.830169201
+1284,heliport,Middleton (Soldiers Memorial Hospital) Heliport,44.946128397299994,-65.05903959269999
+320781,seaplane_base,Marina le Nautique Water Aerodrome,46.69,-73.898702
+321889,seaplane_base,Mont-Tremblant (Lac Maskinongé) Seaplane Base,46.087825,-74.608452
+46498,small_airport,Matawatchan,45.164338325299994,-77.0955276489
+320348,small_airport,Collins Field,45.507401,-77.9906
+311601,small_airport,Arthur (Metz Field),43.810556,-80.435833
+1285,small_airport,Highgate Airport,42.55440139770508,-81.8031005859375
+1286,small_airport,Springwater Barrie Airpark,44.40639877319336,-79.73169708251953
+1287,small_airport,Emsdale Airport,45.54999923706055,-79.3499984741211
+1288,heliport,Uxbridge (Cottage Hospital) Heliport,44.1024562729,-79.1285777092
+1290,small_airport,Tomvale Airport,44.916099548339844,-76.93579864501953
+1291,heliport,Bolton Heliport,43.8521607791,-79.6948215365
+298384,heliport,North Bay Regional Health Centre Helipad,46.334854,-79.495869
+1292,heliport,Cobourg (Northumberland Hills Hospital) Heliport,43.97719955444336,-78.19999694824219
+28162,seaplane_base,Arnprior Seaplane Base,45.40750122070313,-76.35970306396484
+28327,seaplane_base,Moosonee Seaplane Base,51.2667007446289,-80.6500015258789
+28431,seaplane_base,Sudbury/Ramsey Lake Seaplane Base,46.47999954223633,-80.98529815673828
+1294,medium_airport,Brampton Airport,43.7602996826,-79.875
+1295,small_airport,Guelph Airport,43.56389999389648,-80.19609832763672
+28430,seaplane_base,Sudbury/Azilda Seaplane Base,46.53329849243164,-81.13330078125
+28294,seaplane_base,Lake Muskoka/Mortimer'S Point Seaplane Base,45.049999,-79.561095
+28438,seaplane_base,Temagami Seaplane Base,47.0625,-79.793297
+1296,heliport,Perth (Great War Memorial Hospital) Heliport,44.9069379415,-76.2536466122
+1298,small_airport,Stanhope Municipal Airport,45.1108333333,-78.64
+28245,seaplane_base,Granitehill Lake Seaplane Base,49.099998474121094,-85.19999694824219
+320435,heliport,Slocan Community Hospital Helipad,49.9841,-117.3744
+28372,seaplane_base,Portage Lake Seaplane Base,45.7667007446289,-80.2332992553711
+1299,small_airport,Bearskin Lake Airport,53.965599060058594,-91.0271987915039
+1300,small_airport,Iroquois Falls Airport,48.74169921875,-80.79329681396484
+28172,seaplane_base,Bar River Seaplane Base,46.416698,-84.099998
+28236,seaplane_base,Geraldton/Hutchison Lake Seaplane Base,49.784199,-86.93890400000001
+28330,seaplane_base,Nakina Seaplane Base,50.21670150756836,-86.69999694824219
+1301,small_airport,Essex Airport,42.09579849243164,-82.87940216064453
+1302,heliport,Haliburton (Hospital) Heliport,45.03810119628906,-78.5302963256836
+1303,small_airport,Pendleton Airport,45.48609924316406,-75.09609985351562
+1304,small_airport,Kawartha Lakes (Lindsay) Airport,44.3647,-78.783897
+28173,seaplane_base,Batchawana Seaplane Base,46.91669845581055,-84.5999984741211
+28250,seaplane_base,Haliburton Seaplane Base,45.00830078125,-78.56670379638672
+44688,small_airport,Dwight Airport,45.314445,-78.972504
+1305,small_airport,Niagara South Airport,42.9994010925293,-79.0635986328125
+320436,heliport,Aberdeen Hospital Heliport,45.572301,-62.6443
+1306,heliport,Pembroke (Regional Hospital) Heliport,45.81529998779297,-77.10780334472656
+1307,heliport,Walkerton (County of Bruce General Hospital) Heliport,44.1213539218,-81.1524519324
+320437,heliport,Greater Niagara General Hospital Heliport,43.105803,-79.0919
+1308,small_airport,Natuashish Airport,55.913897999999996,-61.184399
+320674,heliport,Niagara Health System Heliport,43.1518,-79.2807
+28255,seaplane_base,Hawk Junction Seaplane Base,48.08330154418945,-84.55000305175781
+28343,seaplane_base,North Bay Seaplane Base,46.33110046386719,-79.40139770507812
+1310,heliport,Nanaimo (West Coast) Heliport,49.18486660399999,-123.98908339399999
+1311,small_airport,Fort Erie Airport,42.9172121601,-78.95745277399999
+1312,small_airport,Orillia Airport,44.67765578389999,-79.31021690370002
+28258,seaplane_base,Hearst/Carey Lake Seaplane Base,49.7439,-84.0247
+28261,seaplane_base,Hornepayne Seaplane Base,49.18330001831055,-84.88330078125
+28467,seaplane_base,White River Seaplane Base,48.6269,-85.223297
+1314,small_airport,Parry Sound Area Municipal Airport,45.2575,-79.829697
+28211,seaplane_base,Dorset/Kawagama Lake (Old Mill Marina) Seaplane Base,45.2667007446289,-78.80829620361328
+1315,heliport,Owen Sound (Grey Bruce Health Services) Heliport,44.56809997558594,-80.91329956054688
+45219,heliport,Canmore/Nakoda Heliport,51.103332,-115.012222
+1316,heliport,Kitchener-Waterloo (Grand River Hospital) Heliport,43.4528857925,-80.503719449
+302186,small_airport,Fort McMurray / North Liege Airfield,57.136099592600004,-113.290071487
+1317,small_airport,Brockville - Thousand Islands Regional Tackaberry Airport,44.6394004822,-75.7502975464
+1318,small_airport,Port Elgin Airport,44.41529846191406,-81.41439819335938
+28191,seaplane_base,Chapleau Seaplane Base,47.849998474121094,-83.4000015258789
+28395,seaplane_base,Hurds Lake Seaplane Base,45.41669845581055,-76.6500015258789
+301322,small_airport,Nobel / Lumsden Air Park,45.408333299999995,-80.0780555
+1319,small_airport,Wyevale (Boker Field) Airport,44.65530014038086,-79.87889862060547
+1320,small_airport,Nueltin Lake Airport,59.70809936523438,-100.1269989013672
+1321,small_airport,Melbourne Airport,42.82419967651367,-81.54859924316406
+1322,heliport,Sturgeon Falls (West Nipissing General Hospital) Heliport,46.3733236554,-79.91627812390001
+1324,small_airport,Kingfisher Lake Airport,53.01250076293945,-89.85530090332031
+320433,heliport,Naramata Heliport,49.6029,-119.578501
+28362,seaplane_base,Pays Plat Seaplane Base,48.88330078125,-87.58329772949219
+1325,small_airport,Shelburne / Fisher Field,44.027892943599994,-80.20594596859999
+28197,seaplane_base,Cochrane Seaplane Base,49.10969924926758,-81.0333023071289
+28242,seaplane_base,Gooderham/Pencil Lake Seaplane Base,44.79999923706055,-78.3499984741211
+1327,small_airport,Gananoque Airport,44.40190124511719,-76.24420166015625
+28297,seaplane_base,Lake Rosseau/Windermere Seaplane Base,45.16669845581055,-79.5333023071289
+1328,small_airport,Arnprior Airport,45.41360092163086,-76.36579895019531
+28199,seaplane_base,Kamaniskeg Lake Seaplane Base,45.38330078125,-77.6500015258789
+46592,small_airport,Nampa / Hockey,55.91490056600001,-117.136155367
+1329,small_airport,Iroquois Airport,44.84217834472656,-75.31140899658203
+1330,small_airport,Greenbank Airport,44.1336968141,-79.01302814479999
+1331,small_airport,Welland / Niagara Central Airport,42.9791984558,-79.32469940189999
+1332,small_airport,Tillsonburg Airport,42.9275,-80.746944
+28203,seaplane_base,Constance Lake Seaplane Base,45.40280151367188,-75.97560119628906
+28271,seaplane_base,Keene/Elmhirst's Resort Seaplane Base,44.2523462944,-78.10242891310001
+28379,seaplane_base,Port Loring Seaplane Base,45.8923380253,-80.10301351550001
+320331,small_airport,Innerkip Airport,43.2326002,-80.6947
+1333,heliport,Sault Ste. Marie Heliport,46.50439834594727,-84.32330322265625
+1334,small_airport,Tobermory Airport,45.2214680842,-81.62755966190001
+1335,small_airport,Carleton Place Airport,45.10390090942383,-76.12329864501953
+1336,small_airport,Arnstein Airport,45.92559814453125,-79.92780303955078
+28420,seaplane_base,Smoky Lake Seaplane Base,45.849998474121094,-80.2166976928711
+1337,heliport,Englehart (District Hospital) Heliport,47.823240475,-79.8800468445
+1338,small_airport,Alexandria Aerodrome,45.3306999207,-74.62572479250002
+1339,small_airport,Straffordville Airport,42.73830032348633,-80.81670379638672
+1341,small_airport,Morrisburg Airport,44.946998596191406,-75.07740020751953
+1342,heliport,Smiths Falls (Community Hospital) Heliport,44.907175401800004,-76.0277831554
+28341,seaplane_base,Nobel/Sawdust Bay Seaplane Base,45.40190124511719,-80.12580108642578
+1343,small_airport,Ogoki Post Airport,51.65859985350001,-85.9017028809
+1344,heliport,Little Current (Manitoulin Health Centre) Heliport,45.97809982299805,-81.92639923095703
+28293,seaplane_base,Lake Muskoka/Dudley Bay Seaplane Base,45.03329849243164,-79.5999984741211
+1345,small_airport,Elmira Airport,43.58470153808594,-80.60310363769531
+1346,small_airport,Picton Airport,43.989200591999996,-77.13919830319999
+1347,heliport,Peterborough (Civic Hospital) Heliport,44.30059814453125,-78.3458023071289
+1348,small_airport,Belleville Airport,44.19219970703125,-77.30940246582031
+28263,seaplane_base,Huntsville Seaplane Base,45.31719970703125,-79.25779724121094
+1349,small_airport,Markham Airport,43.93579864501953,-79.26219940185547
+1350,heliport,Inverness (Consolidated Memorial Hospital) Heliport,46.199371623000005,-61.2918233871
+1351,heliport,New Liskeard (Temiskaming Hospital) Heliport,47.4944798164,-79.69294667240001
+1352,small_airport,Hawkesbury Airport,45.61669921875,-74.6500015258789
+28216,seaplane_base,Elk Lake Seaplane Base,47.727907674799994,-80.3215491772
+28347,seaplane_base,Orillia/Lake St John Seaplane Base,44.68330001831055,-79.31670379638672
+28409,seaplane_base,Sault Ste. Marie/Partridge Point Seaplane Base,46.520802,-84.240799
+1353,small_airport,Edenvale Aerodrome,44.441101,-79.962799
+306924,small_airport,Québec / Neuville Airport,46.7214759694,-71.58549785609999
+1355,small_airport,Bancroft Airport,45.07310104370117,-77.88059997558594
+1356,heliport,Mindemoya (Hospital) Heliport,45.73889923095703,-82.16670227050781
+1357,heliport,Toronto (Hospital For Sick Children) Heliport,43.656846450699994,-79.38788026569999
+1358,heliport,New Westminster (Royal Columbian Hospital) Heliport,49.226402683100005,-122.89019107799999
+1359,small_airport,Carey Lake Airport,49.7442,-84.03399999999999
+28382,seaplane_base,Port Stanton/Sparrow Lake Seaplane Base,44.79999923706055,-79.41670227050781
+1360,small_airport,Nixon Airport,42.84749984741211,-80.39530181884766
+1361,small_airport,Collingwood Airport,44.449199676499994,-80.1583023071
+1362,small_airport,Alliston Airport,44.18330001831055,-79.83709716796875
+28220,seaplane_base,Five Mile Lake Seaplane Base,47.56669998168945,-83.2166976928711
+1363,heliport,Toronto (Sunnybrook Medical Centre) Heliport,43.7212999835,-79.37076509
+46540,heliport,Anzac (Long Lake) Heliport,56.424322200000006,-110.96448899999999
+1365,small_airport,Barry's Bay / Madawaska Valley Airpark,45.5047227536,-77.64409303670001
+1366,heliport,Georgetown (Georgetown & District Hospital) Heliport,43.64440155029297,-79.93440246582031
+1367,heliport,Hanover (District Hospital) Heliport,44.14080047607422,-81.0291976928711
+1368,small_airport,Grimsby Airpark,43.15999984741211,-79.59919738769531
+28304,seaplane_base,Little Current Seaplane Base,45.9838981628418,-81.95860290527344
+46617,small_airport,Orangeville / Brundle Field,43.8745094139,-80.1798963547
+43873,small_airport,Orangeville / Laurel Airstrip,43.916900634799994,-80.20580291750002
+1369,heliport,Orillia (Ontario Provincial Police) Heliport,44.5846983447,-79.42754745479999
+301225,heliport,Val D'or (St. Pierre) Heliport,48.0774338086,-77.8686261177
+321785,small_airport,Orangeville/Rosehill Airfield,43.901928999999996,-80.023782
+43874,heliport,Otway,53.95166778564453,-122.8316650390625
+1370,heliport,Mount Forest (Louise Marshall Hospital) Heliport,43.97420120239258,-80.73750305175781
+1371,heliport,Palmerston (District Hospital) Heliport,43.83829879760742,-80.84190368652344
+1372,small_airport,Simcoe (Dennison Field) Airport,42.8193524977,-80.26521205899999
+1373,heliport,Tarten Heliport,43.6539083949,-79.65785399079998
+1374,heliport,Hagersville (West Haldimand General Hospital) Heliport,42.958369810200004,-80.04342556
+1375,heliport,Meaford (General Hospital) Heliport,44.60689926147461,-80.5988998413086
+1376,heliport,Simcoe (Norfolk General Hospital) Heliport,42.847259685100006,-80.32039046290002
+1377,heliport,Dunnville (Haldimand War Memorial Hospital) Heliport,42.913644915999996,-79.62854146960002
+1378,heliport,Fergus (Groves Memorial Community Hospital) Heliport,43.7214899523,-80.37602752450002
+1379,heliport,Welland (County General Hospital) Heliport,42.9775764564,-79.2497491837
+1380,small_airport,Pilot Butte Airport,50.46110153198242,-104.43099975585938
+1381,heliport,Bancroft (North Hastings District Hospital) Heliport,45.0713996887207,-77.87889862060547
+1382,small_airport,Paramount Bistcho Airport,59.6381,-118.333
+1383,small_airport,Baldwin Airport,44.2672004699707,-79.3405990600586
+320483,small_airport,Port Carling Airport,45.093001,-79.597301
+1384,small_airport,Arthur (Walter's Field),43.840578507,-80.44288158420002
+1385,heliport,Brampton (National D) Heliport,43.833112432,-79.70222041010001
+1386,small_airport,Teeswater (Thompson Field) Airport,43.94829940795898,-81.27189636230469
+46491,seaplane_base,Pontiac Airpark Water Aerodrome,45.523610999999995,-76.170833
+1387,heliport,Huntsville (Memorial District Hospital) Heliport,45.34000015258789,-79.2042007446289
+1388,small_airport,Ethel Airport,43.74499893188477,-81.17669677734375
+1389,heliport,Durham (Memorial Hospital) Heliport,44.18330001831055,-80.83329772949219
+1390,small_airport,Brussels (Armstrong Field) Airport,43.75,-81.2332992553711
+321884,seaplane_base,Paudash Lake Seaplane Base,44.959206,-78.036835
+28360,seaplane_base,Parry Sound/St. Waleran Island Seaplane Base,45.24919891357422,-80.20359802246094
+1392,heliport,Markdale (Centre Grey General Hospital) Heliport,44.31499862670898,-80.65809631347656
+1393,heliport,Ajax (Pickering General Hospital) Heliport,43.83588789340001,-79.0173760056
+1394,small_airport,Elk Lake Airport,47.728599548339844,-80.31580352783203
+1395,small_airport,Cambridge / Reid's Field,43.442730692299996,-80.23251056670001
+1396,small_airport,Port Colborne Airport,42.87749862670898,-79.35279846191406
+1397,small_airport,South River/Sundridge Airport & Float Plane Base,45.82109832763672,-79.32330322265625
+1399,heliport,Oakville (Trafalgar Memorial Hospital) Heliport,43.4740804079,-79.67159360650001
+1400,heliport,Armstrong Heliport,50.30670166015625,-89.02999877929688
+1401,small_airport,Bar River Airport,46.42029953,-84.0922012329
+320270,small_airport,Parti Field,45.4274,-76.069502
+1402,small_airport,Bruce McPhail Memorial Airport,45.59500122070313,-76.83329772949219
+1403,small_airport,Stoney Creek Airport,43.169692525900004,-79.7094154358
+1404,small_airport,Southampton Airport,44.493900299072266,-81.33529663085938
+28295,seaplane_base,Lake Rosseau/Arthurlie Bay Seaplane Base,45.11669921875,-79.55000305175781
+1405,heliport,Fort Erie (Eurocopter Canada) Heliport,42.921189708,-78.9561331272
+1406,small_airport,Elmira (East) Airport,43.59189987182617,-80.51219940185547
+1407,small_airport,Hawkesbury (East) Airport,45.582801818847656,-74.54889678955078
+1408,small_airport,Port Elgin (Pryde Field) Airport,44.458900451660156,-81.37969970703125
+1409,small_airport,Fergus (Juergensen Field) Airport,43.73500061035156,-80.44719696044922
+1410,heliport,Chatham (Public General Hospital) Heliport,42.40359878540039,-82.19329833984375
+1411,heliport,Renfrew (Victoria Hospital) Heliport,45.48249816894531,-76.69609832763672
+1412,small_airport,Rolph Airport,46.11669921875,-77.5333023071289
+1413,heliport,Potvin Heli-Base Heliport,48.930801,-72.20500200000001
+1414,heliport,Markham Stouffville Heliport,43.8851011299,-79.2305901647
+1416,small_airport,Fordwich Airport,43.888099670410156,-80.99530029296875
+1417,heliport,Alliston Heliport,44.1411018371582,-79.80139923095703
+1418,heliport,Hamilton (Chedoke-McMaster Hospital) Heliport,43.2659885521,-79.9289220572
+1419,heliport,Geraldton (District Hospital) Heliport,49.72169876098633,-86.95719909667969
+1420,small_airport,Stirling Airport,44.241401672399995,-77.5616989136
+320680,small_airport,St-Pierre-Jolys (Carl's Field),49.43600000000001,-96.927002
+1421,heliport,Kingston (General Hospital) Heliport,44.222145045,-76.49325907229999
+28309,seaplane_base,Manitowaning Seaplane Base,45.733297,-81.800001
+1422,small_airport,Strathroy (Blue Yonder) Airport,42.96580123901367,-81.5916976928711
+1423,heliport,Hamilton (General Hospital) Heliport,43.261912232799986,-79.85472545030002
+1424,heliport,Toronto (Mississauga Credit Valley Hospital) Heliport,43.5614123982,-79.70273673530002
+1425,heliport,Ottawa (Children's Hospital) Heliport,45.400982114399994,-75.6501294672
+28394,seaplane_base,Black Donald Lake Seaplane Base,45.20500183105469,-76.95670318603516
+46601,small_airport,Arthur (Peskett Field),43.77154316479999,-80.4835224152
+1426,heliport,Bracebridge (South Muskoka Memorial Hospital) Heliport,45.0487,-79.3151
+1427,small_airport,Kars / Rideau Valley Air Park,45.103062065299994,-75.6281661987
+1428,small_airport,Grand Bend Airport,43.28689956665039,-81.71420288085938
+316996,small_airport,Parkland Airport,53.473845999999995,-113.82848700000001
+1430,heliport,Bowmanville (Memorial Hospital) Heliport,43.90950121109999,-78.6765195429
+1431,heliport,Cardinal Couriers Heliport,43.6312723974,-79.6647030115
+307613,small_airport,POURVOIRIE MIRAGE AERODROME,53.8025,-72.841389
+1433,small_airport,Volk Airport,43.993803,-79.77844499999999
+1434,small_airport,Bradford Airport,44.13610076904297,-79.62889862060547
+1435,heliport,Moose Factory Heliport,51.2494010925293,-80.618896484375
+1437,small_airport,Listowel Airport,43.742803,-80.99140200000001
+28154,seaplane_base,Algoma Mills Seaplane Base,46.18330001831055,-82.83329772949219
+1438,heliport,Carleton Place (District Memorial Hospital) Heliport,45.14176852959999,-76.13709926610001
+320346,small_airport,London (Pioneer Airpark),43.0975,-81.234301
+1439,heliport,Collingwood (General and Marine Hospital) Heliport,44.499698638916016,-80.20330047607422
+314444,small_airport,Port Perry / Hoskin Airport,44.061667,-78.885002
+1440,small_airport,York Airport,43.037498474121094,-79.85250091552734
+1441,heliport,Ottawa (Civic Hospital) Heliport,45.3914678816,-75.7205978036
+1442,heliport,Niagara Falls Heliport,43.1190603068,-79.0753144026
+28296,seaplane_base,Lake Rosseau/Cameron Bay Seaplane Base,45.25,-79.650002
+28418,seaplane_base,Skeleton Lake Seaplane Base,45.23189926147461,-79.43609619140625
+1444,small_airport,Ottawa / Embrun Airport,45.2411003112793,-75.29859924316406
+1445,small_airport,Palmerston Airport,43.853599548339844,-80.7802963256836
+1446,heliport,London (University Hospital) Heliport,43.013054501199996,-81.27439185979999
+1447,small_airport,Woodstock Airport,43.1082677518,-80.8218669891
+1448,small_airport,Wingham / Richard W. LeVan Airport,43.867500305200004,-81.2985992432
+1449,heliport,Pincher Creek (Hospital) Heliport,49.49250030517578,-113.9469985961914
+46626,small_airport,Fergus (Royland Field),43.7417549969,-80.38620114330001
+28358,seaplane_base,Parry Sound Harbour Seaplane Base,45.33919906616211,-80.03469848632812
+1450,small_airport,Elmhirst's Resort Airport,44.251470223000005,-78.1072568893
+1451,small_airport,Lucan Airport,43.1633,-81.412498
+1452,small_airport,Miminiska Airport,51.60440063476562,-88.58219909667969
+1453,heliport,Cornwall (Community Hospital McConnell Site) Heliport,45.020301818847656,-74.7177963256836
+1454,small_airport,Orton / Smith Field,43.7753857192,-80.22806882859999
+28359,seaplane_base,Parry Sound/Huron Island Seaplane Base,45.17940139770508,-80.10669708251953
+28357,seaplane_base,Parry Sound/Frying Pan Island-Sans Souci Seaplane Base,45.173302,-80.137497
+1455,small_airport,Killarney Airport,45.977500915527344,-81.49469757080078
+1456,small_airport,Rockton Airport,43.32220077514648,-80.17639923095703
+28366,seaplane_base,Perry Lake Seaplane Base,48.532501,-80.107202
+28314,seaplane_base,Mattawa Seaplane Base,46.3114013671875,-78.7228012084961
+28355,seaplane_base,Parry Sound/Deep Bay Seaplane Base,45.39860153198242,-80.18190002441406
+320482,small_airport,Pintendre Airport,46.7584,-71.110202
+1457,heliport,Kincardine (South Bruce Grey Health Centre Hospital) Heliport,44.1875,-81.62439727783203
+1458,small_airport,Rodney (New Glasgow) Airport,42.53139877319336,-81.60690307617188
+1459,heliport,Manitouwadge (General Hospital) Heliport,49.12220001220703,-85.82219696044922
+28348,seaplane_base,Orillia/Matchedash Lake Seaplane Base,44.788927,-79.50020500000001
+1460,small_airport,Tyendinaga Mohawk Airport,44.18470001220703,-77.10780334472656
+1461,small_airport,Orangeville / Castlewood Field,43.958599,-80.154999
+1462,small_airport,St. Joseph Island Airport,46.28329849243164,-83.94999694824219
+1463,small_airport,Mansfield Airport,44.143921883199994,-80.0136208534
+28257,seaplane_base,Head Lake Seaplane Base,44.721401,-78.910797
+1464,heliport,Barry's Bay (St. Francis Memorial Hospital) Heliport,45.481754097700005,-77.6953125
+1465,small_airport,Poplar Hill Airport,52.1133,-94.2556
+1466,small_airport,Keewaywin Airport,52.9911003113,-92.8364028931
+320488,small_airport,Poverty Valley Airport,50.038096,-107.255051
+1467,heliport,London (Victoria Hospital) Heliport,42.9590666613,-81.2255716324
+28445,seaplane_base,Timmins/Porcupine Lake Seaplane Base,48.483297,-81.199997
+1469,heliport,Midland (Huronia District Hospital) Heliport,44.74169921875,-79.91439819335938
+1470,heliport,Powell River (Hospital) Heliport,49.85279846191406,-124.52300262451172
+28373,seaplane_base,Port Alberni Seaplane Base,49.23189926147461,-124.81500244140624
+1471,heliport,Marathon (Wilson Memorial Hospital) Heliport,48.71860122680664,-86.37470245361328
+1474,heliport,Port Perry (Community Memorial Hospital) Heliport,44.104863829900005,-78.95409196620002
+28408,seaplane_base,Sault Ste. Marie Seaplane Base,46.50439834594727,-84.32330322265625
+1475,heliport,Milton (District Hospital) Heliport,43.4958882862,-79.86969083550001
+1476,heliport,Beardmore (Health Centre) Heliport,49.60860061645508,-87.9531021118164
+1478,heliport,Wilson's Heliport,43.6177812712,-79.5639659464
+28264,seaplane_base,Huntsville/Bella Lake Seaplane Base,45.45280075073242,-79.02559661865234
+28376,seaplane_base,Port Carling/Butterfly Lake Seaplane Base,45.09389877319336,-79.63059997558594
+46618,small_airport,Fergus (Holyoake Airfield),43.728611111000006,-80.28305555559999
+1479,heliport,Alliston (Stevenson Memorial Hospital) Heliport,44.1554191206,-79.8737168312
+1480,small_airport,Trenton / Mountain View Airport,44.0694007874,-77.33809661869999
+298390,heliport,Montreal / Point Zero Helipad,45.529803,-73.657787
+28307,seaplane_base,MacTier/Francis Island Seaplane Base,45.15029907226562,-80.01920318603516
+28448,seaplane_base,Toronto/City Centre Seaplane Base,43.633099,-79.394402
+320492,small_airport,Rollick Airpark,44.1406,-79.484802
+1481,small_airport,Cottam Airport,42.13999938964844,-82.65280151367188
+1482,small_airport,Rivière Bonnard Airport,50.70439910888672,-71.1624984741211
+1483,small_airport,Rivière Bell Aerodrome,49.0788993835,-62.2369003296
+28397,seaplane_base,Cardinal Aviation Seaplane Base,45.54750061035156,-75.62779998779297
+1484,heliport,Fredericton (RCMP) Heliport,45.9317400556,-66.66668057439999
+320664,small_airport,Ross Creek Airport,50.965502,-119.2254
+1485,heliport,Red Deer Regional Hospital Centre Heliport,52.26190185546875,-113.81600189208984
+45218,small_airport,Red Deer / South 40 Airstrip,52.261944,-113.95138899999999
+301228,small_airport,Red Deer / Truant Airfield,52.28704284040001,-113.913180828
+320497,small_airport,Truant South Airport,52.2782,-113.9151
+1486,small_airport,Edzo Airport,62.7667007446289,-116.08399963378906
+46538,small_airport,Rand Private Airfield,43.066501,-80.6986
+1487,heliport,Langley (Russell Farm) Heliport,49.0110458923,-122.672213316
+46528,small_airport,Edmonton / Villeneuve (Rose Field),53.645556000000006,-113.802778
+46532,small_airport,Calgary / Okotoks (Rowland Field),50.764722223,-113.958055556
+320683,small_airport,Saskatoon/Richter Field Airport,52.2803,-106.6828
+321883,seaplane_base,Quamichan Lake (Raven Field) Seaplane Base,48.8083,-123.650001
+320337,heliport,Argus Heliport,49.9616,-119.445801
+320193,small_airport,Bouthillier Airport,45.4778,-73.3016
+1488,heliport,Coronation (Health Centre) Heliport,52.096071,-111.45975200000001
+1489,heliport,Rimbey (Hospital & Care Centre) Heliport,52.640615597600004,-114.247781038
+44372,small_airport,Stoney Point (Trepanier),42.28888702392578,-82.59833526611328
+320351,small_airport,Millet/Creekview Airport,53.0778,-113.506601
+1490,small_airport,Westport / Rideau Lakes Airport,44.666665176600006,-76.3966673613
+1491,heliport,Red Lake (Margaret Cochenour Memorial Hospital) Heliport,51.01359939575195,-93.8218994140625
+1492,small_airport,Kirby Lake Airport,55.35559844970703,-110.63700103759766
+320880,seaplane_base,West Guilford/Redstone Lake Water Aerodrome,45.21,-78.546002
+301229,small_airport,Reindeer Lake / Lindbergh Lodge Airstrip,57.28805555,-102.525
+320785,seaplane_base,Roberts Lake Seaplane Base,45.249602,-79.8258
+1493,small_airport,Riding Mountain Airport,50.57360076904297,-99.36139678955078
+320662,small_airport,Richelieu/Messier Airport,45.3779,-73.2267
+320220,small_airport,Cormier Airport,46.1808,-64.3758
+321786,small_airport,Wheatly (Robinson Motorcycles) Airfield,42.14305556,-82.3625
+1494,small_airport,Stoney Point (Le Cunff) Airport,42.29560089111328,-82.53500366210938
+1495,small_airport,R.M. of Pipestone Airport,49.58060073852539,-101.0530014038086
+320661,heliport,Regina General Hospital Helipad,50.444008000000004,-104.601327
+1496,heliport,Parry Sound Medical Heliport,45.34170150756836,-80.0167007446289
+300229,small_airport,Calgary / Christiansen Field,50.7994796471,-114.05126094799999
+320665,small_airport,Rosseau Airport,45.2691,-79.6558
+301323,small_airport,Matoush Airport,51.905,-72.12388888
+300230,small_airport,Rivière Témiscamie (Air Roberval Ltée) Airport,51.009246999999995,-72.983594
+1497,heliport,Barrie (Royal Victoria Hospital) Heliport,44.414409544799994,-79.66574370859999
+314211,seaplane_base,Arviat Water Aerodrome,61.1472,-94.1158
+46499,heliport,Redwater (Heliworks) Heliport,53.919252,-113.104248
+320498,heliport,Redwater Health Centre Heliport,53.9498,-113.1271
+1498,small_airport,Lac Agile (Mascouche) Airport,45.79190063476562,-73.63809967041016
+46527,heliport,Edmonton / Sturgeon Community Hospital Heliport,53.654578,-113.62736100000001
+28323,seaplane_base,Boisvert & Fils Seaplane Base,45.64559936523438,-73.5969009399414
+320784,seaplane_base,St-Charles-de-Bourget Water Aerodrome,48.509103,-71.4632
+28212,seaplane_base,Drummondville Seaplane Base,45.854401,-72.389395
+320783,seaplane_base,Saguenay (Harvey) Water Aerodrome,48.44,-71.13
+28281,seaplane_base,Lac-Des-Îles Seaplane Base,46.4119,-75.519995
+44427,small_airport,Sable Island Landing Strip,43.930292,-59.960289
+1499,small_airport,St-Mathieu-De-Beloeil Airport,45.59000015258789,-73.23860168457031
+1500,heliport,Chibougamau Heliport,49.900002,-74.383302
+1501,small_airport,Shediac Bridge Airport,46.25469970703125,-64.57669830322266
+28322,seaplane_base,Montebello Seaplane Base,45.6338996887207,-74.97750091552734
+28352,seaplane_base,Parc De La Vérendrye (Le Domaine) Seaplane Base,47.03670120239258,-76.53669738769531
+1502,small_airport,Drummondville Airport,45.845298767089844,-72.39469909667969
+1503,small_airport,Lac Etchemin Airport,46.40719985961914,-70.50140380859375
+28158,seaplane_base,Amos (Lac Figuery) Seaplane Base,48.49969863891602,-78.1177978515625
+1504,small_airport,Sudbury / Coniston Airport,46.482200622600004,-80.8339004517
+1505,heliport,Sundre (Hospital & Health Care Centre) Heliport,51.807165301400005,-114.63654041299999
+1506,small_airport,Valleyfield Airport,45.20830154418945,-74.14140319824219
+1507,small_airport,Mont Laurier Airport,46.56439971923828,-75.57779693603516
+1508,heliport,Fermont Heliport,52.80609893798828,-67.10220336914061
+28165,seaplane_base,Baie-Comeau Seaplane Base,49.204201,-68.340599
+314907,small_airport,Sunderland field/Blackwater creek,44.227233,-79.097314
+28353,seaplane_base,Parc Gatineau Seaplane Base,45.68330001831055,-76.20860290527344
+1509,heliport,Chibougamau (Hydro-Québec) Heliport,49.88779830932617,-74.40029907226562
+1510,small_airport,Lourdes-De-Joliette Airport,46.10940170288086,-73.45279693603516
+1511,small_airport,Lachute Airport,45.63940048217773,-74.37059783935547
+1512,small_airport,Montmagny Airport,47.00139999389648,-70.51580047607422
+28321,seaplane_base,Mistissini Seaplane Base,50.41669845581055,-73.86669921875
+1513,heliport,Delta (SEI) Heliport,49.12919998168945,-123.01799774169922
+28325,seaplane_base,Lac Duhamel Seaplane Base,46.14080047607422,-74.6417007446289
+28354,seaplane_base,Parent Seaplane Base,47.89189910888672,-74.6406021118164
+320332,heliport,Innisfail Hospital Heliport,52.019302,-113.9536
+1514,small_airport,Poste Montagnais (Mile 134) Airport,51.88859939575195,-65.71499633789061
+325559,small_airport,Shelburne (Schaefer Field),44.008903000000004,-80.262597
+320349,small_airport,Markerville/Safron Farms Airport,52.199,-114.237301
+1515,heliport,Ste-Marguerite Heliport,46.03110122680664,-74.05329895019531
+298394,small_airport,Ottawa / Casselman (Shea Field),45.299675,-75.171504
+1516,heliport,East Angus Heliport,45.483299255371094,-71.66670227050781
+1517,small_airport,Joliette Airport,46.04499816894531,-73.50170135498047
+1518,small_airport,St Jean Chrysostome Airport,46.68529891967773,-71.15170288085938
+46525,heliport,Edmonton / Kelsonae Heliport,53.366609999999994,-113.83750500000001
+1519,heliport,François Desourdy Heliport,45.44969940185547,-71.868896484375
+320668,heliport,Sagard Heliport,47.990844,-70.07748640000001
+1520,small_airport,Île-aux-Grues Airport,47.07109832763672,-70.53279876708984
+1521,small_airport,Lebel-sur-Quevillon Airport,49.0303001404,-77.0171966553
+1522,small_airport,St-Ferdinand Airport,46.1260986328125,-71.53610229492188
+1523,heliport,Montreal / Les Cèdres Heliport,45.3473347366,-74.0872424841
+28308,seaplane_base,Manicouagan/Lac Louise Seaplane Base,50.65750122070313,-68.82279968261719
+1524,heliport,Montréal East (Aim) Heliport,45.63519290719999,-73.5621383786
+1525,small_airport,Kanawata Aeroparc Airport,47.59469985961914,-74.13359832763672
+320308,heliport,St. Joseph's Hospital Helipad,49.152903,-103.013001
+1526,small_airport,Louiseville Airport,46.24610137939453,-72.90440368652344
+1527,small_airport,St-Louis-De-France Airport,46.43669891357422,-72.63030242919922
+1529,small_airport,Mansonville Airport,45.02640151977539,-72.40190124511719
+1530,small_airport,Paquet Airport,46.89500045776367,-71.78579711914062
+1531,small_airport,Snap Lake Airport,63.593601,-110.905998
+1532,small_airport,King George Airpark,49.09500122070313,-122.81900024414062
+1533,heliport,Nicolet Heliport,46.220298767089844,-72.64779663085938
+1534,heliport,La Sarre Heliport,48.80860137939453,-79.25170135498047
+1535,small_airport,Lac a la Tortue Airport,46.62170028686523,-72.63030242919922
+1536,small_airport,St-Victor-De-Beauce Airport,46.11830139160156,-70.88919830322266
+44371,heliport,Slave Lake / Slave Lake Helicopters,55.2933349609375,-114.78138732910156
+46493,small_airport,Odessa / Strawberry Lakes Airstrip,50.36451775020001,-103.74080658
+46621,heliport,Sudbury / Laurentian (Hospital),46.4666476682,-80.9964895248
+1537,small_airport,Baie-Comeau (Manic 1) Airport,49.18439865112305,-68.36250305175781
+320696,heliport,Strathmore Hospital Heliport,51.0599,-113.3862
+1538,small_airport,Thetford Mines Airport,46.05170059204102,-71.2572021484375
+1540,small_airport,St-Michel-Des-Saints Airport,46.68080139160156,-73.99359893798828
+28310,seaplane_base,Blue Sea Lake Seaplane Base,46.2421989440918,-76.04830169677734
+299268,heliport,Abbotsford (Sumas Mountain),49.1053216582,-122.197440863
+28413,seaplane_base,Sept-Îles/Lac Des Rapides Seaplane Base,50.29890060424805,-66.41560363769531
+320692,heliport,Sault Area Hospital Heliport,46.5474,-84.312601
+1541,heliport,Montreal / Kruger Heliport,45.507349751199996,-73.6360439658
+1542,small_airport,St-Jérôme Airport,45.78030014038086,-74.06189727783203
+1543,small_airport,Stanhope Airport,45.01559829711914,-71.79440307617188
+1544,heliport,Saint John (Saint John Regional Hospital) Heliport,45.3021352054,-66.0879027843
+1545,small_airport,Farnham Airport,45.28559875488281,-73.00779724121094
+28388,seaplane_base,Québec/Lac St-Augustin Seaplane Base,46.75139999389648,-71.39420318603516
+1546,heliport,Baie-Comeau / Héli-Manicouagan Heliport,49.198955953900004,-68.2854178548
+1547,heliport,Stony Plain (Westview Health Centre) Heliport,53.5373346229,-113.97831291
+1548,small_airport,Stony Plain (Lichtner Farms) Airport,53.537498474121094,-114.06800079345705
+1549,small_airport,St-Mathias Airport,45.50080108642578,-73.24169921875
+1550,small_airport,Montreal / Aéroparc Île Perrot,45.376098632799994,-73.9072036743
+28289,seaplane_base,Lac Sept-Îles Seaplane Base,46.939701,-71.745003
+28401,seaplane_base,Ste-Anne-Du-Lac Seaplane Base,46.881901,-75.321702
+46513,small_airport,Shuswap (Skwlax Field) Airport,50.8786689434,-119.590816498
+1551,small_airport,Valcourt Airport,45.48109817504883,-72.310302734375
+1552,small_airport,Victoriaville Airport,46.11280059814453,-71.92890167236328
+1554,heliport,Île d'Orléans (Heliport),46.99079895019531,-70.82669830322266
+1555,heliport,Sonora Resort Heliport,50.3817339685,-125.15755891799999
+1556,small_airport,La Sarre Airport,48.917198181152,-79.178596496582
+1557,heliport,Rivière-du-Loup Heliport,47.849038998400005,-69.5422527194
+1558,small_airport,Montreal / Les Cèdres Airport,45.347499847399995,-74.07669830319999
+1559,small_airport,St-Dominique Airport,45.63249969482422,-72.81890106201172
+28277,seaplane_base,Lac-à-Beauce Seaplane Base,47.321401,-72.764997
+298389,heliport,Montreal / Marina Venise,45.6322408462,-73.7810871005
+1560,small_airport,Montreal / St-Lazare Airport,45.3903282887,-74.1340041161
+46182,heliport,Sorel-Tracy/Air Nature Inc. (Heli),46.03694444439999,-73.1244444444
+1561,heliport,Sable Island Heliport,43.933101654052734,-60.00559997558594
+28195,seaplane_base,Clova/Lac Duchamp Seaplane Base,48.11000061035156,-75.36579895019531
+1562,small_airport,St-Lambert-De-Lauzon Airport,46.56029891967773,-71.18250274658203
+28324,seaplane_base,Montreal / Marina Venise Seaplane Base,45.632856028,-73.78240942960002
+1563,small_airport,Chisasibi Airport,53.80559921264648,-78.91690063476562
+1564,small_airport,St Hyacinthe Airport,45.60499954223633,-73.01419830322266
+1565,small_airport,Ste-Lucie-De-Beauregard Airport,46.74079895019531,-70.03250122070311
+1566,small_airport,Weymontachie Airport,47.9369010925293,-73.81719970703125
+28424,seaplane_base,Spout Lake Seaplane Base,52.00749969482422,-121.44499969482422
+1567,small_airport,Lac-à-la-Tortue (Water Aerodrome) Airport,46.61669921875,-72.62580108642578
+1568,heliport,Ste-Agathe (AIM) Heliport,46.110987,-74.293832
+1569,heliport,Bécancour Heliport,46.3650016784668,-72.39610290527344
+1570,heliport,Fort Saskatchewan Community Hospital Heliport,53.6931,-113.2102
+299269,small_airport,Schomberg (Sloan Valley View Farm Airfield),43.9861452438,-79.72728967670002
+28403,seaplane_base,St-Mathias Seaplane Base,45.5028,-73.252197
+1571,heliport,Montréal (Bell) Heliport,45.68500137329102,-73.93109893798828
+320325,small_airport,Sweetwater Farms Airport,44.3459,-77.9277
+28313,seaplane_base,Matagami Seaplane Base,49.73440170288086,-77.61969757080078
+28404,seaplane_base,Ste-Véronique Seaplane Base,46.514702,-74.990303
+1572,small_airport,Richelieu Airport,45.447077,-73.232683
+1573,small_airport,Grant Airport,45.471900939941406,-73.19940185546875
+1574,small_airport,Exeter Airport,43.377201080322266,-81.50420379638672
+1575,small_airport,Sorel Airport,45.98030090332031,-73.04219818115234
+1576,small_airport,St-Donat Airport,46.30580139160156,-74.181396484375
+1577,heliport,Valleyfield (Ciment Deval Inc) Heliport,45.26359939575195,-74.14920043945312
+1578,heliport,Poste Lemoyne (Complex Lg-3) Heliport,53.4827995300293,-75.03140258789062
+28334,seaplane_base,Natashquan (Lac De L'Avion) Seaplane Base,50.189201000000004,-61.753899
+1579,heliport,Sydney (Cape Breton Regional Hospital) Heliport,46.1101095527,-60.1761505008
+1580,heliport,Québec (Complex H) Heliport,46.80720520019531,-71.21343231201172
+1581,small_airport,Mont-Tremblant / St-Jovite Airport,46.154202000000005,-74.583603
+1582,small_airport,St-Frédéric Airport,46.33140182495117,-70.96330261230469
+1583,heliport,St-Jérôme (Hydro-Québec) Heliport,45.7707634958,-74.0269973874
+320873,seaplane_base,Chibougamau/Lac Caché Water Aerodrome,49.823371,-74.424285
+1584,heliport,Montréal (Sacré-Coeur) Heliport,45.5331686314,-73.7124305964
+28411,seaplane_base,Schefferville/Squaw Lake Seaplane Base,54.828098,-66.801399
+1585,heliport,Sept-Îles (Hydro-Québec) Heliport,50.288352156,-66.41241788859999
+1586,small_airport,Île aux Coudres Airport,47.38940048217773,-70.3843994140625
+1587,small_airport,St Bruno-de-Guigues Airport,47.449199676499994,-79.41809844970001
+28452,seaplane_base,Val-D'Or/Hydrobase Piché Dubuisson Seaplane Base,48.085301,-77.888601
+320191,small_airport,Bracebridge (Tinks) Airport,45.007,-79.414101
+1588,heliport,Ottawa / Gatineau (Casino) Heliport,45.4467020875,-75.72676420210001
+1589,heliport,Thunder Bay (Health Science Centre) Heliport,48.42309951782226,-89.26920318603516
+1590,small_airport,Tête-à-la-Baleine Airport,50.674400329589844,-59.38359832763672
+1591,heliport,Taber (Health Centre) Heliport,49.78559875488281,-112.16600036621094
+28400,seaplane_base,St-Alphonse/Lac Cloutier Seaplane Base,46.192799,-73.654404
+28288,seaplane_base,Lac Sébastien Seaplane Base,48.65169906616211,-71.14579772949219
+1592,heliport,Baie-St-Paul Heliport,47.44329833984375,-70.51640319824219
+28254,seaplane_base,Havre St-Pierre Seaplane Base,50.263302,-63.550598
+1593,small_airport,Lac à la Perchaude Airport,46.62250137329102,-72.84829711914062
+320697,heliport,Tofield Health Centre Heliport,53.373004,-112.6506
+1594,small_airport,Causapscal Airport,48.3114013671875,-67.25140380859375
+46595,small_airport,Dundalk (Tripp Field),44.1743863972,-80.3079128265
+320481,small_airport,Pierceland (Turchyn Field),54.300305,-109.9269
+1595,heliport,Montreal / St-Hubert Helicraft,45.531919164099996,-73.41086447240002
+1596,small_airport,Du Rocher-Percé (Pabok) Airport,48.38330078125,-64.56439971923828
+300234,small_airport,Thor Lake Airport,62.100790230200005,-112.624111176
+1597,small_airport,Grandes-Bergeronnes Airport,48.232200622558594,-69.54280090332031
+1599,heliport,Harrington Harbour Heliport,50.49610137939453,-59.48059844970703
+28302,seaplane_base,La Tuque Seaplane Base,47.461399078369,-72.781097412109
+320219,small_airport,Tally-Ho Field,44.2143,-79.7769
+1600,heliport,St-Augustin Heliport,51.2236745629,-58.642385602
+28349,seaplane_base,Ottawa / Gatineau Seaplane Base,45.4644012451,-75.68000030520001
+1601,heliport,Québec (Coast Guard) Heliport,46.80633544921875,-71.2039794921875
+1603,small_airport,Senneterre Airport,48.340599060058594,-77.18109893798828
+1604,small_airport,Kegaska Airport,50.1958007812,-61.2658004761
+43330,small_airport,Selkirk / Kindy Airstrip,42.851112365700004,-79.87916564940001
+298385,heliport,Abbotsford (Teck),49.126853999999994,-122.395003
+28439,seaplane_base,Temagami/Mine Landing Seaplane Base,46.96030044555664,-80.02310180664062
+28194,seaplane_base,Chute-Des-Passes/Lac Margane Seaplane Base,49.9434,-71.138
+1605,heliport,Toronto (St. Michael's Hospital) Heliport,43.654152915,-79.37847107650002
+45217,heliport,Timmins & District Hospital Heliport,48.486944,-81.313611
+316099,small_airport,Tundra Mine/Salamita Mine Aerodrome,64.0725,-111.15799999999999
+320782,seaplane_base,Témiscouata-sur-le-Lac Water Aerodrome,47.685,-68.875
+320453,heliport,New Oakville Trafalgar Memorial Hospital Heliport,43.449102,-79.763801
+28278,seaplane_base,Lac Beauregard Seaplane Base,46.95309829711914,-74.89219665527344
+1606,small_airport,Treherne (South Norfolk Airpark) Airport,49.65969848632813,-98.66529846191406
+313805,small_airport,Canton Aerodrome,44.002410999999995,-78.361965
+28170,seaplane_base,Barrage Gouin Seaplane Base,48.35419845581055,-74.10279846191406
+28287,seaplane_base,Lac Pau (Caniapiscau) Seaplane Base,54.84500122070313,-69.88189697265625
+1607,heliport,St. Paul (Health Care Centre) Heliport,53.98809814453125,-111.29100036621094
+1608,small_airport,Donaldson Airport,61.662200927700006,-73.3214035034
+1609,small_airport,Weller Airport,45.034400939941406,-72.03500366210938
+28151,seaplane_base,Aguanish Seaplane Base,50.230595,-62.112499
+1611,small_airport,St-Anselme Airport,46.62189865112305,-70.95500183105469
+1612,heliport,Artopex Plus Heliport,45.39080047607422,-72.76609802246094
+1614,small_airport,St-Basile (Marcotte) Airport,46.78359985351562,-71.82640075683594
+28350,seaplane_base,Ottawa / Rockcliffe Seaplane Base,45.463832946100005,-75.64254283910002
+1615,heliport,Quebec / Beauport (HQ) Heliport,46.8795206445,-71.1941441149
+28279,seaplane_base,Lac Berthelot Seaplane Base,48.52000045776367,-76.1624984741211
+302188,heliport,Hespero / Safron Residence Heliport,52.2804417191,-114.427800179
+1617,small_airport,La Romaine Airport,50.259701,-60.679401
+1618,small_airport,Fontanges Airport,54.553901672363004,-71.173301696777
+1619,small_airport,La Tabatière Airport,50.8307991027832,-58.97560119628906
+28280,seaplane_base,Lac-Des-Écorces Seaplane Base,46.54859924316406,-75.4186019897461
+28290,seaplane_base,Lac Trévet Seaplane Base,48.159400939941406,-76.13780212402344
+28190,seaplane_base,Cascades Seaplane Base,45.58580017089844,-75.86810302734375
+301231,small_airport,Olds / North 40 Ranch Airstrip,51.9001705129,-114.147820473
+1620,small_airport,Rougemont Airport,45.43830108642578,-73.03780364990234
+44471,small_airport,Voisey's Bay,56.344722222200005,-62.08805555560001
+46627,small_airport,Fergus (Vodarek Field),43.7232733033,-80.28937339779999
+1621,heliport,Vegreville (St. Joseph's General Hospital) Heliport,53.49390029907226,-112.03299713134766
+1622,heliport,Vermilion Health Centre Heliport,53.35580062866211,-110.87200164794922
+1623,heliport,Vulcan (Hospital) Heliport,50.3957910699,-113.25955867799999
+298406,heliport,Viking Health Centre Helipad,53.100453,-111.776597
+314914,small_airport,Varty Lake Airport,44.409,-76.8051
+320561,small_airport,Victor Mine Airport,52.832802,-83.924801
+320795,seaplane_base,Île Sainte-Hélène Water Airport,45.5212,-73.5394
+1624,small_airport,Viking (South) Airport,53.02560043334961,-111.9489974975586
+320559,heliport,Surrey Memorial Hospital Helipad,49.1759,-122.844
+28457,seaplane_base,Vernon/Wildlife Seaplane Base,50.24359893798828,-119.34400177001952
+321787,small_airport,Bracebridge West Airfield,45.059008,-79.399828
+1625,small_airport,White City (Radomsky) Airport,50.43970108032226,-104.30599975585938
+1626,heliport,Kelowna (Wildcat Helicopters) Heliport,49.8674232001,-119.579229355
+1627,heliport,Wetaskiwin (Hospital & Care Centre) Heliport,52.9884341311,-113.368070126
+322577,heliport,Nootka Lightstation Helipad,49.59225,-126.61638300000001
+320216,heliport,Alta Heliport,44.5294,-80.354
+320324,heliport,Hamilton/Waterdown Heliport,43.3243,-79.9361
+299277,small_airport,Walter's Falls (Piper Way) Airfield,44.463879951,-80.62147378920002
+298405,heliport,Winnipeg (City of Winnipeg) Heliport,49.900473,-97.09555300000001
+1628,heliport,Wainwright (Health Centre) Heliport,52.842978527700005,-110.86473494799999
+301232,heliport,Woodstock (Hospital) Heliport,43.105557566,-80.7544201612
+320460,heliport,Winchester District Memorial Hospital Heliport,45.088,-75.3549
+300457,small_airport,Ennadai Lake Airport,61.1333333333,-100.9
+302189,heliport,Leslieville / W. Pidhirney Residence Heliport,52.359274141099995,-114.571346641
+322573,heliport,Boat Bluff Lighthouse Helipad,52.643733,-128.524586
+46596,small_airport,Arctic Bay Airport,73.0057668174,-85.0425052643
+1652,medium_airport,Cat Lake Airport,51.72719955444336,-91.82440185546876
+1653,small_airport,La Grande-3 Airport,53.5717010498,-76.19640350339998
+1654,medium_airport,Fort Frances Municipal Airport,48.65420150756836,-93.439697265625
+1655,medium_airport,La Grande-4 Airport,53.754699707,-73.67530059810001
+1656,medium_airport,Alert Bay Airport,50.58219909667969,-126.91600036621094
+1657,medium_airport,Sault Ste Marie Airport,46.48500061035156,-84.5093994140625
+1658,medium_airport,Kasabonika Airport,53.52470016479492,-88.6427993774414
+1659,medium_airport,Kangirsuk Airport,60.027198791503906,-69.99919891357422
+1660,medium_airport,Attawapiskat Airport,52.9275016784668,-82.43190002441406
+1661,medium_airport,Liverpool South Shore Regional Airport,44.2303009033,-64.85610198970001
+1662,medium_airport,Winnipeg / St. Andrews Airport,50.0564002991,-97.0325012207
+1663,heliport,Halifax / CFB Shearwater Heliport,44.639702,-63.499401
+1664,medium_airport,Lac Du Bonnet Airport,50.2943992615,-96.01000213620001
+1665,medium_airport,St. Anthony Airport,51.391899108900006,-56.083099365200006
+1666,medium_airport,Tofino / Long Beach Airport,49.079833,-125.77558300000001
+321788,heliport,Nelson/Baylock Estate Heliport,49.54472222,-117.2605555
+1667,small_airport,Banff Airport,51.2073404699,-115.541861057
+1668,medium_airport,Kugaaruk Airport,68.534401,-89.808098
+1669,medium_airport,Baie Comeau Airport,49.13249969482422,-68.20439910888672
+1670,medium_airport,Bella Coola Airport,52.387501,-126.596001
+1671,medium_airport,Uranium City Airport,59.5614013671875,-108.4810028076172
+1672,medium_airport,Bonnyville Airport,54.304199,-110.744003
+1673,medium_airport,CFB Bagotville,48.33060073852539,-70.99639892578125
+1674,medium_airport,Baker Lake Airport,64.29889678960001,-96.077796936
+1675,medium_airport,Campbell River Airport,49.95080184936523,-125.27100372314452
+1676,heliport,CFB Borden,44.271702000000005,-79.912498
+1629,small_airport,Brooks Regional,50.63359832763672,-111.9260025024414
+1677,medium_airport,Tadoule Lake Airport,58.7061,-98.512199
+1678,medium_airport,Brandon Municipal Airport,49.91,-99.951897
+1679,medium_airport,Brochet Airport,57.8894,-101.679001
+1680,medium_airport,Nipawin Airport,53.33250045776367,-104.00800323486328
+1681,medium_airport,Berens River Airport,52.358897999999996,-97.018303
+1682,medium_airport,Calgary / Springbank Airport,51.103099823,-114.374000549
+1683,medium_airport,Lourdes de Blanc Sablon Airport,51.4435997009,-57.1852989197
+1684,medium_airport,Cartwright Airport,53.68280029296875,-57.04190063476562
+1685,medium_airport,Cambridge Bay Airport,69.1081008911,-105.13800048799999
+1686,medium_airport,Cornwall Regional Airport,45.09280014038086,-74.56330108642578
+1687,medium_airport,Nanaimo Airport,49.054970224899996,-123.869862556
+1688,medium_airport,Centralia / James T. Field Memorial Aerodrome,43.285599,-81.508301
+1689,medium_airport,Castlegar/West Kootenay Regional Airport,49.296398162799996,-117.63200378399999
+1690,medium_airport,Miramichi Airport,47.007801,-65.449203
+1364,small_airport,Chatham Kent Airport,42.3064002991,-82.0819015503
+1691,medium_airport,Charlo Airport,47.990798999999996,-66.330299
+1692,medium_airport,Cochrane Airport,49.10559844970703,-81.01360321044922
+1693,medium_airport,Kugluktuk Airport,67.816704,-115.143997
+1694,medium_airport,Blue River Airport,52.11669921875,-119.28299713134766
+1695,medium_airport,Chetwynd Airport,55.68719863891602,-121.6269989013672
+1696,medium_airport,Cross Lake (Charlie Sinclair Memorial) Airport,54.61059951782226,-97.76080322265624
+1697,medium_airport,Chesterfield Inlet Airport,63.346900939899996,-90.7311019897
+1698,small_airport,Coronation Airport,52.0750007629,-111.444999695
+1699,small_airport,Chilliwack Airport,49.1528015137,-121.93900299100001
+1700,heliport,CFB Gagetown Heliport,45.8376780475,-66.4367267489
+1701,medium_airport,Clyde River Airport,70.4860992432,-68.5167007446
+1702,small_airport,Fairmont Hot Springs Airport,50.330299377399996,-115.87300109899999
+1703,medium_airport,Dawson City Airport,64.04309844970703,-139.12800598144528
+1704,medium_airport,Burwash Airport,61.37110137939453,-139.04100036621094
+1705,medium_airport,Princeton Airport,49.468101501499994,-120.51100158700001
+1706,medium_airport,Deer Lake Airport,49.21080017089844,-57.39139938354492
+1707,heliport,Ottawa / Dwyer Hill Heliport,45.130599975600006,-75.9483032227
+1708,small_airport,Dease Lake Airport,58.4221992493,-130.031997681
+1709,medium_airport,Ross River Airport,61.9706001282,-132.42300415
+1710,medium_airport,Dauphin Barker Airport,51.10079956054688,-100.052001953125
+1711,medium_airport,Dolbeau St Felicien Airport,48.778499603271,-72.375
+1712,medium_airport,Nain Airport,56.54919815063477,-61.68030166625977
+1713,medium_airport,Dawson Creek Airport,55.7422981262207,-120.18299865722656
+1714,small_airport,Empress Airport,50.93330001831055,-110.01300048828124
+1715,heliport,Edmonton (CFB Namao) Heliport,53.667933999999995,-113.472548
+1716,medium_airport,Huronia Airport,44.6833000183,-79.9282989502
+1717,large_airport,Edmonton International Airport,53.309700012200004,-113.580001831
+1718,medium_airport,Arviat Airport,61.0942001343,-94.0708007812
+1719,medium_airport,Elliot Lake Municipal Airport,46.351398468,-82.5614013672
+1720,medium_airport,Manitoulin East Municipal Airport,45.84280014038086,-81.85810089111328
+1721,medium_airport,Estevan Airport,49.210300445600005,-102.96600341799999
+1722,medium_airport,Fort Severn Airport,56.01890182495117,-87.67610168457031
+1723,small_airport,Edmundston Airport,47.4906005859375,-68.48190307617189
+1724,medium_airport,Edson Airport,53.5788993835,-116.46499633799999
+1725,small_airport,Eureka Airport,79.9946975708,-85.814201355
+1726,medium_airport,Inuvik Mike Zubko Airport,68.30419921880001,-133.483001709
+1727,medium_airport,Amos/Magny Airport,48.563903,-78.249702
+1728,medium_airport,Fort Albany Airport,52.20140075683594,-81.6968994140625
+1729,medium_airport,Iqaluit Airport,63.756402,-68.555801
+1730,medium_airport,Fredericton Airport,45.86890029907226,-66.53720092773439
+1731,small_airport,Brantford Municipal Airport,43.13140106201172,-80.34249877929688
+1732,medium_airport,Forestville Airport,48.74610137939453,-69.09719848632811
+1733,medium_airport,Fort Hope Airport,51.5619010925293,-87.90779876708984
+1734,medium_airport,La Macaza / Mont-Tremblant International Inc Airport,46.409400939899996,-74.7799987793
+1735,medium_airport,Flin Flon Airport,54.6781005859375,-101.68199920654295
+1736,medium_airport,Fort Resolution Airport,61.1808013916,-113.690002441
+1737,medium_airport,Fort Simpson Airport,61.76020050048828,-121.23699951171876
+1738,medium_airport,Makkovik Airport,55.07690048217773,-59.1864013671875
+1739,medium_airport,Texada Gillies Bay Airport,49.69419860839844,-124.51799774169922
+1740,medium_airport,Goderich Airport,43.766899108900006,-81.7106018066
+1741,medium_airport,Golden Airport,51.299196,-116.98200200000001
+1742,medium_airport,Fort Good Hope Airport,66.24079895019531,-128.6510009765625
+1743,medium_airport,Kingston Norman Rogers Airport,44.22529983520508,-76.5969009399414
+1744,medium_airport,La Grande Rivière Airport,53.62530136108398,-77.7042007446289
+1745,medium_airport,Gimli Industrial Park Airport,50.62810134887695,-97.04329681396484
+1746,medium_airport,Gods Lake Narrows Airport,54.55889892578125,-94.49140167236328
+1747,medium_airport,Gaspé (Michel-Pouliot) Airport,48.775299072299994,-64.4785995483
+1748,medium_airport,Geraldton Greenstone Regional Airport,49.77830123901367,-86.93939971923828
+1749,medium_airport,Îles-de-la-Madeleine Airport,47.42470169067383,-61.778099060058594
+1750,medium_airport,Igloolik Airport,69.3647003174,-81.8161010742
+1751,medium_airport,Havre St Pierre Airport,50.281898498535156,-63.61140060424805
+1752,medium_airport,Kuujjuarapik Airport,55.281898498535156,-77.76529693603516
+1753,medium_airport,Gillam Airport,56.35749816894531,-94.71060180664062
+1754,medium_airport,Grise Fiord Airport,76.4261016846,-82.90920257570002
+1755,medium_airport,Quaqtaq Airport,61.0463981628418,-69.6177978515625
+1756,small_airport,Hudson Bay Airport,52.8166999817,-102.31099700899999
+28453,seaplane_base,Vancouver Harbour Water Aerodrome,49.2943992615,-123.111000061
+1757,medium_airport,Dryden Regional Airport,49.83169937133789,-92.74420166015624
+1758,medium_airport,Hope Airport,49.3683013916,-121.49800109899999
+1759,medium_airport,Hearst René Fontaine Municipal Airport,49.71419906616211,-83.68609619140625
+1760,medium_airport,Nemiscau Airport,51.69110107421875,-76.1355972290039
+1761,medium_airport,Ulukhaktok Holman Airport,70.76280212402344,-117.80599975585938
+1762,medium_airport,Gjoa Haven Airport,68.635597229,-95.8497009277
+1763,medium_airport,John C. Munro Hamilton International Airport,43.173599243199995,-79.93499755859999
+1764,medium_airport,Hornepayne Municipal Airport,49.19309997558594,-84.75890350341797
+1765,medium_airport,Hopedale Airport,55.44829940795898,-60.228599548339844
+1766,medium_airport,Chevery Airport,50.46889877319336,-59.63669967651367
+1436,small_airport,Hanover / Saugeen Municipal Airport,44.158297999999995,-81.062798
+1767,medium_airport,Haines Junction Airport,60.78919982910156,-137.54600524902344
+1768,medium_airport,Montréal / Saint-Hubert Airport,45.5175018311,-73.4169006348
+1769,medium_airport,Hay River / Merlyn Carter Airport,60.8396987915,-115.782997131
+1770,large_airport,Halifax / Stanfield International Airport,44.880798339799995,-63.508598327600005
+1771,medium_airport,Atikokan Municipal Airport,48.7738990784,-91.6386032104
+1772,medium_airport,Digby / Annapolis Regional Airport,44.5458450365,-65.7854247093
+1773,medium_airport,St Augustin Airport,51.2117004395,-58.6582984924
+1774,medium_airport,Ivujivik Airport,62.41730117797852,-77.92530059814453
+1775,medium_airport,Pond Inlet Airport,72.6832962036,-77.9666976929
+1776,medium_airport,Island Lake Airport,53.857200622558594,-94.65360260009766
+1777,small_airport,Jasper Airport,52.9967,-118.058998
+1778,medium_airport,Fort Liard Airport,60.2358016968,-123.46900177
+1779,small_airport,Fort St James Airport,54.39720153808594,-124.26300048828124
+1780,medium_airport,St Jean Airport,45.29439926147461,-73.28109741210938
+1781,small_airport,Fort Providence Airport,61.31940078735352,-117.6060028076172
+1782,small_airport,Denny Island Airport,52.137937,-128.05974799999998
+1783,medium_airport,Stephenville Airport,48.5442008972168,-58.54999923706055
+1784,medium_airport,Kamloops Airport,50.702201843299996,-120.444000244
+1785,small_airport,Collins Bay Airport,58.236099243199995,-103.678001404
+1786,medium_airport,Aklavik/Freddie Carmichael Airport,68.223297,-135.00599
+1787,medium_airport,Waterloo Airport,43.4608001709,-80.3786010742
+1788,medium_airport,Kangiqsujuaq (Wakeham Bay) Airport,61.5886001587,-71.929397583
+1789,medium_airport,Key Lake Airport,57.25609970092773,-105.61799621582031
+1790,medium_airport,Schefferville Airport,54.80530166625977,-66.8052978515625
+1340,small_airport,Kincardine Municipal Airport,44.201401000000004,-81.606697
+1791,medium_airport,Akulivik Airport,60.81859970092773,-78.14859771728516
+1792,medium_airport,Waskaganish Airport,51.47330093383789,-78.75830078125
+1793,medium_airport,Kirkland Lake Airport,48.21030044555664,-79.98139953613281
+1794,medium_airport,Kindersley Airport,51.5175018311,-109.180999756
+1795,medium_airport,Buttonville Municipal Airport,43.86220169067383,-79.37000274658203
+1796,medium_airport,Aupaluk Airport,59.29669952392578,-69.59970092773439
+1797,small_airport,Lac La Biche Airport,54.7703018188,-112.03199768100001
+1798,medium_airport,Kimmirut Airport,62.8499984741,-69.88330078119999
+1799,medium_airport,Chapleau Airport,47.81999969482422,-83.3467025756836
+1800,medium_airport,Lansdowne House Airport,52.19559860229492,-87.93419647216797
+639,small_airport,Lillooet Airport,50.674702,-121.893997
+1801,medium_airport,Meadow Lake Airport,54.12530136108398,-108.52300262451172
+1802,medium_airport,Lutselk'e Airport,62.418303,-110.681998
+1803,medium_airport,Lloydminster Airport,53.30920028686523,-110.072998046875
+1804,small_airport,La Tuque Airport,47.4096984863,-72.78890228270001
+1805,medium_airport,Leaf Rapids Airport,56.51330184936523,-99.98529815673828
+1293,small_airport,Barrie-Orillia (Lake Simcoe Regional Airport),44.485298156700004,-79.55560302730001
+1806,medium_airport,Alert Airport,82.51779937740001,-62.280601501499994
+1807,medium_airport,Kangiqsualujjuaq (Georges River) Airport,58.71139907836914,-65.9927978515625
+1808,medium_airport,Kelowna International Airport,49.9561004639,-119.377998352
+1809,medium_airport,Mayo Airport,63.61640167236328,-135.86799621582028
+1810,medium_airport,Matane Airport,48.85689926147461,-67.45330047607422
+1811,medium_airport,Manitouwadge Airport,49.083900451660156,-85.86060333251953
+1812,medium_airport,Mary's Harbour Airport,52.30279922485352,-55.84719848632813
+1813,medium_airport,Moose Jaw Air Vice Marshal C. M. McEwen Airport,50.330299377441406,-105.55899810791016
+1814,medium_airport,Charlevoix Airport,47.59749984741211,-70.22389984130861
+1815,medium_airport,Fort McMurray Airport,56.653301238999994,-111.22200012200001
+1816,medium_airport,Moosonee Airport,51.291099548339844,-80.60780334472656
+1817,medium_airport,Chapais Airport,49.77190017700195,-74.5280990600586
+1818,medium_airport,Umiujaq Airport,56.53609848022461,-76.51830291748047
+1819,small_airport,Maniwaki Airport,46.272800445600005,-75.9906005859
+1820,medium_airport,Montreal International (Mirabel) Airport,45.679501,-74.038696
+1821,small_airport,Ear Falls Airport,50.71780014038086,-93.38359832763672
+320826,seaplane_base,Gravenhurst/Muskoka Bay Seaplane Base,44.9438,-79.4045
+1822,medium_airport,Natashquan Airport,50.18999862670898,-61.78919982910156
+1823,medium_airport,Wemindji Airport,53.01060104370117,-78.83110046386719
+1824,medium_airport,Ottawa / Gatineau Airport,45.5217018127,-75.5635986328
+1825,medium_airport,Norway House Airport,53.95830154418945,-97.84420013427734
+1826,small_airport,Hudsons Hope Airport,56.0355987549,-121.975997925
+1827,small_airport,Langley Airport,49.10079956049999,-122.630996704
+1828,medium_airport,Points North Landing Airport,58.27669906616211,-104.08200073242188
+1829,medium_airport,Matagami Airport,49.76169967651367,-77.80280303955078
+1830,medium_airport,Nejanilini Lake Airport,59.4874992371,-97.7802963257
+1831,small_airport,Fort Mackay / Horizon Airport,57.3816986084,-111.70099639899999
+1832,medium_airport,Ekati Airport,64.6988983154,-110.614997864
+1833,medium_airport,Old Crow Airport,67.57060241699219,-139.83900451660156
+1834,medium_airport,CFB Cold Lake,54.40499877929688,-110.27899932861328
+1835,medium_airport,Oxford House Airport,54.93330001831055,-95.27890014648438
+1836,medium_airport,High Level Airport,58.62139892578125,-117.16500091552734
+1837,medium_airport,Toronto/Oshawa Executive Airport,43.922798,-78.894997
+1838,medium_airport,Rainbow Lake Airport,58.49140167236328,-119.40799713134766
+1839,medium_airport,Owen Sound / Billy Bishop Regional Airport,44.5903015137,-80.8375015259
+1840,large_airport,Ottawa Macdonald-Cartier International Airport,45.3224983215332,-75.66919708251953
+1841,heliport,C J.H.L.(Joe) Lecomte) Heliport,46.9021961734,-71.50219917300001
+1630,heliport,Halifax (Windsor Park) Heliport,44.657422068900004,-63.6117947102
+1842,medium_airport,Prince Albert Glass Field,53.214199066199996,-105.672996521
+1843,medium_airport,Paulatuk (Nora Aliqatchialuk Ruben) Airport,69.3608381154,-124.075469971
+1844,medium_airport,Port Hawkesbury Airport,45.6567001343,-61.3680992126
+1845,medium_airport,Peace River Airport,56.226898,-117.446999
+1846,medium_airport,Southport Airport,49.903099,-98.27381700000001
+1847,medium_airport,Inukjuak Airport,58.471900939941406,-78.07689666748047
+1848,small_airport,Pitt Meadows Airport,49.21609878540039,-122.70999908447266
+1849,medium_airport,Pickle Lake Airport,51.4463996887207,-90.21420288085938
+1850,medium_airport,Pikangikum Airport,51.81969833374024,-93.97329711914062
+1851,medium_airport,Port Menier Airport,49.83639907836914,-64.28859710693361
+1852,medium_airport,Peawanuck Airport,54.98809814453125,-85.44329833984375
+1853,small_airport,Parent Airport,47.931901,-74.608103
+1854,medium_airport,Peterborough Airport,44.22999954223633,-78.36329650878906
+1855,medium_airport,Prince Rupert Airport,54.2860984802,-130.445007324
+1856,small_airport,Pemberton Regional Airport,50.302502000000004,-122.737999
+1857,small_airport,Pelee Island Airport,41.78039932250977,-82.6780014038086
+1858,small_airport,Puntzi Mountain Airport,52.11280059814453,-124.1449966430664
+1859,medium_airport,Powell River Airport,49.83420181274414,-124.5
+1860,medium_airport,Puvirnituq Airport,60.05059814453125,-77.28690338134766
+1861,medium_airport,Fort Chipewyan Airport,58.7672004699707,-111.11699676513672
+1862,small_airport,Burns Lake Airport,54.3763999939,-125.95099639899999
+1863,medium_airport,Muskoka Airport,44.974700927734375,-79.30329895019531
+1864,medium_airport,Quebec Jean Lesage International Airport,46.7911,-71.393303
+1865,medium_airport,The Pas Airport,53.97140121459961,-101.09100341796876
+1866,medium_airport,Red Deer Regional Airport,52.18220138549805,-113.8939971923828
+1867,medium_airport,Windsor Airport,42.27560043334961,-82.95559692382812
+1868,medium_airport,Watson Lake Airport,60.11640167236328,-128.82200622558594
+1869,medium_airport,Yarmouth Airport,43.82690048217773,-66.08809661865234
+1870,medium_airport,Kenora Airport,49.78829956054688,-94.36309814453124
+1871,medium_airport,Lethbridge County Airport,49.6302986145,-112.80000305200001
+1872,medium_airport,Greater Moncton International Airport,46.11220169067383,-64.67859649658203
+1873,medium_airport,Nakina Airport,50.18280029296875,-86.69640350341797
+1874,medium_airport,Comox Airport,49.71080017089844,-124.88700103759766
+1875,medium_airport,Regina International Airport,50.43190002441406,-104.66600036621094
+1876,medium_airport,St Thomas Municipal Airport,42.77000045776367,-81.11080169677734
+1877,medium_airport,Thunder Bay Airport,48.37189865112305,-89.32389831542969
+1878,medium_airport,Grande Prairie Airport,55.1796989441,-118.885002136
+1879,medium_airport,Yorkton Municipal Airport,51.26470184326172,-102.46199798583984
+1880,medium_airport,North Battleford Airport,52.76919937133789,-108.24400329589844
+1881,medium_airport,Gander International Airport,48.9369010925293,-54.56809997558594
+1882,medium_airport,Sydney / J.A. Douglas McCurdy Airport,46.1614,-60.047798
+1883,medium_airport,Quesnel Airport,53.026100158691406,-122.51000213623048
+1884,medium_airport,Rae Lakes Airport,64.11609649658203,-117.30999755859376
+1885,medium_airport,Resolute Bay Airport,74.71690368649999,-94.9693984985
+1886,small_airport,Chicoutimi St Honoré Airport,48.52080154418945,-71.05059814453125
+1887,medium_airport,Rivière-du-Loup Airport,47.76440048217773,-69.58470153808594
+1888,medium_airport,Roberval Airport,48.52000045776367,-72.2656021118164
+1889,medium_airport,Red Lake Airport,51.06689834594727,-93.79309844970705
+1890,small_airport,Rocky Mountain House Airport,52.4296989441,-114.903999329
+1891,medium_airport,Ottawa / Rockcliffe Airport,45.460300445600005,-75.64610290530001
+1892,medium_airport,Ottawa / Carp Airport,45.3191986084,-76.0222015381
+1893,medium_airport,Trois-Rivières Airport,46.35279846191406,-72.67939758300781
+1894,medium_airport,Red Sucker Lake Airport,54.167198181152344,-93.55719757080078
+1895,medium_airport,Rankin Inlet Airport,62.811401367200006,-92.1157989502
+1896,medium_airport,Revelstoke Airport,50.9667015076,-118.18299865700001
+320574,heliport,Sydenham District Hospital Heliport,42.5992,-82.3668
+1323,small_airport,Stratford Municipal Airport,43.415599823,-80.93440246579998
+1897,medium_airport,Sudbury Airport,46.625,-80.79889678955078
+1898,medium_airport,Sherbrooke Airport,45.4385986328125,-71.69139862060547
+1899,heliport,Suffield Heliport,50.2667007446289,-111.18299865722656
+1900,small_airport,Squamish Airport,49.7817001343,-123.16200256299999
+1901,medium_airport,Stony Rapids Airport,59.25030136108398,-105.84100341796876
+1902,medium_airport,St Georges Airport,46.096401,-70.714699
+1903,medium_airport,Smiths Falls-Montague (Russ Beach) Airport,44.94580078125,-75.94059753417969
+1904,medium_airport,Saint John Airport,45.31610107421875,-65.89029693603516
+1905,medium_airport,Sanikiluaq Airport,56.537799835200005,-79.2466964722
+1906,medium_airport,St Leonard Airport,47.15750122070313,-67.83470153808594
+1907,medium_airport,Fort Smith Airport,60.020301818847656,-111.96199798583984
+1908,medium_airport,Niagara District Airport,43.19169998168945,-79.17169952392578
+1909,medium_airport,Marathon Airport,48.75529861450195,-86.34439849853516
+1910,small_airport,Atlin Airport,59.576698303223,-133.66900634766
+1912,medium_airport,St. Theresa Point Airport,53.84560012817383,-94.85189819335938
+1913,medium_airport,Summerside Airport,46.44060134887695,-63.83359909057617
+1914,small_airport,Sparwood Elk Valley Airport,49.83330154418945,-114.88300323486328
+1915,medium_airport,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,71.9938964844,-125.24299621600001
+1916,small_airport,Ste Anne Des Monts Airport,49.12030029296875,-66.52919769287111
+1917,medium_airport,Pembroke Airport,45.86439895629883,-77.25170135498047
+1918,medium_airport,Cape Dorset Airport,64.2300033569,-76.5267028809
+1919,medium_airport,Alma Airport,48.50889968869999,-71.64189910889998
+1920,medium_airport,Thompson Airport,55.80110168457031,-97.86419677734376
+1921,medium_airport,Big Trout Lake Airport,53.81779861450195,-89.89689636230469
+1922,small_airport,Trenton Airport,45.611903999999996,-62.621102
+1923,medium_airport,Tasiujaq Airport,58.66780090332031,-69.95580291748047
+1924,medium_airport,CFB Trenton,44.118900299072266,-77.5280990600586
+1925,medium_airport,Timmins/Victor M. Power,48.569698333699996,-81.376701355
+1926,medium_airport,Billy Bishop Toronto City Centre Airport,43.627499,-79.396202
+1927,medium_airport,Tuktoyaktuk Airport,69.43329620361328,-133.0260009765625
+1928,large_airport,Montreal / Pierre Elliott Trudeau International Airport,45.4706001282,-73.7407989502
+1929,medium_airport,Repulse Bay Airport,66.5214004517,-86.22470092770003
+1930,medium_airport,Hall Beach Airport,68.77610015869999,-81.2425
+1931,medium_airport,Rouyn Noranda Airport,48.20610046386719,-78.83560180664062
+1932,medium_airport,Bonaventure Airport,48.07109832763672,-65.46029663085939
+1933,medium_airport,La Ronge Airport,55.1514015198,-105.262001038
+1934,medium_airport,Virden/R.J. (Bob) Andrew Field Regional Aerodrome,49.878299713100006,-100.91799926799999
+1935,small_airport,Vermilion Airport,53.355800628699996,-110.823997498
+1936,medium_airport,Vernon Airport,50.24810028076172,-119.33100128173828
+314953,small_airport,Tommy Kochon Airport,67.02,-126.126
+1937,medium_airport,Qikiqtarjuaq Airport,67.5457992554,-64.03140258789999
+1938,medium_airport,Val-d'Or Airport,48.0532989502,-77.7827987671
+1939,medium_airport,Kuujjuaq Airport,58.09609985351562,-68.42690277099611
+1940,medium_airport,Norman Wells Airport,65.28160095214844,-126.7979965209961
+1941,large_airport,Vancouver International Airport,49.193901061999995,-123.183998108
+1942,small_airport,Buffalo Narrows Airport,55.8418998718,-108.41799926799999
+1943,medium_airport,Wiarton Airport,44.7458,-81.107201
+1944,medium_airport,Deer Lake Airport,52.655799865722656,-94.0614013671875
+1945,medium_airport,Petawawa Airport,45.95220184326172,-77.31919860839844
+1946,large_airport,Winnipeg / James Armstrong Richardson International Airport,49.909999847399995,-97.2398986816
+1947,seaplane_base,Victoria Harbour Seaplane Base,48.4249858939,-123.38886737799999
+1948,medium_airport,Déline Airport,65.21109771728516,-123.43599700927734
+1949,medium_airport,Wabush Airport,52.92190170288086,-66.86440277099611
+1950,medium_airport,Williams Lake Airport,52.1831016541,-122.054000854
+1951,small_airport,Athabasca Airport,54.74309921264648,-113.20500183105469
+1952,medium_airport,Webequie Airport,52.9593933975,-87.37486839290001
+1953,small_airport,Wainwright Airport,52.795799255371094,-110.85700225830078
+1954,medium_airport,Wrigley Airport,63.20940017700195,-123.43699645996094
+1955,medium_airport,Cranbrook/Canadian Rockies International Airport,49.610801696777,-115.78199768066001
+1957,medium_airport,Saskatoon John G. Diefenbaker International Airport,52.170799255371094,-106.6999969482422
+1958,medium_airport,Medicine Hat Airport,50.01890182495117,-110.72100067138672
+1959,medium_airport,Fort St John Airport,56.23809814453125,-120.73999786376952
+1960,medium_airport,Rimouski Airport,48.47809982299805,-68.49690246582031
+1961,medium_airport,Sioux Lookout Airport,50.11389923095703,-91.9052963256836
+1962,medium_airport,Whale Cove Airport,62.24000167849999,-92.5980987549
+1963,medium_airport,Pangnirtung Airport,66.1449966431,-65.71360015869999
+1964,medium_airport,Beaver Creek Airport,62.4103012084961,-140.86700439453125
+1965,medium_airport,Earlton (Timiskaming Regional) Airport,47.6974006546,-79.84734535220001
+1966,medium_airport,Prince George Airport,53.8894004822,-122.679000854
+1967,medium_airport,Northwest Regional Airport Terrace-Kitimat,54.468498,-128.576009
+1968,medium_airport,London Airport,43.035599,-81.1539
+1969,medium_airport,Abbotsford Airport,49.02529907226562,-122.36100006103516
+1970,medium_airport,Whitehorse / Erik Nielsen International Airport,60.709598541300004,-135.067001343
+1971,medium_airport,Wawa Airport,47.96670150756836,-84.78669738769531
+1972,medium_airport,North Bay Airport,46.36360168457031,-79.42279815673828
+1973,large_airport,Calgary International Airport,51.113899231000005,-114.019996643
+1974,medium_airport,Smithers Airport,54.82469940185547,-127.18299865722656
+1975,medium_airport,Fort Nelson Airport,58.8363990784,-122.59700012200001
+1976,medium_airport,Penticton Airport,49.46310043334961,-119.60199737548828
+1977,medium_airport,Charlottetown Airport,46.290000915527344,-63.12110137939453
+1978,medium_airport,Taloyoak Airport,69.5466995239,-93.57669830319999
+1979,large_airport,Victoria International Airport,48.646900177,-123.426002502
+1980,medium_airport,Lynn Lake Airport,56.86389923095703,-101.07599639892578
+1981,small_airport,Cowley Airport,49.6363983154,-114.09400177
+1982,medium_airport,Swift Current Airport,50.291900634799994,-107.691001892
+1983,small_airport,Wynyard / W.B. Needham Field,51.8098883726,-104.169788361
+1984,medium_airport,Churchill Airport,58.73920059204102,-94.06500244140624
+1985,medium_airport,Goose Bay Airport,53.3191986084,-60.425800323500006
+1986,large_airport,St. John's International Airport,47.618598938000005,-52.751899719200004
+1987,medium_airport,Kapuskasing Airport,49.41389846801758,-82.46749877929688
+1988,medium_airport,Armstrong Airport,50.29029846191406,-88.90969848632812
+1989,medium_airport,Mont Joli Airport,48.60860061645508,-68.20809936523439
+1990,large_airport,Lester B. Pearson International Airport,43.6772003174,-79.63059997559999
+1991,medium_airport,Downsview Airport,43.74250030517578,-79.4655990600586
+1992,medium_airport,Gore Bay Manitoulin Airport,45.88529968261719,-82.56780242919922
+1993,medium_airport,Yellowknife Airport,62.46279907226562,-114.44000244140624
+1994,medium_airport,Salluit Airport,62.17940139770508,-75.66719818115234
+1995,medium_airport,Slave Lake Airport,55.293098449700004,-114.777000427
+1996,medium_airport,Sandspit Airport,53.25429916379999,-131.813995361
+1997,medium_airport,Chris Hadfield Airport,42.9994010925293,-82.30889892578125
+1998,medium_airport,Coral Harbour Airport,64.1932983398,-83.3593978882
+1999,medium_airport,Port Hardy Airport,50.68059921264648,-127.36699676513672
+2000,medium_airport,Whitecourt Airport,54.14390182495117,-115.78700256347656
+2001,medium_airport,Sept-Îles Airport,50.22330093383789,-66.26560211181639
+2002,medium_airport,Teslin Airport,60.17279815673828,-132.74299621582028
+2003,medium_airport,CFB Greenwood,44.98440170288086,-64.91690063476561
+2004,medium_airport,Mackenzie Airport,55.304402,-123.13200400000001
+2005,medium_airport,York Landing Airport,56.08940124511719,-96.08920288085938
+2006,medium_airport,Shuswap Regional Airport,50.682802,-119.228996
+2007,small_airport,Burlington Executive,43.4414531515,-79.850102663
+2008,medium_airport,Boundary Bay Airport,49.074199676499994,-123.012001038
+2009,medium_airport,Ilford Airport,56.061401367200006,-95.613899231
+2010,medium_airport,Bathurst Airport,47.629699707,-65.738899231
+2011,medium_airport,Bromont (Roland Desourdy) Airport,45.2907981873,-72.74140167239999
+2012,medium_airport,Kelsey Airport,56.0374984741,-96.5096969604
+2013,medium_airport,Eastmain River Airport,52.22639846801758,-78.52249908447266
+2014,medium_airport,Faro Airport,62.20750045776367,-133.37600708007812
+2015,medium_airport,Fond-Du-Lac Airport,59.33440017700195,-107.18199920654295
+2016,medium_airport,Pukatawagan Airport,55.7491989136,-101.26599884
+2017,medium_airport,Fort Mcpherson Airport,67.40750122070311,-134.86099243164062
+2018,medium_airport,Tulita Airport,64.909697,-125.572998
+2019,medium_airport,Grand Forks Airport,49.01559829711914,-118.43099975585938
+2020,medium_airport,Gods River Airport,54.839698791503906,-94.07859802246094
+2021,medium_airport,Little Grand Rapids Airport,52.04560089111328,-95.4657974243164
+2022,small_airport,High Prairie Airport,55.3936004639,-116.474998474
+2023,medium_airport,Jenpeg Airport,54.51890182495117,-98.0460968017578
+2024,medium_airport,Swan River Airport,52.12060165405274,-101.23600006103516
+2025,medium_airport,Kashechewan Airport,52.28250122070313,-81.67780303955078
+2026,medium_airport,Thicket Portage Airport,55.31890106201172,-97.70780181884766
+2027,medium_airport,Muskrat Dam Airport,53.44139862060547,-91.76280212402344
+2028,small_airport,South Cariboo Region / 108 Mile Airport,51.736099243199995,-121.333000183
+2029,medium_airport,Pikwitonei Airport,55.58890151977539,-97.16419982910156
+2030,medium_airport,Masset Airport,54.02750015258789,-132.125
+2031,medium_airport,Poplar River Airport,52.9965258788,-97.27419376370001
+2032,small_airport,Nelson Airport,49.494201660200005,-117.301002502
+2033,medium_airport,Sachigo Lake Airport,53.8911018371582,-92.19640350341795
+2034,medium_airport,Pincher Creek Airport,49.520599365200006,-113.997001648
+2035,small_airport,Pinehouse Lake Airport,55.528099060100004,-106.58200073200001
+2036,medium_airport,Round Lake (Weagamow Lake) Airport,52.94359970092773,-91.31279754638672
+2037,medium_airport,Sandy Lake Airport,53.06420135498047,-93.34439849853516
+2038,medium_airport,South Indian Lake Airport,56.7928009033,-98.9072036743
+2039,medium_airport,Stewart Airport,55.935410448,-129.982434511
+28386,seaplane_base,Prince Rupert/Seal Cove Seaplane Base,54.33330154418945,-130.28300476074222
+2040,small_airport,Bloodvein River Airport,51.784568,-96.692305
+2041,medium_airport,Shamattawa Airport,55.8656005859375,-92.0813980102539
+2042,medium_airport,Ignace Municipal Airport,49.4296989440918,-91.7177963256836
+2043,small_airport,Churchill Falls Airport,53.5619010925293,-64.10639953613281
+2044,small_airport,Edmonton / Villeneuve Airport,53.667499542200005,-113.85399627700001
+2045,medium_airport,Lac Brochet Airport,58.617500305200004,-101.46900177
+2046,medium_airport,Wollaston Lake Airport,58.10689926147461,-103.1719970703125
+308082,small_airport,Black Diamond/Flying R Ranch Airport,50.645,-114.20299999999999
+315125,seaplane_base,Silva Bay Seaplane Base,49.15,-123.696
+310878,small_airport,Campbellville (Bellshill Airpark),43.431667,-80.025334
+310879,heliport,Almonte (General Hospital),45.229975763999995,-76.1886998972
+313332,small_airport,Hope Bay Aerodrome,68.156,-106.618
+317272,seaplane_base,Blubber Bay Seaplane Base,49.793958,-124.62106399999999
+317734,seaplane_base,Lyall Harbour Seaplane Base,48.7952,-123.1816
+317735,seaplane_base,Maple Bay Seaplane Base,48.8167,-123.6084
+308918,seaplane_base,Bull Harbour Water Aerodrome,50.9179,-127.9372
+308917,seaplane_base,Baie-Johan-Beetz Water Aerodrome,50.2838,-62.8063
+316461,seaplane_base,Telegraph Harbour Seaplane Base,48.97,-123.664
+315831,seaplane_base,Cortes Bay Water Aerodrome,50.0630001,-124.930002
+317733,seaplane_base,Gorge Harbour Seaplane Base,50.0994,-125.0235
+315834,seaplane_base,Greenway Sound Seaplane Base,50.839,-126.775
+308529,seaplane_base,Klemtu Water Aerodrome,52.60763454520001,-128.521757126
+308530,small_airport,Mingan Airport,50.2869,-64.1528
+326290,large_airport,International Airport of Mirabel - Academy of Aeronautics of Canada Flying School training,0.0,0.0
+301307,small_airport,Opinaca Aerodrome,52.221944,-76.611944
+317768,seaplane_base,April Point Seaplane Base,50.065,-125.235
+308549,seaplane_base,Refuge Cove Seaplane Base,50.1234,-124.84299999999999
+317769,small_airport,Dean River Airport,52.82371,-126.96495700000001
