@@ -1,0 +1,141 @@
+/* Custom styles */
+
+header {
+  overflow: hidden;
+  background-color: #111 ;
+  padding: 0.5em 0;
+}
+
+header {
+  border: 1px solid #333;
+  background: #111;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 -1px 1px black;
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#3c3c3c),to(#111));
+  background-image: -webkit-linear-gradient(#3c3c3c,#111);
+  background-image: -moz-linear-gradient(#3c3c3c,#111);
+  background-image: -ms-linear-gradient(#3c3c3c,#111);
+  background-image: -o-linear-gradient(#3c3c3c,#111);
+  background-image: linear-gradient(#3c3c3c,#111);
+}
+
+.logo > img {
+  width: 100px;
+  padding-left: 0.5em;
+}
+
+#mapcanvas {
+  height: 500px;
+}
+
+/* Google Map Control Style overrides ----------------- */
+.gmnoprint.gm-style-mtc {
+  width: 100px !important;
+  right: 0 !important;
+  bottom: 0px !important;;
+ }
+.gmnoprint .gmnoprint {
+  top: 45px !important;
+ }
+
+ .gm-svpc {
+    left: -100px !important;
+    top: 130px !important;
+    height: 35px !important;
+  }
+
+/* GMaps Custom Control styles */
+
+.back-button,
+.help-button,
+.geolocate {
+  position: absolute;
+}
+
+.geolocate {
+  right: 0.5em;
+  top: 5px;
+  padding-right: .5em;
+ }
+  .geolocate > .btn-floating {
+    background-color: #0B4974;
+  }
+.back-button > .btn-small,
+.help-button > .btn-small {
+  background-color: #0B4974;
+ }
+
+.help-button {
+  right: 0;
+  padding: 0.5em;
+ }
+.back-button {
+  left: 0;
+  padding: 0.5em;
+ }
+  .back-button > .btn-small {
+    padding: 0 .25em;
+   }
+#search-bar {
+  background-color: #fff;
+  color: #000;
+  width: 200px;
+  padding: 0 1em;
+ }
+
+ /* Media Queries */
+@media only screen and (min-width: 550px) {
+  #search-bar {
+    width: 400px;
+   }
+}
+
+@media only screen and (min-width: 768px) {
+  #search-bar {
+    width: 550px;
+   }
+}
+
+/* Modal Styles -------- */
+.modal-header {
+  font-size: 16px;
+  color: #0B4974;
+  font-weight: 400;
+}
+.modal-content {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.modal-content > .title {
+  color: #0B4974;
+  font-size: 15px;
+  font-style: italic;
+ }
+
+#close-button {
+  float: right;
+}
+.iconadd{
+  display:inline-block ;
+  margin-top: 10px;
+}
+.iconremove{
+  display:none !important;
+  margin-top: 10px;
+}
+
+li.active .collapsible-header .material-icons.iconadd{
+  display: none;
+}
+
+li.active .collapsible-header .material-icons.iconremove{
+  display: inline-block !important;
+}
+.no-fly-icon {
+  padding-left: 1em;
+ }
+
+
+
