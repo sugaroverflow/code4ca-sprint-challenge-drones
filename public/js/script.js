@@ -89,7 +89,7 @@ function drawCircleOverlays(feature) {
   google.maps.event.addListener(circle, 'click', function(ev){
     addInfoWindowToCircle(feature, circle);
     var airport_name = feature.getProperty('airport_name');
-    ga('send', 'event', 'Airspace Name', 'Click', airport_name);
+    ga('send', 'event', 'Clicks', 'Airspace Name', airport_name);
 
   });
 }
@@ -165,7 +165,7 @@ function searchAutocomplete() {
         position: place.geometry.location,
       });
 
-      ga('send', 'event', 'Place Name', 'Click', 'Place', place.name);
+      ga('send', 'event', 'Clicks', 'Place Name', place.name);
       markers.push(marker);
       bounds.extend(place.geometry.location);
     }
