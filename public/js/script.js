@@ -251,7 +251,7 @@ function geolocation(event) {
       });
 
       map.map.setCenter(pos);
-      map.setZoom(10);
+      map.setZoom(13);
 
     }, function() {
       handleLocationError(true, infoWindow, map.map.getCenter());
