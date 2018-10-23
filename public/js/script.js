@@ -10,6 +10,8 @@
 var map;
 var infoWindow;
 
+ga('create', 'UA-127831721-1', 'auto');
+
 
 function initializeMap() {
 	// Create the map using gmaps
@@ -89,7 +91,7 @@ function drawCircleOverlays(feature) {
   google.maps.event.addListener(circle, 'click', function(ev){
     addInfoWindowToCircle(feature, circle);
     var airport_name = feature.getProperty('airport_name');
-    ga('send', 'event', 'Airspace Click', 'click', airport_name);
+    ga('send', 'event', 'Airspace Click', 'Click', 'Airport Name', airport_name);
   });
 }
 
@@ -164,7 +166,8 @@ function searchAutocomplete() {
         position: place.geometry.location,
       });
 
-      ga('send', 'event', 'Place Search', 'click', place.name);
+      ga('send', 'event', 'Airspace Click', 'Click', 'Place Name', place.name);
+
       markers.push(marker);
       bounds.extend(place.geometry.location);
     }
