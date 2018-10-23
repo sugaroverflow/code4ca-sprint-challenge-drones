@@ -1,17 +1,26 @@
 {
-  "name": "c4c-drones-team-sprint",
+  "name": "uav-sprint-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "App for C4C Sprint challenge",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "express": "^4.16.4"
+  "dependencies": {
+    "express": "^4.13.3"
   },
   "engines": {
-      "node": "4.7"
-  }
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sugaroverflow/code4ca-sprint-challenge-drones"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "@sugaroverflow",
+  "license": "MIT"
 }
